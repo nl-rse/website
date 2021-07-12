@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col">
-    <section class="py-20 flex-grow container mx-auto px-4">
+    <section class="py-20 container mx-auto px-4 flex-1">
       <div class="max-w-2xl mx-auto">
         <nuxt-content :document="content" class="prose" />
       </div>

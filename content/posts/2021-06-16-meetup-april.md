@@ -1,5 +1,4 @@
 ---
-layout: post
 image: '/img/shane-aldendorff-mQHEgroKw2k-unsplash.jpg'
 title: "A demo in the life of an RSE"
 date: 2021-06-16

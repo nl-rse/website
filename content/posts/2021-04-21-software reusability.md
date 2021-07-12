@@ -64,9 +64,9 @@ We had initially planned to hold the Reusabilithon with a relatively large group
 
 Two eScience Center RSEs worked together via Teams for one afternoon. They applied this list to 3 different pieces of software ([sv-callers](https://www.research-software.nl/software/sv-callers), [muscle3](https://github.com/multiscale/muscle3) & [iScore](https://github.com/DeepRank/iScore)) developed in-house. The following are the observations by the engineers in this small reusabilaton:
 
-> “It took us about 1 hour per use case working together, and most time was spent getting the example to work. Independently from how each tool did, we found that the minimum requirements list is fit for purpose – no points in the list felt to us as if they should be left out; we also did not feel that there was something missing in this list.
+> It took us about 1 hour per use case working together, and most time was spent getting the example to work. Independently from how each tool did, we found that the minimum requirements list is fit for purpose – no points in the list felt to us as if they should be left out; we also did not feel that there was something missing in this list.
 >
-> One point which we did find challenging: it is not easy to determine at a glance if there are any conflicts with the dependencies of the software. It could be helpful to have a check or remark that dependencies have compatible licenses”
+> One point which we did find challenging: it is not easy to determine at a glance if there are any conflicts with the dependencies of the software. It could be helpful to have a check or remark that dependencies have compatible licenses
 
 This experience describes an encouraging first experiment. However, it was conducted on a very small scale, and by engineers who were vaguely familiar with the software in question.
 

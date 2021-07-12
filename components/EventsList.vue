@@ -25,7 +25,7 @@
           </div>
         </nuxt-link>
         <div class="flex justify-end">
-          <nuxt-link class="btn btn-outline btn-sm hover:bg-primary" to="blog">
+          <nuxt-link class="btn btn-outline btn-sm hover:bg-primary" to="event">
             More events
           </nuxt-link>
         </div>
