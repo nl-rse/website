@@ -1,5 +1,5 @@
 <template>
-  <div v-if="!!posts" class="py-10 bg-gray-50 radius-for-skewed">
+  <div v-if="!!posts" class="py-10 ">
     <div class="container mx-auto px-4">
       <div class="mb-6 flex flex-wrap justify-center">
         <div class="mb-16 w-full text-center">
@@ -10,7 +10,7 @@
         </div>
         <div class="flex flex-wrap -mx-3 mb-16">
           <div class="flex flex-wrap w-full">
-            <nuxt-link v-for="index in 4" :key="index" :to="posts[index +1].path" class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3">
+            <nuxt-link v-for="(n, index) in 4" :key="index" :to="posts[index].path" class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3">
               <div class="rounded overflow-hidden transition shadow hover:shadow-lg">
                 <img class="w-full lg:h-48 rounded-t object-cover" :src="posts[index].image" :alt="posts[index].title">
                 <div class="p-6 rounded-b bg-white">

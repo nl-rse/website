@@ -112,12 +112,6 @@ export default {
   },
   async fetch () {
     this.menu = await this.$content('menu-items').fetch()
-    // this.menu = await this.$content('pages').fetch()
-  },
-  methods: {
-    hello () {
-      console.log('🎹')
-    }
   }
 }
 </script>

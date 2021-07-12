@@ -1,7 +1,9 @@
 <template>
-  <div class="flex flex-col ">
-    <section class=" py-20 container mx-auto px-4 h-full ">
-      <nuxt-content :document="content" class="prose max-w-2xl mx-auto " />
+  <div class="flex flex-col">
+    <section class="py-20 flex-grow container mx-auto px-4">
+      <div class="max-w-2xl mx-auto">
+        <nuxt-content :document="content" class="prose" />
+      </div>
       <div v-if="!!error" class="mt-60 p-20 bg-secondary prose">
         <h3>
           Page not found
@@ -11,7 +13,7 @@
         </h3>
       </div>
     </section>
-    <main-footer class="" />
+    <main-footer class="flex-none" />
   </div>
 </template>
 
@@ -25,9 +27,9 @@ export default {
     }
   },
   async fetch () {
-    const { page } = this.$route.params
+    const { event } = this.$route.params
     try {
-      this.content = await this.$content('pages/' + page).fetch()
+      this.content = await this.$content('events/' + event).fetch()
     } catch {
       this.error = true
     }

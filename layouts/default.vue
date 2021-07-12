@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-col  bg-base-200">
+  <div class="flex flex-col h-screen ">
     <main-header />
-    <Nuxt class=" p-6" />
+    <Nuxt class="bg-base-200 flex-1" />
   </div>
 </template>

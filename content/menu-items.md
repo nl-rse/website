@@ -13,6 +13,6 @@ items:
     path: /pages/meetups
 
   - title: Core Team
-    path: /pages/core-team
+    path: /core-team
 ---
 
