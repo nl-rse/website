@@ -2,6 +2,7 @@
 layout: post
 title: First Meetup of the Netherlands Research Software Engineer Community - register Now!
 date: 2018-06-29
+image: https://www.expatica.com/app/uploads/sites/3/2014/05/utrecht.jpg
 ---
 
 **When: 20 September 2018**

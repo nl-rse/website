@@ -10,20 +10,23 @@
         <li
           v-for="article of articles"
           :key="article.slug"
-          class="xs:w-full md:w-1/2 px-2 xs:mb-6 md:mb-12 article-card"
+          class="xs:w-full md:w-1/4 px-2 xs:mb-6 md:mb-12 article-card"
         >
           <NuxtLink
-            :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-            class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md"
+            :to="'/posts/'+article.slug"
+            class="flex flex-col rounded-lg transition-shadow duration-150 ease-in-out shadow-xl hover:shadow-2xl"
           >
             <img
               v-if="article.image"
-              class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover"
+              class="h-32 w-full object-cover rounded-t-lg"
               :src="article.image"
             >
             <div
               class="p-6 flex flex-col justify-between xxlmin:w-1/2 xxlmax:w-full"
             >
+              <p class="text-sm text-gray-400 mb-1">
+                {{ formatDate(article.date) }}
+              </p>
               <h2 class="font-bold">
                 {{ article.title }}
               </h2>
@@ -48,21 +51,8 @@ export default {
     const articles = await $content('posts')
       .sortBy('date', 'desc')
       .fetch()
-    console.log('🎹', articles)
-    // const tagsList = await $content('tags')
-    //   .only(['name', 'slug'])
-    //   .where({ name: { $containsAny: article.tags } })
-    //   .fetch()
-    // const tags = Object.assign({}, ...tagsList.map(s => ({ [s.name]: s })))
-    // const [prev, next] = await $content('posts')
-    //   .only(['title', 'slug'])
-    //   .sortBy('createdAt', 'asc')
-    //   .surround(params.slug)
-    //   .fetch()
     return {
       articles
-      // prev,
-      // next
     }
   },
   methods: {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Research Software Engineer?
-image: /img/signup.png
+image: https://www.xmple.com/wallpaper/pink-gradient-linear-1920x1080-c2-c0204f-511426-a-165-f-14.svg
 date: 2017-06-13
 ---
 

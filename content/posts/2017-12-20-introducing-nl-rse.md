@@ -3,13 +3,12 @@ layout: post
 title: "Introducing NL-RSE"
 canonical_url: https://blog.esciencecenter.nl/introducing-nl-rse-98431969e2b8
 date: 2017-12-20
+image: https://cdn-images-1.medium.com/max/10944/1*LmBD9OaRAJPnBYBoZwyZMw.jpeg
 ---
 
 *Bootstrapping the community of Research Software Engineers in the Netherlands*  
 
-<!--break-->
 
-![](https://cdn-images-1.medium.com/max/10944/1*LmBD9OaRAJPnBYBoZwyZMw.jpeg)
 
 Research software has become an indispensable instrument for virtually every academic researcher. A case in point: [survey data](http://dx.doi.org/10.5281/zenodo.14809) from the UK revealed that 92% of academics use research software, 69% say that their research would not be practical without it and 56% develop their own software. Creating, storing and analyzing data is crucial in researchers’ daily work and enables them to address increasingly challenging research questions.
 

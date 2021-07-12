@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-between">
+  <div class="flex justify-between gap-10">
     <NuxtLink
       v-if="next"
       :to="next.slug"

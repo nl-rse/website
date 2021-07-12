@@ -42,7 +42,7 @@
           <h2 class="mb-10 text-4xl lg:text-5xl text-gray-50 font-bold slidein-animation">
             Do you write software <br> for your research?
           </h2>
-          <p class="text-white my-10 slidein-animation transition" style="animation-delay: 300ms">
+          <p class="text-white my-10 slidein-animation transition">
             NL-RSE brings together the community of people writing and contributing to research
             software from Dutch universities, knowledge institutes, companies and other
             organizations to share knowledge, to organize meetings, and raise awareness for the
@@ -67,37 +67,6 @@
           </div>
         </div>
       </div>
-
-      <!--        <div class="absolute inset-x-0 max-w-3xl mx-auto px-4">-->
-      <!--          <img-->
-      <!--            class="rounded-3xl md:rounded-6xl md:rounded-br-none"-->
-      <!--            src="https://images.unsplash.com/photo-1572521165329-b197f9ea3da6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80"-->
-      <!--            alt=""-->
-      <!--          >-->
-      <!--          <div class="absolute inset-0 flex items-center justify-center">-->
-      <!--            <button-->
-      <!--              class="flex items-center justify-center bg-white rounded-full"-->
-      <!--            >-->
-      <!--              <svg-->
-      <!--                class="-->
-      <!--              w-16-->
-      <!--              h-16-->
-      <!--              text-purple-600-->
-      <!--              hover:text-purple-700-->
-      <!--              "-->
-      <!--                xmlns="http://www.w3.org/2000/svg"-->
-      <!--                viewBox="0 0 20 20"-->
-      <!--                fill="currentColor"-->
-      <!--              >-->
-      <!--                <path-->
-      <!--                  fill-rule="evenodd"-->
-      <!--                  d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z"-->
-      <!--                  clip-rule="evenodd"-->
-      <!--                />-->
-      <!--              </svg>-->
-      <!--            </button>-->
-      <!--          </div>-->
-      <!--        </div>-->
     </div>
   </section>
 </template>

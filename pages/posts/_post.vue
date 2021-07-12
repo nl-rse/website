@@ -7,10 +7,7 @@
           :src="post && post.image"
           class="absolute h-full w-full object-cover"
         >
-        <div class="absolute top-32 left-32 text-white">
-          <NuxtLink to="/">
-            <Logo />
-          </NuxtLink>
+        <div class="absolute top-32 left-32 pr-4 text-white">
           <div class="mt-16 -mb-3 flex uppercase text-sm">
             <p class="mr-3 mb-4">
               {{ formatDate(post.date) }}

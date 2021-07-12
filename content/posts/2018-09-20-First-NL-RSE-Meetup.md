@@ -1,8 +1,8 @@
 ---
 layout: post
-image: '/img/group_picture.jpg'
 title: First Meetup of the Netherlands Research Software Engineer Community
 date: 2018-09-20
+image: /img/group_picture.jpg
 ---
 
 We had a great first meetup of the NL-RSE community with around 40 participants!
