@@ -13,7 +13,7 @@
       >
         <NuxtLink
           :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-          class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
+          class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md"
         >
           <img
             v-if="article.image"
@@ -67,6 +67,7 @@
     <!--        for how to build it.-->
     <!--      </p>-->
     <!--    </footer>-->
+    <main-footer class="-m-6" />
   </div>
 </template>
 

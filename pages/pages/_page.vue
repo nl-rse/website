@@ -1,19 +1,22 @@
 <template>
-  <section class="py-20">
-    <div class="container mx-auto px-4 min-h-screen">
-      <div class="max-w-2xl mx-auto">
-        <nuxt-content :document="content" class="prose" />
+  <div>
+    <section class="py-20">
+      <div class="container mx-auto px-4 min-h-screen">
+        <div class="max-w-2xl mx-auto">
+          <nuxt-content :document="content" class="prose" />
+        </div>
+        <div v-if="!!error" class="mt-60 p-20 bg-secondary prose">
+          <h3>
+            Page not found
+            <div class="btn btn-ghost" @click="$router.push('/')">
+              ← Go back
+            </div>
+          </h3>
+        </div>
       </div>
-      <div v-if="!!error" class="mt-60 p-20 bg-secondary prose">
-        <h3>
-          Page not found
-          <div class="btn btn-ghost" @click="$router.push('/')">
-            ← Go back
-          </div>
-        </h3>
-      </div>
-    </div>
-  </section>
+    </section>
+    <main-footer class="-m-6" />
+  </div>
 </template>
 
 <script>

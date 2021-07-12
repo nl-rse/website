@@ -51,7 +51,7 @@
 
           <div class="flex items-center justify-center">
             <a
-              class="btn btn-outline w-full text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin py-2 px-6 text-wrap"
+              class="btn btn-primary w-full text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin py-2 px-6 text-wrap"
               target="_blank"
               href="https://lists.nl-rse.org/mailman/listinfo/everyone"
             >

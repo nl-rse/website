@@ -1,7 +1,8 @@
 <template>
-  <div class="">
+  <div>
     <blog-list />
     <main-sections />
+    <main-footer class="-m-6" />
   </div>
 </template>
 
