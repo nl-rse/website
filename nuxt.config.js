@@ -6,10 +6,10 @@ export default {
 
   // If deploying on github pages
   // http://<username>.github.io/<repository-name>.
-  router: {
-    // base: '/<repository-name>/'
-    base: isDev ? '/' : '/nuxt/'
-  },
+  // router: {
+  //   // base: '/<repository-name>/'
+  //   base: isDev ? '/' : '/website/'
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -46,8 +46,8 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/composition-api/module',
-    'nuxt-vite'
+    '@nuxtjs/composition-api/module'
+    // 'nuxt-vite'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -55,7 +55,8 @@ export default {
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxt/image'
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa

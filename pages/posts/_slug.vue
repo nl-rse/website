@@ -1,11 +1,10 @@
 <template>
   <article
-    class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
+    class=" flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
   >
     <div class="relative lg:w-1/2 xs:w-full xs:h-84 lg:h-full post-left">
       <img
-        :src="article.img"
-        :alt="article.alt"
+        :src="post.image"
         class="absolute h-full w-full object-cover"
       >
       <div class="overlay" />
@@ -15,15 +14,15 @@
         </NuxtLink>
         <div class="mt-16 -mb-3 flex uppercase text-sm">
           <p class="mr-3">
-            {{ formatDate(article.updatedAt) }}
+            {{ formatDate(post.date) }}
           </p>
           <span class="mr-3">•</span>
-          <p>{{ article.author.name }}</p>
+          <p>{{ post.author || "name" }}</p>
         </div>int
         <h1 class="text-6xl font-bold">
-          {{ article.title }}
+          {{ post.title }}
         </h1>
-        <span v-for="(tag, id) in article.tags" :key="id">
+        <span v-for="(tag, id) in post.tags" :key="id">
           <NuxtLink :to="`/blog/tag/${tags[tag].slug}`">
             <span
               class="truncate uppercase tracking-wider font-medium text-ss px-2 py-1 rounded-full mr-2 mb-2 border border-light-border dark:border-dark-border transition-colors duration-300 ease-linear"
@@ -38,7 +37,7 @@
           to="/"
           class="mr-8 self-center text-white font-bold hover:underline"
         >
-          All articles
+          All posts
         </NuxtLink>
 
         <AppSearchInput />
@@ -48,39 +47,39 @@
       class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
     >
       <h1 class="font-bold text-4xl">
-        {{ article.title }}
+        {{ post.title }}
       </h1>
-      <p>{{ article.description }}</p>
+      <p>{{ post.description }}</p>
       <p class="pb-4">
-        Post last updated: {{ formatDate(article.updatedAt) }}
+        Post last updated: {{ formatDate(post.date) }}
       </p>
       <!-- table of contents -->
       <nav class="pb-6">
-        <ul>
-          <li
-            v-for="link of article.toc"
-            :key="link.id"
-            :class="{
-              'font-semibold': link.depth === 2
-            }"
-          >
-            <nuxtLink
-              :to="`#${link.id}`"
-              class="hover:underline"
-              :class="{
-                'py-2': link.depth === 2,
-                'ml-2 pb-2': link.depth === 3
-              }"
-            >
-              {{ link.text }}
-            </nuxtLink>
-          </li>
-        </ul>
+        <!--        <ul>-->
+        <!--          <li-->
+        <!--            v-for="link of post.toc"-->
+        <!--            :key="link.id"-->
+        <!--            :class="{-->
+        <!--              'font-semibold': link.depth === 2-->
+        <!--            }"-->
+        <!--          >-->
+        <!--            <nuxtLink-->
+        <!--              :to="`#${link.id}`"-->
+        <!--              class="hover:underline"-->
+        <!--              :class="{-->
+        <!--                'py-2': link.depth === 2,-->
+        <!--                'ml-2 pb-2': link.depth === 3-->
+        <!--              }"-->
+        <!--            >-->
+        <!--              {{ link.text }}-->
+        <!--            </nuxtLink>-->
+        <!--          </li>-->
+        <!--        </ul>-->
       </nav>
       <!-- content from markdown -->
-      <nuxt-content :document="article" class="prose prose-purple" />
+      <nuxt-content :document="post" class="prose prose-purple" />
       <!-- content author component -->
-      <author :author="article.author" />
+      <!--      <author :author="post.author" />-->
       <!-- prevNext component -->
       <PrevNext :prev="prev" :next="next" class="mt-8" />
     </div>
@@ -90,20 +89,19 @@
 export default {
   transition: 'fade',
   async asyncData ({ $content, params }) {
-    const article = await $content('articles', params.slug).fetch()
-    const tagsList = await $content('tags')
-      .only(['name', 'slug'])
-      .where({ name: { $containsAny: article.tags } })
-      .fetch()
-    const tags = Object.assign({}, ...tagsList.map(s => ({ [s.name]: s })))
-    const [prev, next] = await $content('articles')
+    const post = await $content('posts', params.slug).fetch()
+    // const tagsList = await $content('tags')
+    //   .only(['name', 'slug'])
+    //   .where({ name: { $containsAny: article.tags } })
+    //   .fetch()
+    // const tags = Object.assign({}, ...tagsList.map(s => ({ [s.name]: s })))
+    const [prev, next] = await $content('posts')
       .only(['title', 'slug'])
       .sortBy('createdAt', 'asc')
       .surround(params.slug)
       .fetch()
     return {
-      article,
-      tags,
+      post,
       prev,
       next
     }
