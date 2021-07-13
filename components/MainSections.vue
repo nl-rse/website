@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="flex flex-wrap w-full bg-white shadow rounded-lg md:w-1/2 ">
-          <EventsList />
+          <EventsList :events="events" />
         </div>
 
         <div class="flex flex-wrap w-full bg-white shadow rounded-lg p-2 md:w-1/3 ">
@@ -53,7 +53,7 @@
 
 <script>
 export default {
-  name: 'MainSections'
+  props: ['events']
 }
 </script>
 

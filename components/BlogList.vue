@@ -1,5 +1,5 @@
 <template>
-  <div v-if="!!posts" class="py-10 ">
+  <div class="py-10 ">
     <div class="container mx-auto px-4">
       <div class="mb-6 flex flex-wrap justify-center">
         <div class="mb-16 w-full text-center">
@@ -39,21 +39,7 @@
 <script>
 
 export default {
-  data () {
-    return {
-      posts: null
-    }
-  },
-  async fetch () {
-    try {
-      this.posts = await this.$content('posts')
-        .only(['title', 'date', 'image', 'slug'])
-        .sortBy('date', 'desc')
-        .fetch()
-    } catch {
-      this.error = true
-    }
-  },
+  props: ['posts'],
   methods: {
     formatDate (date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }

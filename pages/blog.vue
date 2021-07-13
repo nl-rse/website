@@ -45,7 +45,6 @@
 
 <script>
 export default {
-
   transition: 'fade',
   async asyncData ({ $content, params }) {
     const articles = await $content('posts')
