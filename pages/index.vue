@@ -11,7 +11,6 @@ export default {
   async asyncData ({ $content, params }) {
     // blog list
     const posts = await $content('posts')
-      .only(['title', 'date', 'image', 'slug'])
       .limit(4)
       .sortBy('date', 'desc')
       .fetch()
@@ -20,6 +19,7 @@ export default {
       .limit(6)
       .sortBy('date', 'desc')
       .fetch()
+
     return {
       posts,
       events
