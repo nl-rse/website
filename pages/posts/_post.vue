@@ -20,7 +20,7 @@
         <div class="flex absolute top-3rem right-3rem">
           <NuxtLink
             to="/blog"
-            class="mr-8 self-center text-white font-bold hover:underline"
+            class="mr-8 p-8 self-center text-white font-bold hover:underline"
           >
             All posts
           </NuxtLink>
