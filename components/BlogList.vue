@@ -10,7 +10,12 @@
         </div>
         <div class="flex flex-wrap -mx-3 mb-16">
           <div class="flex flex-wrap w-full">
-            <nuxt-link v-for="(post,index) in posts" :key="index" :to="post.path" class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3">
+            <nuxt-link
+              v-for="(post,index) in posts"
+              :key="index"
+              :to="post.path || '/'"
+              class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3"
+            >
               <div class="rounded overflow-hidden transition shadow hover:shadow-lg">
                 <img class="w-full max-h-48 lg:h-48 rounded-t object-cover" :src="post.image" :alt="post.title">
                 <div class="p-6 rounded-b bg-white">
