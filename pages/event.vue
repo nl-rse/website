@@ -14,11 +14,11 @@
         >
           <NuxtLink
             :to="'/events/'+article.slug"
-            class="flex flex-col rounded-lg transition-shadow duration-150 ease-in-out shadow-xl hover:shadow-2xl"
+            class="flex flex-col rounded transition-shadow duration-150 ease-in-out shadow hover:shadow-lg"
           >
             <img
               v-if="article.image"
-              class="h-32 w-full object-cover rounded-t-lg"
+              class="h-32 w-full object-cover rounded-t"
               :src="article.image"
             >
             <div

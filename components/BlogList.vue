@@ -10,13 +10,13 @@
         </div>
         <div class="flex flex-wrap -mx-3 mb-16">
           <div class="flex flex-wrap w-full">
-            <nuxt-link v-for="(n, index) in 4" :key="index" :to="posts[index].path" class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3">
+            <nuxt-link v-for="(post,index) in posts" :key="index" :to="post.path" class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3">
               <div class="rounded overflow-hidden transition shadow hover:shadow-lg">
-                <img class="w-full lg:h-48 rounded-t object-cover" :src="posts[index].image" :alt="posts[index].title">
+                <img class="w-full max-h-48 lg:h-48 rounded-t object-cover" :src="post.image" :alt="post.title">
                 <div class="p-6 rounded-b bg-white">
-                  <span class="text-sm text-gray-400">{{ formatDate(posts[index].date) }}</span>
+                  <span class="text-sm text-gray-400">{{ formatDate(post.date) }}</span>
                   <h2 class="my-2 text-xl font-bold text-gray-800">
-                    {{ posts[index].title }}
+                    {{ post.title }}
                   </h2>
                   <div class="text-primary font-bold">
                     Read More
@@ -27,7 +27,7 @@
           </div>
         </div>
         <div>
-          <nuxt-link class="btn hover:bg-primary" to="blog">
+          <nuxt-link v-if="more" class="btn hover:bg-primary" to="blog">
             View More Articles
           </nuxt-link>
         </div>
@@ -39,7 +39,7 @@
 <script>
 
 export default {
-  props: ['posts'],
+  props: ['posts', 'more'],
   methods: {
     formatDate (date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }

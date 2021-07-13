@@ -1,6 +1,6 @@
 <template>
   <div>
-    <blog-list :posts="posts" />
+    <blog-list :posts="posts" :more="true" />
     <main-sections :events="events" />
     <main-footer />
   </div>
@@ -12,7 +12,7 @@ export default {
     // blog list
     const posts = await $content('posts')
       .only(['title', 'date', 'image', 'slug'])
-      .limit(5)
+      .limit(4)
       .sortBy('date', 'desc')
       .fetch()
 
