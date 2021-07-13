@@ -3,7 +3,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   ssr: false,
-
+  generate: {
+    fallback: true
+  },
   // If deploying on github pages
   // http://<username>.github.io/<repository-name>.
   // router: {
