@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>NL-RSE Blog and Events</title>
+        <link>https://nl-rse.netlify.app/feed.xml</link>
+        <description>NL-RSE Blog feed!</description>
+        <lastBuildDate>Tue, 13 Jul 2021 19:49:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[What Open Science can learn from Free Software]]></title>
+            <link>/posts/2021-07-07-JdlC-meetup-June</link>
+            <guid>What Open Science can learn from Free Software</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A demo in the life of an RSE]]></title>
+            <link>/posts/2021-06-16-meetup-april</link>
+            <guid>A demo in the life of an RSE</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is really needed for software reusability?]]></title>
+            <link>/posts/2021-04-21-software reusability</link>
+            <guid>What is really needed for software reusability?</guid>
+            <pubDate>Fri, 02 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to make research software a first-class citizen in the Netherlands?]]></title>
+            <link>/posts/2020-09-22-RS-first-class-citizen</link>
+            <guid>How to make research software a first-class citizen in the Netherlands?</guid>
+            <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking back at NL-RSE19]]></title>
+            <link>/posts/2019-12-02-Looking-back-at-NL-RSE19</link>
+            <guid>Looking back at NL-RSE19</guid>
+            <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAIR Software at the 2019 eScience Symposium]]></title>
+            <link>/posts/2019-11-29-FAIR-Software-eScience2019</link>
+            <guid>FAIR Software at the 2019 eScience Symposium</guid>
+            <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Request for comments -- Raising the Profile of Research Software]]></title>
+            <link>/posts/2019-09-17-RaisingResearchSoftware</link>
+            <guid>Request for comments -- Raising the Profile of Research Software</guid>
+            <pubDate>Tue, 17 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Call for contributions - NL-RSE19]]></title>
+            <link>/posts/2019-07-09-NL-RSE-2019</link>
+            <guid>Call for contributions - NL-RSE19</guid>
+            <pubDate>Tue, 09 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RSE Survey 2018 Results are in!]]></title>
+            <link>/posts/2019-07-01-RSE-Survey-2018-results</link>
+            <guid>RSE Survey 2018 Results are in!</guid>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[deRSE 2019: First conference for Research Software Engineers in Germany]]></title>
+            <link>/posts/2019-06-24-deRSE</link>
+            <guid>deRSE 2019: First conference for Research Software Engineers in Germany</guid>
+            <pubDate>Mon, 24 Jun 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Meetup of the Netherlands Research Software Engineer Community]]></title>
+            <link>/posts/2018-09-20-First-NL-RSE-Meetup</link>
+            <guid>First Meetup of the Netherlands Research Software Engineer Community</guid>
+            <pubDate>Thu, 20 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Meetup of the Netherlands Research Software Engineer Community - register Now!]]></title>
+            <link>/posts/2018-06-29-first-meetup</link>
+            <guid>First Meetup of the Netherlands Research Software Engineer Community - register Now!</guid>
+            <pubDate>Fri, 29 Jun 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing NL-RSE]]></title>
+            <link>/posts/2017-12-20-introducing-nl-rse</link>
+            <guid>Introducing NL-RSE</guid>
+            <pubDate>Wed, 20 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is a Research Software Engineer?]]></title>
+            <link>/posts/2017-06-13-what-is-rse</link>
+            <guid>What is a Research Software Engineer?</guid>
+            <pubDate>Tue, 13 Jun 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[September 15, 2021, NL-RSE Meetup]]></title>
+            <link>/events/2021-09-15-meetup</link>
+            <guid>September 15, 2021, NL-RSE Meetup</guid>
+            <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[June 11, 2021, NL-RSE Meetup]]></title>
+            <link>/events/2021-06-11-meetup</link>
+            <guid>June 11, 2021, NL-RSE Meetup</guid>
+            <pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[April 21, 2021, NL-RSE Meetup]]></title>
+            <link>/events/2021-04-21-meetup</link>
+            <guid>April 21, 2021, NL-RSE Meetup</guid>
+            <pubDate>Fri, 02 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[February 11, 2021, NL-RSE Meetup]]></title>
+            <link>/events/2021-02-11-meetup</link>
+            <guid>February 11, 2021, NL-RSE Meetup</guid>
+            <pubDate>Tue, 26 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[December 16, 2020, NL-RSE Meetup]]></title>
+            <link>/events/2020-12-16-meetup</link>
+            <guid>December 16, 2020, NL-RSE Meetup</guid>
+            <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[November 20, 2020, NL-RSE Meetup]]></title>
+            <link>/events/2020-11-20-meetup</link>
+            <guid>November 20, 2020, NL-RSE Meetup</guid>
+            <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[March 13, 2020, NL-RSE Meetup]]></title>
+            <link>/events/2020-03-13-meetup</link>
+            <guid>March 13, 2020, NL-RSE Meetup</guid>
+            <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NL-RSE19]]></title>
+            <link>/events/NL-RSE19</link>
+            <guid>NL-RSE19</guid>
+            <pubDate>Wed, 20 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
