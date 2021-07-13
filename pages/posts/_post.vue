@@ -29,7 +29,7 @@
         </div>
       </div>
       <!--Right Side-->
-      <div class="relative xs:py-8 xs:px-8 lg:py-16 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll">
+      <div class="relative p-6 w-full md:py-8 lg:p-16 lg:w-1/2  h-full overflow-y-scroll">
         <h1 class="font-bold text-4xl">
           {{ post.title }}
         </h1>

@@ -55,7 +55,46 @@ export default {
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/feed'
+  ],
+
+  // Create a feed
+  feed: [
+    {
+      path: '/feed.xml',
+      async create (feed, args) {
+        feed.options = {
+          title: 'NL-RSE Blog and Events',
+          link: isDev ? 'https://localhost:3000/feed.xml' : 'https://nl-rse.netlify.app/feed.xml',
+          description: 'NL-RSE Blog feed!'
+        }
+        const { $content } = require('@nuxt/content')
+
+        const posts = await $content('posts')
+          .sortBy('date', 'desc')
+          .fetch()
+
+        const events = await $content('events')
+          .sortBy('date', 'desc')
+          .fetch()
+
+        const combinedPosts = [...posts, ...events]
+
+        combinedPosts.forEach((post) => {
+          feed.addItem({
+            title: post.title,
+            id: post.title,
+            link: post.path,
+            img: post.image,
+            date: new Date(post.date)
+          })
+        })
+      },
+      cacheTime: 1000 * 60 * 15,
+      type: 'rss2',
+      data: ['some', 'info']
+    }
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa

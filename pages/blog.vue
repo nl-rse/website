@@ -1,6 +1,8 @@
 <template>
-  <div class="container mx-auto">
-    <blog-list :posts="posts" />
+  <div class="flex flex-col ">
+    <div class="container mx-auto h-full">
+      <blog-list :posts="posts" />
+    </div>
     <main-footer />
   </div>
 </template>

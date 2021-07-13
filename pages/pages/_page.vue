@@ -11,7 +11,7 @@
         </h3>
       </div>
     </section>
-    <main-footer class="" />
+    <main-footer />
   </div>
 </template>
 
