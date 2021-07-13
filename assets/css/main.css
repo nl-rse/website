@@ -3,8 +3,6 @@
   border-radius: 0;
   height: auto;
   @apply rounded-l-xl rounded-t-xl;
-  /*@apply border-0;*/
-  /*@apply bg-primary hover:bg-primary-focus*/
 }
 a{
   @apply text-primary;
@@ -17,8 +15,6 @@ body {
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  /*color: var(--text);*/
-
 }
 
 /* Page Animations */
