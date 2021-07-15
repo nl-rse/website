@@ -3,7 +3,6 @@
     <div class="container mx-auto px-4">
       <div class="mb-6 flex flex-wrap justify-center">
         <div class="mb-16 w-full text-center">
-          <span class="text-primary font-bold">NL-RSE</span>
           <h2 class="text-4xl lg:text-5xl font-bold font-heading">
             Our Blog
           </h2>
