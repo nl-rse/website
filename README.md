@@ -1,5 +1,7 @@
 # NL-RSE Website
-Design and developed by @ctwhome
+Designed and developed by @ctwhome
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4009a943-6476-449c-96fa-0b7512c8160d/deploy-status)](https://app.netlify.com/sites/nl-rse/deploys)
 
 ## Build Setup
 
