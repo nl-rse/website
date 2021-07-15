@@ -11,7 +11,7 @@
         :key="index"
         class="p-4 w-full sm:w-1/2 lg:w-1/3"
       >
-        <div class="flex flex-col p-4 items-center rounded shadow bg-white">
+        <div class="flex flex-col  h-full p-4 items-center rounded shadow bg-white">
           <img
             class="rounded-full object-cover w-30"
             :src="member.image"
