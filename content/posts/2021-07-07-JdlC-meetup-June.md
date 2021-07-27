@@ -30,4 +30,3 @@ We&#39;d like to thank Javier de la Cueva for his talk on Open Science. This tal
 Lieke de Boer
 
 Thanks to Lourens Veen and Pablo Rodríguez-Sánchez for helpful comments and additions.
-{"mode":"full","isActive":false}
