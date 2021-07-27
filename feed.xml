@@ -4,7 +4,7 @@
         <title>NL-RSE Blog and Events</title>
         <link>https://nl-rse.netlify.app/feed.xml</link>
         <description>NL-RSE Blog feed!</description>
-        <lastBuildDate>Mon, 19 Jul 2021 16:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 15:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -32,8 +32,7 @@
 <p>De la Cueva points at two signs that science is moving in the right direction. First, the existence of preprint servers. Second, the <a href="https://www.aje.com/arc/open-access-changing-landscape/" rel="nofollow noopener noreferrer" target="_blank">rise in peer-reviewed open access journals</a>. And arguably, the increasingly common practice of publicly sharing research software, and adherence to FAIR data principles, can be counted as positive signs too. But there's still work to be done: "<em>We still pay 9500 euros to obtain open access in</em> Nature. <em>And the default for publications is still</em> All rights reserved. <em>This has to end.</em>"</p>
 <p>We'd like to thank Javier de la Cueva for his talk on Open Science. This talk was part of the June NL-RSE meetup. NL-RSE meetups are monthly events, where those working on the intersection between research and software development (from PhD students to Scientific Programmers) at Dutch institutes come together to discuss relevant topics. Our next <a href="/events/2021-09-15-meetup.html">NL-RSE meetup is on September 16</a> and will cover reproducible research articles. Speakers include <a href="https://twitter.com/fperez_org?lang=en" rel="nofollow noopener noreferrer" target="_blank">Fernando Pérez</a>, creator of the IPython programming environment, <a href="https://twitter.com/GiuliaGuizza" rel="nofollow noopener noreferrer" target="_blank">Giulia Guizzardi</a>, Innovation Officer at eLife, and <a href="https://twitter.com/adinakrik?lang=en" rel="nofollow noopener noreferrer" target="_blank">Adina Wagner</a>, author of the software package Datalad. <a href="https://nl-rse.org/events/2021-09-15-meetup.html" rel="nofollow noopener noreferrer" target="_blank">More information and sign-up here</a>.</p>
 <p>Lieke de Boer</p>
-<p>Thanks to Lourens Veen and Pablo Rodríguez-Sánchez for helpful comments and additions.
-{"mode":"full","isActive":false}</p>
+<p>Thanks to Lourens Veen and Pablo Rodríguez-Sánchez for helpful comments and additions.</p>
             ]]></content:encoded>
         </item>
         <item>
