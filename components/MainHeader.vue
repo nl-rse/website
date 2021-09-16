@@ -27,7 +27,8 @@
             <social-icons class="mt-20" />
           </div>
         </responsive-menu>
-        <Logo class="pl-6 sm:pl-0" />
+
+        <Logo class="pl-6 sm:pl-0 sm:relative absolute top-3" />
 
       </span>
 

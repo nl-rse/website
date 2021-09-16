@@ -4,14 +4,14 @@ export default {
   target: 'static',
   ssr: false,
   generate: {
-    fallback: true, 
+    fallback: true,
     async routes () {
       const { $content } = require('@nuxt/content')
       const files = await $content({ deep: true }).only(['path']).fetch()
       return files.map(file => file.path === '/index' ? '/' : file.path)
     }
-  }, 
-  
+  },
+
   // If deploying on github pages
   // http://<username>.github.io/<repository-name>.
   // router: {
@@ -63,6 +63,7 @@ export default {
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
+    'nuxt-content-body-html',
     '@nuxt/content',
     '@nuxtjs/feed'
   ],
@@ -92,6 +93,15 @@ export default {
         combinedPosts.forEach((post) => {
           feed.addItem({
             title: post.title,
+            content: `
+              <p>
+                <img
+                  alt="Cover image"
+                  src="${post.image}"
+                >
+              </p>
+              ${post.bodyHtml}
+            `,
             id: post.title,
             link: post.path,
             img: post.image,
