@@ -1,12 +1,15 @@
 <template>
   <div>
+    <download-calendar />
     <blog-list :posts="posts" :more="true" />
     <main-sections :events="events" />
     <main-footer />
   </div>
 </template>
 <script>
+import DownloadCalendar from '~/components/DownloadCalendar'
 export default {
+  components: { DownloadCalendar },
   transition: 'fade',
   async asyncData ({ $content, params }) {
     // blog list
