@@ -1,6 +1,6 @@
 ---
 layout: post
-image: '/img/logos/Artwork - plural.png'
+image: '/img/meetup-header-with-logo.jpg'
 title: "NL-RSE Road Show Event"
 date: 2021-09-14
 excerpt_separator: <!--break-->
