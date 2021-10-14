@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 image: '/img/element5-digital-T9CXBZLUvic-unsplash.jpg'
 title: "NL-RSE election"
 date: 2021-09-16
