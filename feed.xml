@@ -4,7 +4,7 @@
         <title>NL-RSE Blog and Events</title>
         <link>https://nl-rse.netlify.app/feed.xml</link>
         <description>NL-RSE Blog feed!</description>
-        <lastBuildDate>Thu, 16 Sep 2021 14:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 09:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -674,6 +674,54 @@ created. We are now working, together with RSE associations in the
 <a href="http://rse.ac.uk/" rel="nofollow noopener noreferrer" target="_blank">UK</a> and <a href="http://www.de-rse.org/de" rel="nofollow noopener noreferrer" target="_blank">Germany</a>,
 to raise awareness of the role, and to bring the
 RSE community in the Netherlands together.</p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NL-RSE Road Show Event]]></title>
+            <link>/events/NL-RSE-RSE21</link>
+            <guid>NL-RSE Road Show Event</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+              <p>
+                <img
+                  alt="Cover image"
+                  src="/img/logos/Artwork - plural.png"
+                >
+              </p>
+              <p>On 14th October 2021 the international RSE community will celebrate the 1st <a href="https://researchsoftware.org/2021/07/29/International-RSE-day.html" rel="nofollow noopener noreferrer" target="_blank">International RSE Day</a>. What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate <em>you</em> and <em>your work</em>!</p>
+<!--break-->
+<p>In connection to the international RSE day, we are organising our own local event: the NL-RSE Road Show Event (NL-RSE RSE). The aim is for it to be an inspirational event where RSEs from all over the country get to talk to each other, exchange their experiences and struggles, and are able to make new connections.</p>
+<p>We would love for this to be an in-person event. However, given the uncertainty of the COVID situation, we do not think it is wise to encourage people to travel to a central location. For this reason, as a compromise, we would like to organise this event as a collection of connected local events (<a href="https://www.linkedin.com/pulse/using-hub-spoke-hybrid-live-events-re-engage-your-people-thewlis/" rel="nofollow noopener noreferrer" target="_blank">Hub &#x26; spoke model</a>), with small local events connected to each other for a shared programme. Our aim is to minimise the need for travel to the event, while maximising the networking opportunity for participants. This will also give us the flexibility to switch to a fully online event if necessary.</p>
+<h2 id="venues"><a href="#venues" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Venues</h2>
+<h3 id="utrecht"><a href="#utrecht" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Utrecht</h3>
+<ul>
+<li>Details: You will need to bring your ticket &#x26; <a href="https://www.jaarbeurs.nl/nl/werkwijze-coronatoegangsbewijs" rel="nofollow noopener noreferrer" target="_blank">corona certificate</a>.</li>
+<li>Address: The HUB - Tribune &#x26; Skybar, <a href="https://goo.gl/maps/mTaGAPot7ZUu7aj8A" rel="nofollow noopener noreferrer" target="_blank">Jaarbeurs Innovation Mile (JIM), Jaarbeursplein 6, 3521 AL, Utrecht</a></li>
+<li><a href="https://www.eventbrite.co.uk/e/nl-rse-road-show-event-tickets-178646284847" rel="nofollow noopener noreferrer" target="_blank">Get your ticket here</a></li>
+</ul>
+<h3 id="amsterdam-science-park"><a href="#amsterdam-science-park" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Amsterdam Science Park</h3>
+<ul>
+<li>Details: You will need to bring your ticket.</li>
+<li>Address: SURF building, VK1 &#x26; VK2 rooms, <a href="https://goo.gl/maps/NPzCTSvkCZHDH4bZA" rel="nofollow noopener noreferrer" target="_blank">Science Park 140, 1098 XG Amsterdam</a></li>
+<li><a href="https://www.eventbrite.co.uk/e/nl-rse-road-show-event-tickets-178646284847" rel="nofollow noopener noreferrer" target="_blank">Get your ticket here</a></li>
+</ul>
+<h3 id="online"><a href="#online" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Online</h3>
+<ul>
+<li>Details: For participants who do not want or cannot join in person, we will host a virtual hub!</li>
+<li>Address: Online</li>
+<li><a href="https://www.eventbrite.co.uk/e/nl-rse-road-show-event-tickets-178646284847" rel="nofollow noopener noreferrer" target="_blank">Get your ticket here</a></li>
+</ul>
+<h2 id="programme"><a href="#programme" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Programme</h2>
+<p>| -- | ---- |
+| 14:00 | Welcome by location host (location joins zoom room) |
+| 14:10 | Welcome by zoom host |
+| 14:15 | <strong>Keynote</strong>: "The origins and future of Research Software Engineering" <br>by <a href="https://twitter.com/milliams" rel="nofollow noopener noreferrer" target="_blank">Matt Williams</a> |
+| 14:45 | World premiere RSE video |
+| 15:00 |  NL-RSE election -- information session |
+| 15:10 | Launch NL-RSE new website |
+| 15:20 | Hello from different locations |
+| 15:30 | Local Q&#x26;A session / sharing RSE experiences |
+| 15:50 | Networking session (borrel) |</p>
             ]]></content:encoded>
         </item>
         <item>
