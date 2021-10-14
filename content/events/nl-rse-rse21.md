@@ -1,6 +1,6 @@
 ---
 layout: event
-image: '/img/meetup-header-with-logo.jpg'
+image: '/img/events/new-rse-event.jpg'
 title: "NL-RSE Road Show Event"
 date: 2021-10-14
 ---
@@ -33,7 +33,7 @@ We would love for this to be an in-person event. However, given the uncertainty 
 
 ## Programme
 
-| Time | Activity
+| Time | Activity |
 | --- | ------------ | 
 | 14:00 | Welcome by location host (location joins zoom room) |
 | 14:10 | Welcome by zoom host |
