@@ -2,15 +2,15 @@
 
 Designed and developed by @ctwhome
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/4009a943-6476-449c-96fa-0b7512c8160d/deploy-status)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/813df10a-94d6-4c73-ba59-651648d3a421/deploy-status)](https://app.netlify.com/sites/nl-rse/deploys)
 
 ## Editing Content, Events and Blogs
 
-*   Most of the content on the website can be changed from the markdown files located inside the `content` folder. 
+*   Most of the content on the website can be changed from the markdown files located inside the `content` folder.
 *   The menu links in the header and the mobile side panel can be edited inside the `menu-items.md` file [https://github.com/nl-rse/website/blob/main/content/menu-items.md.](https://github.com/nl-rse/website/blob/main/content/menu-items.md.)
 *   Adding events is as easy as copying the template (https://github.com/nl-rse/website/blob/main/content/202X-MM-DD-meetup.TEMPLATE.md), changing its content and place it inside the `/content/events/<temaplte.md>` location.
-*   When creating new blog posts, any markdown file located inside `/content/posts/<post.md>` will be picked up automatically. 
-*   Any modifications in the files will trigger a GitHub action to build and deploy automatically to the live website. The changes will be live after a few minutes. 
+*   When creating new blog posts, any markdown file located inside `/content/posts/<post.md>` will be picked up automatically.
+*   Any modifications in the files will trigger a GitHub action to build and deploy automatically to the live website. The changes will be live after a few minutes.
 
 ## Build Setup Locally
 
