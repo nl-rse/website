@@ -4,7 +4,7 @@
         <title>NL-RSE Blog and Events</title>
         <link>https://nl-rse.netlify.app/feed.xml</link>
         <description>NL-RSE Blog feed!</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 10:52:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -685,7 +685,7 @@ RSE community in the Netherlands together.</p>
               <p>
                 <img
                   alt="Cover image"
-                  src="/img/meetup-header-with-logo.jpg"
+                  src="/img/events/new-rse-event.jpg"
                 >
               </p>
               <p>On 14th October 2021 the international RSE community will celebrate the 1st <a href="https://researchsoftware.org/2021/07/29/International-RSE-day.html" rel="nofollow noopener noreferrer" target="_blank">International RSE Day</a>. What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate <em>you</em> and <em>your work</em>!</p>
