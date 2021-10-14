@@ -4,7 +4,7 @@
         <title>NL-RSE Blog and Events</title>
         <link>https://nl-rse.netlify.app/feed.xml</link>
         <description>NL-RSE Blog feed!</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 10:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -678,9 +678,9 @@ RSE community in the Netherlands together.</p>
         </item>
         <item>
             <title><![CDATA[NL-RSE Road Show Event]]></title>
-            <link>/events/NL-RSE-RSE21</link>
+            <link>/events/nl-rse-rse21</link>
             <guid>NL-RSE Road Show Event</guid>
-            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[
               <p>
                 <img
@@ -712,16 +712,52 @@ RSE community in the Netherlands together.</p>
 <li><a href="https://www.eventbrite.co.uk/e/nl-rse-road-show-event-tickets-178646284847" rel="nofollow noopener noreferrer" target="_blank">Get your ticket here</a></li>
 </ul>
 <h2 id="programme"><a href="#programme" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Programme</h2>
-<p>| -- | ---- |
-| 14:00 | Welcome by location host (location joins zoom room) |
-| 14:10 | Welcome by zoom host |
-| 14:15 | <strong>Keynote</strong>: "The origins and future of Research Software Engineering" <br>by <a href="https://twitter.com/milliams" rel="nofollow noopener noreferrer" target="_blank">Matt Williams</a> |
-| 14:45 | World premiere RSE video |
-| 15:00 |  NL-RSE election -- information session |
-| 15:10 | Launch NL-RSE new website |
-| 15:20 | Hello from different locations |
-| 15:30 | Local Q&#x26;A session / sharing RSE experiences |
-| 15:50 | Networking session (borrel) |</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Time</th><th>Activity</th></tr></thead><tbody><tr><td>14:00</td><td>Welcome by location host (location joins zoom room)</td></tr><tr><td>14:10</td><td>Welcome by zoom host</td></tr><tr><td>14:15</td><td><strong>Keynote</strong>: "The origins and future of Research Software Engineering" <br>by <a href="https://twitter.com/milliams" rel="nofollow noopener noreferrer" target="_blank">Matt Williams</a></td></tr><tr><td>14:45</td><td>World premiere RSE video</td></tr><tr><td>15:00</td><td>NL-RSE election -- information session</td></tr><tr><td>15:10</td><td>Launch NL-RSE new website</td></tr><tr><td>15:20</td><td>Hello from different locations</td></tr><tr><td>15:30</td><td>Local Q&#x26;A session / sharing RSE experiences</td></tr><tr><td>15:50</td><td>Networking session (borrel)</td></tr></tbody></table>
             ]]></content:encoded>
         </item>
         <item>
@@ -1479,7 +1515,7 @@ testing scientific software, using open source tools like GitHub actions, Gitlab
         </item>
         <item>
             <title><![CDATA[NL-RSE19]]></title>
-            <link>/events/NL-RSE19</link>
+            <link>/events/nl-rse19</link>
             <guid>NL-RSE19</guid>
             <pubDate>Wed, 20 Nov 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[
