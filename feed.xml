@@ -4,7 +4,7 @@
         <title>NL-RSE Blog and Events</title>
         <link>https://nl-rse.netlify.app/feed.xml</link>
         <description>NL-RSE Blog feed!</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 10:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -677,35 +677,6 @@ RSE community in the Netherlands together.</p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NL-RSE election]]></title>
-            <link>/events/NL-RSE-elections2021</link>
-            <guid>NL-RSE election</guid>
-            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[
-              <p>
-                <img
-                  alt="Cover image"
-                  src="/img/element5-digital-T9CXBZLUvic-unsplash.jpg"
-                >
-              </p>
-              <p>The current core team is made up of volunteers, who have taken the task of setting up the NL-RSE community.
-As the NL-RSE community grows, the core team feels it is important to be transparent about how the core team is selected and what their responsibilities are. It is also important that the whole NL-RSE community has the opportunity to select who represents them in the core team. For this reason, this year we will be holding the first election in NL-RSE history!</p>
-<!--break-->
-<h2 id="who-is-eligible-to-vote"><a href="#who-is-eligible-to-vote" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Who is eligible to vote?</h2>
-<p>Anyone who is registered on the NL-RSE mailing list on 31th October 2021 is eligible to vote in the 2021 election.</p>
-<h2 id="who-is-eligible-to-stand-for-election"><a href="#who-is-eligible-to-stand-for-election" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Who is eligible to stand for election?</h2>
-<p>Anyone who is registered on the NL-RSE mailing list on 15th October 2021 is eligible to be an election candidate in the 2021 election and must nominate him/herself by making this known to the <a href="https://nl-rse.org/pages/core-team.html#nl-rse-secretariat" rel="nofollow noopener noreferrer" target="_blank">NL-RSE secretariat</a>.</p>
-<h2 id="important-dates"><a href="#important-dates" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Important dates</h2>
-<ul>
-<li>31 October 2021 – deadline for becoming a candidate</li>
-<li>1st November 2021 – official list of candidates will be published on the website</li>
-<li>16 November 2021 – voting will take place via via electronic voting system</li>
-<li>1st December 2021 – results will be announced during the December meetup and via the mailing list</li>
-<li>1st January 2022 – the new core team office period will start</li>
-</ul>
-            ]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[NL-RSE Road Show Event]]></title>
             <link>/events/NL-RSE-RSE21</link>
             <guid>NL-RSE Road Show Event</guid>
@@ -714,7 +685,7 @@ As the NL-RSE community grows, the core team feels it is important to be transpa
               <p>
                 <img
                   alt="Cover image"
-                  src="/img/logos/Artwork - plural.png"
+                  src="/img/meetup-header-with-logo.jpg"
                 >
               </p>
               <p>On 14th October 2021 the international RSE community will celebrate the 1st <a href="https://researchsoftware.org/2021/07/29/International-RSE-day.html" rel="nofollow noopener noreferrer" target="_blank">International RSE Day</a>. What is it? It is a celebration of RSEs and RSE work -- that means we want to celebrate <em>you</em> and <em>your work</em>!</p>
@@ -834,12 +805,11 @@ As the NL-RSE community grows, the core team feels it is important to be transpa
 
 
 
-<table><thead><tr><th>Time</th><th>Responsible</th><th>Type</th><th>Subject</th></tr></thead><tbody><tr><td>14:30 - 14:45</td><td></td><td></td><td>hello &#x26; coffee</td></tr><tr><td>14:45 - 15:00</td><td></td><td></td><td>Welcome and introductions</td></tr><tr><td>15:00 - 15:30</td><td>Adina Wagner</td><td>Talk</td><td>Data + Code + Software = PDF: How to write a reproducible research article</td></tr><tr><td>15:30 - 16:00</td><td>Giulia Guizzardi</td><td>Talk</td><td>Executable Research Article (ERA): Enrich a research paper with code and data</td></tr><tr><td>16:00 - 16:15</td><td></td><td></td><td>Break</td></tr><tr><td>16:15 - 16:45</td><td>Fernando Perez</td><td>Talk</td><td>Computing, statistics and reproducibility: pedagogical reflections</td></tr><tr><td>16:45 - 17:15</td><td></td><td>Discussion</td><td>Panel: Reproducible research environments</td></tr><tr><td>17:15 - 18:00</td><td></td><td></td><td>Evaluation &#x26; Networking</td></tr></tbody></table>
+<table><thead><tr><th>Time</th><th>Responsible</th><th>Type</th><th>Subject</th></tr></thead><tbody><tr><td>14:30 - 14:45</td><td></td><td></td><td>hello &#x26; coffee</td></tr><tr><td>14:45 - 15:00</td><td></td><td></td><td>Welcome and introductions</td></tr><tr><td>15:00 - 15:30</td><td>Adina Wagner</td><td>Talk</td><td>Data+Code+Software=PDF</td></tr><tr><td>15:30 - 16:00</td><td>Giulia Guizzardi</td><td>Talk</td><td>Executable Research Article (ERA): Enrich a research paper with code and data</td></tr><tr><td>16:00 - 16:15</td><td></td><td></td><td>Break</td></tr><tr><td>16:15 - 16:45</td><td>Fernando Perez</td><td>Talk</td><td>Computing, statistics and reproducibility: pedagogical reflections</td></tr><tr><td>16:45 - 17:15</td><td></td><td>discussion</td><td>Panel</td></tr><tr><td>17:15 - 18:00</td><td></td><td></td><td>Evaluation &#x26; Networking</td></tr></tbody></table>
 <h2 id="abstracts"><a href="#abstracts" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Abstracts</h2>
-<h3 id="data--code--software--pdf-how-to-write-a-reproducible-research-article"><a href="#data--code--software--pdf-how-to-write-a-reproducible-research-article" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Data + Code + Software = PDF: How to write a reproducible research article</h3>
+<h3 id="datacodesoftwarepdf"><a href="#datacodesoftwarepdf" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Data+Code+Software=PDF</h3>
 <p><a href="https://twitter.com/adinakrik?lang=en" rel="nofollow noopener noreferrer" target="_blank">Adina Wagner</a></p>
-<p>Science is an incremental process that produces and builds up on more than just published journal articles - nevertheless, journals only rarely accept or publish formats other than text documents or PDFs. An alternative to a classic PDF is a reproducible research article, an electronic document that is automatically generated from your project's code, data, and software, and embeds results and figures into the manuscript text as they are computed. With this, reproducible research articles combine adherence to publishers requirements with uncompromising reproducibility, increased reusability, and efficiency.</p>
-<p>This talk will be a demonstration of one of many ways to writing an automatically reproducible research article and making it publicly available. It will walk through a traditionally published paper, and reveal the openly available reproducible research article behind it. Beyond this, it will introduce a generic framework to link and share all building blocks of a project, including code, data of any size, software, and the final manuscript.</p>
+<p>A demonstration of one of many ways to write an automatically reproducible research article, and a generic framework for actionable linkage of all building blocks of a project.</p>
 <h3 id="executable-research-article-era-enrich-a-research-paper-with-code-and-data"><a href="#executable-research-article-era-enrich-a-research-paper-with-code-and-data" aria-hidden="true" tabindex="-1"><span class="icon icon-link"></span></a>Executable Research Article (ERA): Enrich a research paper with code and data</h3>
 <p><a href="https://twitter.com/GiuliaGuizza" rel="nofollow noopener noreferrer" target="_blank">Giulia Guizzardi</a></p>
 <p>Since 2017, <a href="https://twitter.com/elifeinnovation?lang=en" rel="nofollow noopener noreferrer" target="_blank">eLife</a> has been working on the concept of computationally reproducible papers. The open-source suite of tools that started life as the Reproducible Document Stack is live since August 2020 on eLife as ERA, the Executable Research Article, delivering a truly web-native format for taking published research to a new level of transparency, reproducibility and interactivity.
