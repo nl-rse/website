@@ -4,6 +4,14 @@
       <h2 class="mt-6 text-3xl lg:text-4xl font-bold font-heading mt-10">
         <span class="text-primary">NL-RSE</span> Core Team
       </h2>
+      <p class="mb-10">
+      The current core team is made up of volunteers, who have taken the task of setting up the NL-RSE community. The core team will be renewed during the [NL-RSE 2021 elections](/events/nl-rse-elections2021)
+      </p>
+      <p class="mb-10">
+      Afterwards, the NL-RSE core team will be the elected group of volunteers who take responsibility for running the network (organising its events and activities). They have regular (bi-monthly) meetings to discuss any outstanding issues, provide input for the content of meetups and newsletters. The team consists of a chair, delegates & a secretariat.
+
+      The core team serves in office for one period and gets elected collectively by NL-RSE members in accordance with the NL-RSE election guidelines.
+      </p>
     </div>
     <section class="container mx-auto flex flex-wrap pb-20">
       <div
