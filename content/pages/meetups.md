@@ -4,10 +4,7 @@ title: NL-RSE Meetups
 ---
 ![Logo Banner](/img/meetups/logo-banner.jpg)
 
-The NL-RSE meets on regular basis, every two months on average.
-
-Netherlands eScience Center, DTL and SURF frequently organise NL-RSE meetups to encourage
-collaboration and communication between Research Software Engineers in the Netherlands.
+We organise frequent NL-RSE meetups to encourage collaboration and communication between Research Software Engineers in the Netherlands. These meetups are sponsored by Netherlands eScience Center, DTL and SURF.
 
 During the Covid19 pandemic, meetings will be organised online.
 
@@ -26,13 +23,13 @@ NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can le
 * [1 December, 2021](/events/2021-12-01-meetup); Online meetup
 
 ## Past meetups
-* [20 November, 2020](/events/2020-11-20-meetup.html); Online meetup
-* [16 December, 2020](/events/2020-12-16-meetup.html); Online meetup
-* [13 March, 2020](/events/2020-03-13-meetup.html)
+* [20 November, 2020](/events/2020-11-20-meetup); Online meetup
+* [16 December, 2020](/events/2020-12-16-meetup); Online meetup
+* [13 March, 2020](/events/2020-03-13-meetup)
 
 ## Location of in person events
 
-SURFmarket, SURFnet, SURF-bureau <br />
+SURF <br />
 Kantoren Hoog Overborch (Hoog Catharijne) <br />
 3511 EP Utrecht <br />
 Moreelsepark 48 <br />

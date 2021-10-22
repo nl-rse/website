@@ -4,27 +4,17 @@ title: Community
 ---
 # Community
 
-NL-RSE was formed in April 2017 after the example of the RSE communities in the [UK](http://rse.ac.uk) and [Germany](http://www.de-rse.org/en/). 
-
-The initiative was taken by the [Netherlands eScience Center](http://www.esciencecenter.nl)
-and [ePLAN](https://escience-platform.nl/) to bring together the RSE community in the Netherlands.
-
-The community is growing quickly! RSEs working in institutes across the country have already joined NL-RSE:
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aUxqqQcyzor_syAkXlB7Yyw8F2eKx6U3" width="100%" height="480"></iframe>
-
-Would you like to add your institute to the map? Join NL-RSE and email info@nl-rse.org.
+The NL-RSE community is formed by more than 200 Research Software Engineers across all Dutch universities, university medical centers, research institutes and other research related organizations. Do you want to become a member of NL-RSE, [sign up here](/pages/join)! See below the list of institutes across the country where RSEs are working and have already joined NL-RSE.
 
 ### NL-RSE Meetups
 
 The NL-RSE meets on regular basis, every two months on average.
 
-Please find more information on [Meetups page](meetups.html)
+Please find more information on [Meetups page](meetups)
 
 ### NL-RSE Core Team
 
-The community is represented and driven by [the NL-RSE Core Team](core-team.html).
-
+The community is represented and driven by [the NL-RSE Core Team](/core-team).
 
 If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
 
@@ -45,6 +35,51 @@ Send any announcements and job postings to everyone@lists.nl-rse.org for distrib
 Do you have an upcoming event, job opening or other news to share with the community? [Add it](https://forms.gle/D19m9eLnXkPNK2Tt5) to the next issue of our newsletter!
 
 
-### Contact the organisers
+### Contact the Core Team
 
-Would you like to share somethind during our next [meetup](/pages/meetups.html)? Email info@nl-rse.org to get in contact with the NL-RSE committee and conference organisers
+Would you like to share something during our next [meetup](/pages/meetups)? Email info@nl-rse.org to get in contact with the NL-RSE committee and conference organisers
+
+## List of institutes where RSEs have joined NL-RSE
+
+### Universities & University Medical Centers
+-	Delft University of Technology
+-	Erasmus MC
+-	Erasmus University Rotterdam
+-	Leiden University Library
+-	Leiden University Medical Center
+-	Maastricht University
+-	UMC Utrecht
+-	University of Amsterdam
+-	University of Groningen
+-	University of Twente / Universiteit Twente
+-	Utrecht University
+-	VU Amsterdam
+-	Wageningen University & Research
+
+### Research institutes
+-	AMOLF
+-	ASTRON, the Netherlands Institute for Radio Astronomy
+-	CWI
+-	Data Archiving and Networked Services (DANS)
+-	National Institute for Public Health and Environment
+-	Huygens ING
+-	Maritime Research Institute Netherlands (MARIN)
+-	Meertens Institute
+-	Netherlands eScience Center
+-	NIOO-KNAW
+-	SRON Netherlands Institute for Space Research
+
+### Other
+-	Amsterdam University of Applied Sciences
+-	ASML
+-	BaseClear B.V.
+-	Dell BV
+-	National Institute for Public Health and Environment
+-	Stichting Dutch Techcentre for Life Sciences
+-	National Library KB
+-	KNMI
+-	Science and Technology (S[&]T)
+-	Software for Chemistry & Materials
+-	SURF
+
+Would you like to add your institute to the list? Join NL-RSE and email info@nl-rse.org.

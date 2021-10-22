@@ -12,7 +12,7 @@ As the NL-RSE community grows, the core team feels it is important to be transpa
 Anyone who is registered on the NL-RSE mailing list on 31th October 2021 is eligible to vote in the 2021 election.
 
 ## Who is eligible to stand for election?
-Anyone who is registered on the NL-RSE mailing list on 15th October 2021 is eligible to be an election candidate in the 2021 election and must nominate him/herself by making this known to the [NL-RSE secretariat](https://nl-rse.org/pages/core-team.html#nl-rse-secretariat).
+Anyone who is registered on the NL-RSE mailing list on 15th October 2021 is eligible to be an election candidate in the 2021 election and must nominate him/herself by making this known to the [NL-RSE secretariat](/core-team#nl-rse-secretariat).
 
 ## Important dates
 

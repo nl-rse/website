@@ -15,11 +15,11 @@ Ben van Werkhoven opened the conference and introduced our first speaker, Niels 
 
 Niels gave a brief status update of NL-RSE and some announcements. Niels explained how important it is to have an RSE conference. As part of this academic career Niels has visited many computer science and domain science conferences, but when visiting the first RSE Conference in the UK in 2016, he suddenly realized that this conference was the first that he had ever attended that was actually organized for him!
 
-Back at home, Niels wasted no time and started forming a group of people to found NL-RSE, which finally happened in April 2017. Today, NL-RSE represents 179 Research Software Engineers from over 35 different organizations in the Netherlands. 
+Back at home, Niels wasted no time and started forming a group of people to found NL-RSE, which finally happened in April 2017. Today, NL-RSE represents 179 Research Software Engineers from over 35 different organizations in the Netherlands.
 
 To keep NL-RSE going, we need more volunteers to join the core team! The core team is responsible for all of the organization of NL-RSE and organizing events like the NL-RSE19 conference. Please send an email to info@nl-rse.org if you’re interested in joining the core team.
 
-Tania Allard, RSE in scientific computing and machine learning at Microsoft, RSE Society trustee, and diversity chair at the UK-RSE conference this year, gave the keynote presentation titled “IMPLICIT NONE: Intentional inclusion and diversity in the RSE movement”. 
+Tania Allard, RSE in scientific computing and machine learning at Microsoft, RSE Society trustee, and diversity chair at the UK-RSE conference this year, gave the keynote presentation titled “IMPLICIT NONE: Intentional inclusion and diversity in the RSE movement”.
 
 ![Tania Allard - Implicit none: intentional inclusion and diversity in the RSE movement](/img/nl-rse19/tania-title-slide.png)
 
@@ -29,7 +29,7 @@ Tania also explained that, in general, the role of the RSE within academia is mu
 
 It does not matter where you are on the spectrum between software engineering and research. Ever since the RSE movement started, there has been the opportunity for people to self-describe as RSEs. The International RSE community promotes inclusiveness and values diversity.
 
-After the keynote, we broke off into parallel sessions, featuring many different talks with a nice balance between RSE community and technology-focused contributions. See [the NL-RSE19 event page](/events/NL-RSE19.html) for the program and slides of most presentations.
+After the keynote, we broke off into parallel sessions, featuring many different talks with a nice balance between RSE community and technology-focused contributions. See [the NL-RSE19 event page](/events/nl-rse19) for the program and slides of most presentations.
 
 ## Comments from the participants
 
