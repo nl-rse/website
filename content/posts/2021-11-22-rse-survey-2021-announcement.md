@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help us understand the NL-RSE community by completing the survey!"
-image: '/img/survey2021/survey_image.png'
+image: '/img/survey2021/survey_image.jpg'
 date: 2021-11-22
 ---
 
