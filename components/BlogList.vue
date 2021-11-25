@@ -4,7 +4,7 @@
       <div class="mb-6 flex flex-wrap justify-center">
         <div class="mb-16 w-full text-center">
           <h2 class="text-4xl lg:text-5xl font-bold font-heading">
-            Our Blog
+            Blog posts
           </h2>
         </div>
         <div class="flex flex-wrap -mx-3 mb-16">
