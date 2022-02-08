@@ -36,10 +36,12 @@
         </div>
       </div>
 
-      <div v-if="!!members.secretary" class="p-4">
-        <h2 class="text-2xl font-bold mt-10">
-          NL-RSE secretariat
-        </h2>
+      <div v-if="!!members.secretary" id="secretariat" class="p-4">
+        <a href="/core-team#secretariat">
+          <h2 class="text-2xl font-bold mt-10">
+            NL-RSE secretariat
+          </h2>
+        </a>
         <p class="mb-10">
           The NL-RSE core team is supported by the NL-RSE secretariat, provided by the eScience center.
         </p>
@@ -58,10 +60,12 @@
         </div>
       </div>
 
-      <div v-if="!!members.past" class="p-4">
-        <h2 class="text-2xl font-bold my-10">
-          Past Core Team members
-        </h2>
+      <div v-if="!!members.past" id="past-core-team" class="p-4">
+        <a href="/core-team#past-core-team">
+          <h2 class="text-2xl font-bold my-10">
+            Past Core Team members
+          </h2>
+        </a>
         <ul>
           <li v-for="(member,key) in members.past" :key="key" class="mb-2 list-disc ml-4">
             <span class="font-bold">{{ member.name }},</span> {{ member.organization }}
@@ -69,6 +73,7 @@
         </ul>
       </div>
     </section>
+
     <main-footer />
   </div>
 </template>
