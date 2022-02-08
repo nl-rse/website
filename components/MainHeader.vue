@@ -50,9 +50,9 @@
             scientific recognition of research software.
           </p>
 
-          <div class="flex items-center justify-center">
+          <div class="flex gap-3 items-center justify-center max-w-3xl">
             <a
-              class="btn btn-primary w-full text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin py-2 px-6 text-wrap"
+              class="w-1/2 btn btn-primary text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin py-2 px-6 text-wrap"
               target="_blank"
               href="https://lists.nl-rse.org/mailman/listinfo/everyone"
             >
@@ -61,12 +61,43 @@
               </svg>
               Join the community of 200+ Research Software Engineers
             </a>
-            <!--            <a-->
-            <!--              class="btn py-2 px-6"-->
-            <!--              style="animation-delay: 200ms"-->
-            <!--            >About NL-RSE</a>-->
+
+            <div
+              class="w-1/2 btn btn-primary text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin p-0"
+              style="max-width: 280px; min-height: 100px"
+              target="_blank"
+              href="https://lists.nl-rse.org/mailman/listinfo/everyone"
+              @click="showVideo = !showVideo"
+            >
+              <img src="assets/video_button.webp" alt="Video Homepage NL-RSE">
+            </div>
           </div>
         </div>
+
+        <transition name="fade">
+          <iframe
+            v-if="showVideo"
+            class="absolute top-0 left-0 w-full h-full pt-4"
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/kLzU11-wY4E?rel=0&autoplay=1"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          />
+        </transition>
+      </div>
+      <div
+        v-if="showVideo"
+        class="absolute bottom-0 flex items-center font-bold cursor-pointer"
+        style="transform: translate(16px, 40px);"
+        @click="showVideo = !showVideo"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
+        </svg>
+        Close video
       </div>
     </div>
   </section>
@@ -77,6 +108,7 @@
 export default {
   data () {
     return {
+      showVideo: false,
       menu: []
     }
   },
