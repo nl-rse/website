@@ -69,11 +69,10 @@
               href="https://lists.nl-rse.org/mailman/listinfo/everyone"
               @click="showVideo = !showVideo"
             >
-              <img src="assets/video_button.webp" alt="Video Homepage NL-RSE">
+              <img src="~/assets/video_button.webp" alt="Video Homepage NL-RSE">
             </div>
           </div>
         </div>
-
         <transition name="fade">
           <iframe
             v-if="showVideo"
@@ -88,17 +87,19 @@
           />
         </transition>
       </div>
-      <div
-        v-if="showVideo"
-        class="absolute bottom-0 flex items-center font-bold cursor-pointer"
-        style="transform: translate(16px, 40px);"
-        @click="showVideo = !showVideo"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-          <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
-        </svg>
-        Close video
-      </div>
+      <transition name="fade">
+        <div
+          v-if="showVideo"
+          class="absolute bottom-0 flex items-center font-bold cursor-pointer"
+          style="transform: translate(16px, 40px);"
+          @click="showVideo = !showVideo"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
+          </svg>
+          Close video
+        </div>
+      </transition>
     </div>
   </section>
 </template>
@@ -117,3 +118,9 @@ export default {
   }
 }
 </script>
+
+<style>
+.fade-enter-active {transition: opacity 0.2s;}
+.fade-leave-active {transition: opacity 0.2s;}
+.fade-enter, .panel-leave-to  {opacity: 0}
+</style>
