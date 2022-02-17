@@ -4305,13 +4305,6 @@ daisyui@^1.8.0:
   resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.9.0.tgz#4315c135c202594e1fb9f4db4ea8ec31c1c9cac2"
   integrity sha512-iz4AJhDXVAjLKU90f/TtL8RhjqsX90Z0dunTxn3VQsffz2ymmfw+qR2PhVgZg3LIfjje4/27YRPqVYTYN6QJrQ==
 
-datebook@^6.5.7:
-  version "6.5.7"
-  resolved "https://registry.yarnpkg.com/datebook/-/datebook-6.5.7.tgz#603ec8a21991cb7abdb5e6090f29231375090453"
-  integrity sha512-r3onNuJ1XysCYFa7WpKDmF8tfGSS3ASHQRi/B1MKsvgmTndP/Thwk4zmwbAJqUEn6OCoghzfCpOWZAnoORmhgA==
-  dependencies:
-    file-saver "^2.0.2"
-
 de-indent@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/de-indent/-/de-indent-1.0.2.tgz#b2038e846dc33baa5796128d0804b455b8c1e21d"
@@ -4687,7 +4680,7 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-"endent@github:dword-design/endent#fork":
+endent@dword-design/endent#fork:
   version "1.4.0"
   resolved "https://codeload.github.com/dword-design/endent/tar.gz/be5433db67eaec07c6c9d00ba3bed2ed946dc664"
   dependencies:
@@ -5271,11 +5264,6 @@ file-loader@^6.2.0:
   dependencies:
     loader-utils "^2.0.0"
     schema-utils "^3.0.0"
-
-file-saver@^2.0.2:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/file-saver/-/file-saver-2.0.5.tgz#d61cfe2ce059f414d899e9dd6d4107ee25670c38"
-  integrity sha512-P9bmyZ3h/PRG+Nzga+rbdI4OEpNDzAVyy74uVO9ATgzLK6VtAsYybF/+TOCvrc0MO793d6+42lLyZTw7/ArVzA==
 
 file-uri-to-path@1.0.0:
   version "1.0.0"
