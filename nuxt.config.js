@@ -2,14 +2,12 @@ const isDev = process.env.NODE_ENV === 'development'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  ssr: false,
   generate: {
     fallback: true,
-    async routes () {
-      const { $content } = require('@nuxt/content')
-      const files = await $content({ deep: true }).only(['path']).fetch()
-      return files.map(file => file.path === '/index' ? '/' : file.path)
-    }
+    exclude: [
+      '/202x-mm-dd-meetup.template',
+      '/menu-item'
+    ]
   },
 
   // If deploying on github pages

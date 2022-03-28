@@ -94,5 +94,5 @@ to info@nl-rse.org.
 
 The final question that we'll discuss here is another very interesting one! Would you like to attend a national RSE event?
 An overwhelming number of RSEs in the Netherlands answered YES to this question! And for those of you, we have good news!
-NL-RSE will be organizing a first NL-RSE conference in November 2019! Be sure to [join the NL-RSE mailinglist](/pages/join)
+NL-RSE will be organizing a first NL-RSE conference in November 2019! Be sure to [join the NL-RSE mailinglist](/join)
 to stay up to date on information about the event.

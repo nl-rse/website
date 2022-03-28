@@ -26,10 +26,10 @@
           <div
             class="mx-auto"
           >
-            <nuxt-link to="/pages/terms" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
+            <nuxt-link to="/terms" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
               Terms of Service
             </nuxt-link>
-            <nuxt-link to="/pages/privacy" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
+            <nuxt-link to="/privacy" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
               Police Privacy
             </nuxt-link>
           </div>
