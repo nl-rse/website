@@ -4,7 +4,7 @@
       <div class="container mx-auto px-4 md:flex gap-x-6">
         <div class="flex flex-wrap -mx-3 w-full md:w-1/4">
           <div class="mb-6 lg:mb-0 w-full px-3">
-            <nuxt-link to="/pages/resources">
+            <nuxt-link to="/resources">
               <div class="p-6 flex flex-wrap bg-white shadow hover:shadow-lg transition rounded-lg">
                 <span class="mb-4 lg:mb-0 mr-6 inline-block p-3 md:p-5 rounded bg-pink-100">
                   <svg class="h-8 w-8 md:w-12 md:h-12 text-primary" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
