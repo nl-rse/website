@@ -15,8 +15,7 @@ Speakers are usually but not exclusively members of the NL-RSE community (i.e. D
 NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
 
 ## Meetups scheduled for 2022
-* [8 March, 2022](/events/2022-03-08-meetup); RSE Demoes & Panel Discussion (online)
-* [22 June, 2022](/events/2022-06-22-meetup); Should research software be free? (online)
+* [9 November, 2022](/events/2022-11-09-meetup); Should research software be free?
 * Early july; The place of open source in the strategy of your organization (online)
 * Early September (date TBC)
 * Mid October (date TBC)
