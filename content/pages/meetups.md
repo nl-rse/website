@@ -16,10 +16,6 @@ NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can le
 
 ## Meetups scheduled for 2022
 * [9 November, 2022](/events/2022-11-09-meetup); Should research software be free?
-* Early july; The place of open source in the strategy of your organization (online)
-* Early September (date TBC)
-* Mid October (date TBC)
-* Early December (date TBC)
 
 ## Past meetups
 ### 2021
