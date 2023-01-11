@@ -4,7 +4,7 @@ title: Join NL-RSE
 ---
 # Join NL-RSE
 
-Joining the NL-RSE Community is easy – just [sign up to our mailing list here](https://lists.nl-rse.org/mailman/listinfo/everyone).
+Joining the NL-RSE Community is easy – just [sign up to our mailing list here](https://lists.nl-rse.org/mailman/listinfo/everyone). If you have problems subscribing to the mailing list, please reach out to: info@nl-rse.org.
 
 ## Why join?
 
