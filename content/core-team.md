@@ -52,4 +52,7 @@ past:
 
   - name: Albert Meroño-Peñuela
     organization: Vrije Universiteit Amsterdam
+
+  - name: Anna-Lena Lamprecht
+    organization: Utrecht University
 ---
