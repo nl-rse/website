@@ -6,14 +6,10 @@ members:
   - name: Yan Grange
     image: /img/core-team/yan.jpg
     desc: Yan Grange works as a software developer in the Science Data Centre project line at ASTRON, the Netherlands institute for Radio Astronomy. The goal of this line is to make the data collections of ASTRON accessible to a wider community. Yan's focus in the team lies on data management and access.
-  - name: Anna-Lena Lamprecht
-    image: /img/core-team/Anna-Lena.jpg
-    desc: Anna-Lena is an assistant professor in the Software Technology group at the Department of Information and Computing Sciences at Utrecht University. In her work she combines the areas of research software engineering and applied formal methods. Currently she focuses on automated composition of scientific workflows, FAIR software and computational science education.
 
   - name: Carlos Martinez Ortiz
     image: /img/core-team/carlos.jpg
     desc: Carlos works at the eScience Center, he has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. He is also a certified Software Carpentry instructor and is frequently involved in organising trainings. Carlos obtained his PhD in Computer Science at the University of Exeter.
-
 
   - name: Thomas Pronk
     image: /img/core-team/thomas.jpg
@@ -56,4 +52,7 @@ past:
 
   - name: Albert Meroño-Peñuela
     organization: Vrije Universiteit Amsterdam
+
+  - name: Anna-Lena Lamprecht
+    organization: Utrecht University
 ---
