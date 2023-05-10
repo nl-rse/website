@@ -15,7 +15,7 @@ Speakers are usually but not exclusively members of the NL-RSE community (i.e. D
 NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
 
 ## Meetups scheduled for 2023
-* [15 June, 2023](/events/2023-06-15-meetup); Automated software testing
+* [15 June, 2023](/events/2023-06-15-meetup); Introduction to Automated software testing
 * [19 April, 2023](/events/2023-04-19-meetup); Bugs in research data and software
 
 ## Past meetups
