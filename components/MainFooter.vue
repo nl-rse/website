@@ -30,7 +30,7 @@
               Terms of Service
             </nuxt-link>
             <nuxt-link to="/pages/privacy" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
-              Police Privacy
+              Privacy Policy
             </nuxt-link>
           </div>
 
