@@ -19,9 +19,13 @@ members:
     image: /img/core-team/daan.jpg
     desc: Daan van Vugt leads Ignition Computing, a boutique high-tech and HPC software consultancy firm, founded to develop scientific software for ITER. He obtained a PhD in nuclear fusion, developing a combined finite element Magnetohydrodynamics and Particle-in-Cell code. His interests include visualisation tools, data analysis pipelines, batch processing systems, application deployment and continous integration & delivery and full-stack web development.
 
-  - name: Ben van Werkhoven
-    image: /img/core-team/ben.jpg
-    desc: Ben van Werkhoven holds a PhD in High-Performance Distributed Computing, specifically GPU Computing. He works as an Senior Research Engineer at the Netherlands eScience Center, where he is the leading GPU Computing expert. Ben is also a co-founder of NL-RSE.
+  - name: Dan Rudmann
+    image: /img/core-team/dan.jpg
+    desc: Dan Rudmann...
+
+  - name: Meron Vermaas
+    image: /img/core-team/meron.jpg
+    desc: Meron Vermaas...
 
 secretary:
   - name: Lieke de Boer
@@ -38,9 +42,6 @@ past:
   - name: Vahid Garousi
     organization: Wageningen University & Research
 
-  - name: Ben van Werkhoven
-    organization: Netherlands eScience Center
-
   - name: Susan Branchett
     organization: Delft University of Technology
 
@@ -55,4 +56,7 @@ past:
 
   - name: Anna-Lena Lamprecht
     organization: Utrecht University
+
+  - name: Ben van Werkhoven
+    organization: Netherlands eScience Center
 ---
