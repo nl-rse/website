@@ -46,5 +46,7 @@ Only two participants preferred online meetups, while all others preferred hybri
 
 **We will keep organizing interesting meetups,** with topics that inspire you, increase your technical knowledge, and offer networking opportunities. The meetups will be in-person, ideally with a hybrid option. 
 
+Code for figures in this blog post can be found [here](https://github.com/c-martinez/nlrse-survey-figures).
+
 Would you like to be informed about meetups and other NL-RSE news? Be sure to [join the NL-RSE mailinglist](/pages/join)! 
 
