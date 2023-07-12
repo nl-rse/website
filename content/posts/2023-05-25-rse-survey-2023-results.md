@@ -12,7 +12,7 @@ By Lieke de Boer and Thomas Pronk, NL-RSE
 
 ## How (well) are the interests of RSEs safeguarded at their institutions?
 
-The histogram below shows how many participants agreed with the following statement: "The interests of RSEs are safeguarded at my institute". As A substantial number of RSEs agreed with this statement, but there are still places where this seems not to be the case at all.
+The histogram below shows how many participants agreed with the following statement: "The interests of RSEs are safeguarded at my institute". As a substantial number of RSEs agreed with this statement, but there are still places where this seems not to be the case at all.
 
 ![Interests of RSEs are safeguarded at my institution](/img/survey2023/interests_safeguarded.png)
 
