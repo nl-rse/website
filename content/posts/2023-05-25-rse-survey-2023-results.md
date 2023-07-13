@@ -5,7 +5,7 @@ image: '/img/survey2023/thumbnail.jpg'
 date: 2023-05-25
 ---
 
-By Lieke de Boer and Thomas Pronk, NL-RSE
+By Carlos Martinez Ortiz and Thomas Pronk, NL-RSE
 
 *How are Dutch RSEs doing in 2022/2023? We've sent around a brief survey to find out, which was completed by 23 people. Read on to learn how well RSE interests are safeguarded, what RSEs actually do, and what NL-RSE meetups should look like.*
 <!--break-->
