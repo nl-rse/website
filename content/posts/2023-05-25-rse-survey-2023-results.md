@@ -14,7 +14,7 @@ By Carlos Martinez Ortiz and Thomas Pronk, NL-RSE
 
 The histogram below shows how many participants agreed with the following statement: "The interests of RSEs are safeguarded at my institute". As a substantial number of RSEs agreed with this statement, but there are still places where this seems not to be the case at all.
 
-![Interests of RSEs are safeguarded at my institution](/img/survey2023/interests_safeguarded.png)
+![Interests of RSEs are safeguarded at my institution](/img/survey2023/rse_safeguarded_scal.jpg)
 
 It seems that a lot of progress have been made over the past years. However, there is more to be done. All but one participant agreed that NL-RSE should represent the interests of RSEs nation-wide and so we shall keep representing you. To get an idea how we could do so best, we  asked how interests are safeguarded (or not). Some aspects that RSEs where positive (or negative) about, were:
 * Opportunities for training and career development
@@ -26,7 +26,7 @@ It seems that a lot of progress have been made over the past years. However, the
 
 The histograms below show what kind of activities the work of RSEs entails. As one could expect, many RSEs perform engineering work, while a subtantial number also educate people. A lot of variation could be found in the number of RSEs that do science and/or management. It appers that the work of an RSE encompasses much more than just computer programming, reaffirming that research software engineering is a unique discipline in its own right.
 
-![Interests of RSEs are safeguarded at my institution](/img/survey2023/rse_activities.png)
+![Interests of RSEs are safeguarded at my institution](/img/survey2023/rse_activities_v2.jpg)
 
 ## Why do you go to NL-RSE meetups?
 
