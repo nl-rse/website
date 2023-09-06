@@ -21,7 +21,7 @@ members:
 
   - name: Dan Rudmann
     image: /img/core-team/dan.jpg
-    desc: Dan Rudmann...
+    desc: Dan Rudmann is a Digital Scholarship Librarian at Leiden University. He works to initiate Leiden's expertise area in Research Software through the formation of the Research Software Community Leiden.
 
   - name: Meron Vermaas
     image: /img/core-team/meron.jpg
