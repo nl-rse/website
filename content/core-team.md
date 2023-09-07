@@ -20,7 +20,7 @@ members:
     desc: Daan van Vugt leads Ignition Computing, a boutique high-tech and HPC software consultancy firm, founded to develop scientific software for ITER. He obtained a PhD in nuclear fusion, developing a combined finite element Magnetohydrodynamics and Particle-in-Cell code. His interests include visualisation tools, data analysis pipelines, batch processing systems, application deployment and continous integration & delivery and full-stack web development.
 
   - name: Dan Rudmann
-    image: /img/core-team/dan.jpg
+    image: /img/core-team/dan.png
     desc: Dan Rudmann is a Digital Scholarship Librarian at Leiden University. He works to initiate Leiden's expertise area in Research Software through the formation of the Research Software Community Leiden.
 
   - name: Meron Vermaas
