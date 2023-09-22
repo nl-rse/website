@@ -1,0 +1,80 @@
+name: Research Software Group
+description: Add your group to our list
+title: "[Group]: "
+labels: ["group"]
+assignees:
+  - DaanVanVugt
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We are looking to publish an overview of groups in the Netherlands with Research Software Engineers (RSEs).
+        This can include pure support groups, as well as topic-oriented groups with a strong software component.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: How would you describe your group? (include your institute name)
+      placeholder: ex. ASTRON support staff
+    validations:
+      required: true
+  #- type: input
+    #id: organisation
+    #attributes:
+      #label: Organisation
+      #description: Which organisation is your group a part of
+      #placeholder: ex. NWO-I, ASTRON, Amsterdam UMC
+    #validations:
+      #required: true
+  - type: textarea
+    id: research_goal
+    attributes:
+      label: Research goal
+      description: Describe the goal of the lab or research group you are a part of
+      placeholder: Tell us about your group
+    validations:
+      required: false
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Do you have a URL for this group?
+      placeholder: https://
+    validations:
+      required: false
+  - type: dropdown
+    id: group_size
+    attributes:
+      label: What is your group size in FTE?
+      options:
+        - 'S: 1-5'
+        - 'M: 5-10'
+        - 'L: 10-20'
+        - 'XL: 20+'
+    validations:
+      required: true
+  - type: dropdown
+    id: group_focus
+    attributes:
+      label: What fraction of the time is spent on RSE activities?
+      options:
+        - '0-20%'
+        - '20-40%'
+        - '40-60%'
+        - '60-80%'
+        - '80+%'
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Is there an email address or URL to contact this group? Leave blank if same as the URL above.
+      placeholder: group.secretary@institute.edu
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        You can update or remove the information provided by filing an issue or pull request.
+        If you'd like to provide this information to us privately, please email info@nl-rse.org
