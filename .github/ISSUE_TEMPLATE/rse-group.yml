@@ -1,31 +1,18 @@
 name: Research Software Group
-description: Add your group to our list
-title: "[Group]: "
+description: Fill out this issue form to list your group
+title: ""
 labels: ["group"]
 assignees:
-  - DaanVanVugt
+  - liekelotte
 body:
   - type: markdown
     attributes:
       value: |
         We are looking to publish an overview of groups in the Netherlands with Research Software Engineers (RSEs).
         This can include pure support groups, as well as topic-oriented groups with a strong software component.
-  - type: input
-    id: name
-    attributes:
-      label: Name
-      description: How would you describe your group? (include your institute name)
-      placeholder: ex. ASTRON support staff
-    validations:
-      required: true
-  #- type: input
-    #id: organisation
-    #attributes:
-      #label: Organisation
-      #description: Which organisation is your group a part of
-      #placeholder: ex. NWO-I, ASTRON, Amsterdam UMC
-    #validations:
-      #required: true
+        This way, other researchers and RSEs will be able to more easily find you.
+
+        In the title above, please include your institute name (ex: ASTRON support team)
   - type: textarea
     id: research_goal
     attributes:
@@ -77,4 +64,4 @@ body:
     attributes:
       value: |
         You can update or remove the information provided by filing an issue or pull request.
-        If you'd like to provide this information to us privately, please email info@nl-rse.org
+        Please email info@nl-rse.org if you'd like to provide this information to us privately or have other questions
