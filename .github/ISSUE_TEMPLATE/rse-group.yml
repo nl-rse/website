@@ -1,6 +1,5 @@
 name: Research Software Group
 description: Fill out this issue form to list your group
-title: ""
 labels: ["group"]
 assignees:
   - liekelotte
@@ -11,7 +10,6 @@ body:
         We are looking to publish an overview of groups in the Netherlands with Research Software Engineers (RSEs).
         This can include pure support groups, as well as topic-oriented groups with a strong software component.
         This way, other researchers and RSEs will be able to more easily find you.
-
         In the title above, please include your institute name (ex: ASTRON support team)
   - type: textarea
     id: research_goal
