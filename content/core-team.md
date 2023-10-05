@@ -25,7 +25,8 @@ members:
 
   - name: Meron Vermaas
     image: /img/core-team/meron.jpg
-    desc: Meron Vermaas...
+    desc: Meron is a Coordinator of Research Software at Vrije Universiteit Amsterdam (VU Amsterdam). He has worked in computational neuroscience at the Donders Institute Nijmegen and UMC Utrecht, where he obtained a PhD. Currently, he works on improving software sustainability at the VU by focusing on developing expertise in software practices, infrastructure, and support.
+
 
 secretary:
   - name: Lieke de Boer
