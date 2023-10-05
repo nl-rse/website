@@ -14,7 +14,7 @@ By Thomas Pronk, Lieke de Boer and Carlos Martinez Ortiz, NL-RSE
 
 The histogram below shows how many participants agreed with the following statement: "The interests of RSEs are safeguarded at my institute". As a substantial number of RSEs agreed with this statement, but there are still places where this seems not to be the case at all.
 
-![Interests of RSEs are safeguarded at my institution](/img/survey2023/rse_safeguarded_scal.jpg)
+![Interests of RSEs are safeguarded at my institution](/img/survey2023/rse_safeguarded_scale.jpg)
 
 It seems that a lot of progress have been made over the past years. However, there is more to be done. All but one participant agreed that NL-RSE should represent the interests of RSEs nation-wide and so we shall keep representing you. To get an idea how we could do so best, we  asked how interests are safeguarded (or not). Some aspects that RSEs where positive (or negative) about, were:
 * Opportunities for training and career development
