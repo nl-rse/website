@@ -4,9 +4,7 @@ title: NL-RSE Meetups
 ---
 ![Logo Banner](/img/meetups/logo-banner.jpg)
 
-We organise frequent NL-RSE meetups to encourage collaboration and communication between Research Software Engineers in the Netherlands. These meetups are sponsored by Netherlands eScience Center, DTL and SURF.
-
-During the Covid19 pandemic, meetings will be organised online.
+We organise frequent NL-RSE meetups to encourage collaboration and communication between Research Software Engineers in the Netherlands. These meetups are sponsored by Netherlands eScience Center, HealthRI and SURF.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
 and frameworks to practical tips for research software engineers, and more.
