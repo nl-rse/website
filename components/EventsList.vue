@@ -4,7 +4,7 @@
       <div class="flex flex-col flex-wrap justify-center">
         <div class="w-full ">
           <h3 class="text-2xl mb-3">
-            Events
+            Our Events
           </h3>
         </div>
         <nuxt-link
