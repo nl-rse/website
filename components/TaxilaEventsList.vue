@@ -1,6 +1,6 @@
 <template>
   <div style="border-radius: 10px;" class="px-8 py-6 bg-white text-left max-w-2xl mx-auto mb-12 sm:mb-20">
-    <div id="dev-tess-widget-materials-title" style="font-size: 24px;" class="mb-2">Potentially Interesting Events (from <a href='https://taxila.nl'>taxila.nl</a>)</div>
+    <div id="dev-tess-widget-materials-title" style="font-size: 24px;" class="mb-2 flex flex-row">Other Events<img class='h-4 mt-3 ml-16' src="assets/icons/taxila.svg" alt="taxila.nl" href='https://taxila.nl'/></div>
     <link rel="stylesheet" property="stylesheet" href="https://elixirtess.github.io/TeSS_widgets/css/tess-widget.css"/>
     <div id="dev-tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
     <div class="flex justify-end">
@@ -36,11 +36,11 @@
             start_div.classList.add('text-sm');
             start_div.classList.add('text-gray-400');
             eventElement.appendChild(start_div);
-            const venue_div = document.createElement('div');
-            venue_div.textContent = event.attributes['online'] ? 'Online' : event.attributes['venue'];
-            venue_div.classList.add('text-sm');
-            venue_div.classList.add('text-gray-400');
-            eventElement.appendChild(venue_div);
+            const location_div = document.createElement('div');
+            location_div.textContent = event.attributes['online'] ? 'Online' : event.attributes['city'];
+            location_div.classList.add('text-sm');
+            location_div.classList.add('text-gray-400');
+            eventElement.appendChild(location_div);
             this.list.appendChild(eventElement);
           });
         }
@@ -61,7 +61,7 @@
               truncateLength: 2
             },
             params: {
-              q: "science OR technology OR python OR programming OR (research software)",
+              q: "(research software) OR (open science) OR programming",
               pageSize: 10,
             },
             baseUrl: 'https://taxila.nl'
