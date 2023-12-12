@@ -22,24 +22,28 @@
               </div>
             </nuxt-link>
           </div>
+          <div class="mb-6 lg:mb-0 w-full px-3">
+            <a
+              class="twitter-timeline"
+              data-width="100%"
+              data-chrome="noscrollbar"
+              data-tweet-limit="2"
+              data-dnt="true"
+              href="https://twitter.com/nl_rse?ref_src=twsrc%5Etfw"
+            >Tweets by nl_rse</a> <script
+              async
+              src="https://platform.twitter.com/widgets.js"
+              charset="utf-8"
+            />
+          </div>
         </div>
+        
         <div class="flex flex-wrap w-full bg-white shadow rounded-lg md:w-1/2 ">
           <EventsList :events="events" />
         </div>
 
         <div class="flex flex-wrap w-full bg-white shadow rounded-lg p-2 md:w-1/3 ">
-          <a
-            class="twitter-timeline"
-            data-width="100%"
-            data-chrome="noscrollbar"
-            data-tweet-limit="2"
-            data-dnt="true"
-            href="https://twitter.com/nl_rse?ref_src=twsrc%5Etfw"
-          >Tweets by nl_rse</a> <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          />
+          <TaxilaEventsList/>
         </div>
       </div>
     </div>
