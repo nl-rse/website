@@ -14,5 +14,8 @@ items:
 
   - title: Core Team
     path: /core-team
+
+  - title: Groups
+    path: /groups
 ---
 
