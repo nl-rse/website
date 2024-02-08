@@ -30,7 +30,7 @@
             <p class="mb-4 text-gray-700 leading-loose">
               {{ group.research_goal.substring(0,200) }}
               <span class="collapse" id="viewdetails3"> 
-                {{ group.research_goal.substring(200,10000) }}
+                {{ group.research_goal.substring(200,1000) }}
               </span> <a data-toggle="collapse" data-target="#viewdetails3">More... &raquo;</a>
             </p>
             <span class="mr-4 font-bold">Size: {{ group.group_size }}</span>
