@@ -13,7 +13,7 @@ members:
 
   - name: Thomas Pronk
     image: /img/core-team/thomas.jpg
-    desc: Thomas Pronk develops and consults on technology for psychological research. He is interested in mental chronometry, which is making inferences about the mind based on how fast it responds. This interest involves research software engineering and behavioral data science, with special considerations for the circumstances under which data is collected. His main employer is the University of Amsterdam, Faculty of Social and Behavioural Sciences. On the side, he does community gardening and a Ph.D. in mental chronometry via the internet. Find out more at https://thomaspronk.com
+    desc: Thomas works as a research software consultant at the Research Data Management department of Amsterdam UMC. There he tries to improve medical science by improving research software management. He did his PhD at the University of Amsterdam, which covered similar topics in the context of behavioral science.
 
   - name: Daan van Vugt
     image: /img/core-team/daan.jpg

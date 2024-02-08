@@ -42,6 +42,7 @@ Would you like to share something during our next [meetup](/pages/meetups)? Emai
 ## List of institutes where RSEs have joined NL-RSE
 
 ### Universities & University Medical Centers
+-	Amsterdam UMC
 -	Delft University of Technology
 -	Erasmus MC
 -	Erasmus University Rotterdam
