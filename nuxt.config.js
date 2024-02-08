@@ -1,3 +1,5 @@
+import ExpandableTextLine from 'vue-expandable-text-line'
+
 const isDev = process.env.NODE_ENV === 'development'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
@@ -46,7 +48,8 @@ export default {
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
-  components: true,
+  // components: true,
+  components: { ExpandableTextLine },
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [

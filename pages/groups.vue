@@ -26,7 +26,9 @@
             <h4 class="mb-2 text-2xl font-bold font-heading">
               {{ group.title }}
             </h4>
-            <p class="mb-4 text-gray-700 leading-loose" v-text="group.research_goal" />
+            <expandable-text-line>
+              <p class="mb-4 text-gray-700 leading-loose" v-text="group.research_goal" />
+            </expandable-text-line>
             <span class="mr-4 font-bold">Size: {{ group.group_size }}</span>
             <span class="mr-4 font-bold">RSE Focus: {{ group.group_focus }}</span>
             <a class="mr-4 font-bold" v-if="!!group.url" :href="group.url">website</a>
