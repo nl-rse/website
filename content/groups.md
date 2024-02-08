@@ -37,5 +37,10 @@ groups:
     url: https://cdh.uu.nl/about/research-software-lab/
     contact: mailto:digitalhumanities@uu.nl
 
-
+#  - title: ...
+#    url: ...
+#    research_goal: ...
+#    group_size: 20+
+#    group_focus: 20-40%
+#    contact:
 ---
