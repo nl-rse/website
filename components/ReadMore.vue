@@ -5,6 +5,7 @@
 
     <div>
       <!-- Conditionally display Read More / Read Less Button -->
+      <div class="hidden line-clamp-6 line-clamp-5 line-clamp-4 line-clamp-3 line-clamp-2 line-clamp-1" />
       <button class="my-6 text-primary hover:underline" @click="toggleText">
         {{ isExpanded ? 'Read Less' : 'Read More' }}
       </button>
