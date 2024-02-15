@@ -1,5 +1,6 @@
 import tailwindTypography from '@tailwindcss/typography'
 import daisyui from 'daisyui'
+import lineclamp from '@tailwindcss/line-clamp'
 
 export default {
   darkMode: false, // or 'media' or 'class'
@@ -7,6 +8,7 @@ export default {
   // see issue https://github.com/nuxt/vite/issues/159
   plugins: [
     tailwindTypography,
+    lineclamp,
     daisyui
   ],
   daisyui: {
