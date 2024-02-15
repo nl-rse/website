@@ -21,16 +21,17 @@
         :key="index"
         class="p-4 w-full sm:w-1/2 lg:w-1/3"
       >
-        <div class="flex flex-col  h-full p-4 items-center rounded shadow bg-white">
-          <div class="w-full lg:pl-6 p-4">
-            <h4 class="mb-2 text-2xl font-bold font-heading">
+        <div class="flex flex-col h-full p-4 items-center rounded shadow bg-white">
+          <div class="w-full lg:pl-6 p-4 flex flex-col">
+            <h4 class="mb-2 text-2xl font-bold font-heading h-full">
               {{ group.title }}
             </h4>
-            <p class="mb-4 text-gray-700 leading-loose" v-text="group.research_goal" />
+            <ReadMore :text="group.research_goal" :line-clamp="6" />
+            <span class="mt-4" />
             <span class="mr-4 font-bold">Size: {{ group.group_size }}</span>
             <span class="mr-4 font-bold">RSE Focus: {{ group.group_focus }}</span>
-            <a class="mr-4 font-bold" v-if="!!group.url" :href="group.url">website</a>
-            <a class="mr-4 font-bold" v-if="!!group.contact" :href="group.contact">contact</a>
+            <a v-if="!!group.url" class="mr-4 font-bold" :href="group.url">website</a>
+            <a v-if="!!group.contact" class="mr-4 font-bold" :href="group.contact">contact</a>
           </div>
         </div>
       </div>
@@ -41,6 +42,7 @@
 </template>
 
 <script>
+import ReadMore from '~/components/ReadMore.vue'
 export default {
 
   transition: 'fade',
