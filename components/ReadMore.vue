@@ -5,7 +5,7 @@
 
     <div>
       <!-- Conditionally display Read More / Read Less Button -->
-      <button v-if="isOverflowing || isExpanded" class="my-6 text-primary hover:underline" @click="toggleText">
+      <button class="my-6 text-primary hover:underline" @click="toggleText">
         {{ isExpanded ? 'Read Less' : 'Read More' }}
       </button>
     </div>
@@ -24,8 +24,7 @@ export default {
   },
   data () {
     return {
-      isExpanded: false,
-      isOverflowing: false
+      isExpanded: false
     }
   },
   computed: {
@@ -33,18 +32,13 @@ export default {
       return this.isExpanded ? {} : { ['line-clamp-' + this.lineClamp]: true }
     }
   },
-  mounted () {
-    this.checkOverflow()
-  },
+
   methods: {
     toggleText () {
       this.isExpanded = !this.isExpanded
       this.$nextTick(this.checkOverflow)
-    },
-    checkOverflow () {
-      const content = this.$refs.textContent
-      this.isOverflowing = content.scrollHeight > content.clientHeight
     }
+
   }
 }
 </script>
