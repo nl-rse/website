@@ -6,8 +6,9 @@ date: 2021-12-DD
 ---
 
 MONTH 2021 Meetup of the NL-RSE Community.
-<!--break-->
+<!--break
 ![Logo Banner](/img/meetups/logo-banner.jpg)
+-->
 
 ## Location
 The call will be conducted with the [ZOOM](https://zoom.us) conferencing platform. Follow [Joining the Meeting instructions](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting).
