@@ -37,6 +37,13 @@ groups:
     url: https://cdh.uu.nl/about/research-software-lab/
     contact: mailto:digitalhumanities@uu.nl
 
+  - title: REIT @ Computer Science TU Delft
+    research_goal: The Research Engineering and Infrastructure Team (REIT) is a diverse team of research (software) engineers dedicated to support researchers at TU Delft's Computer Science departments with their expertise in software engineering, data science, and high-performance computing. The team contributes to projects across all sections of computer science at the university.
+    group_size: 10-20
+    group_focus: 80+%
+    url: https://reit.tudelft.nl/
+    contact: mailto:reit-ewi@tudelft.nl
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...
