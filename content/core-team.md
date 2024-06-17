@@ -27,7 +27,7 @@ members:
     image: /img/core-team/meron.jpg
     desc: Meron is a Coordinator of Research Software at Vrije Universiteit Amsterdam (VU Amsterdam). He has worked in computational neuroscience at the Donders Institute Nijmegen and UMC Utrecht, where he obtained a PhD. Currently, he works on improving software sustainability at the VU by focusing on developing expertise in software practices, infrastructure, and support.
 
-  - name: Catharina Vaende
+  - name: Catharina Vaendel
     image: /img/core-team/catharina.jpg
     desc:  Catharina works as a Software Infrastructrure engineer at Nikhef, the national institute for subatomic physics. Her goal is to ‘build bridges’ between IT and research. Her current project is to build and implement an institutional research data repository, with the goal to make (pre)published datasets available for collaboration. She is also one of the climate ambassadors at Nikhef; working to create a CO2 neutral Nikhef in 2030.
 
