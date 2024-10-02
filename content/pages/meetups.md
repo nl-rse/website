@@ -14,6 +14,7 @@ NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can le
 
 ## Meetups scheduled for 2024
 * [1 May, 2024](/events/2024-05-01-meetup); NL-RSE Rust meetup
+* [5 November, 2024](/events/2024-11-05-meetup); NL-RSE meetup on differentiable simulation
 
 ## Past meetups
 ## 2023
