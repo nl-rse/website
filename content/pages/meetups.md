@@ -2,15 +2,12 @@
 layout: page
 title: NL-RSE Meetups
 ---
-![Logo Banner](/img/meetups/logo-banner.jpg)
 
 We organise frequent NL-RSE meetups to encourage collaboration and communication between Research Software Engineers in the Netherlands. These meetups are sponsored by Netherlands eScience Center, HealthRI and SURF.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
 and frameworks to practical tips for research software engineers, and more.
 Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch Research Software Engineers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
-
-NL-RSE meetups are the continuation of DTL SURF Programmers meetings. You can learn more about those and see past agendas on [DTL website](https://www.dtls.nl/community/meetings/programmers-meetings/).
 
 ## Meetups scheduled for 2024
 * [5 November, 2024](/events/2024-11-05-meetup); NL-RSE meetup on differentiable simulation
