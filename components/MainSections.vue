@@ -8,14 +8,6 @@
               <div
                 class="p-6 flex flex-wrap bg-white shadow hover:shadow-lg transition rounded-lg"
               >
-                JOIN BUTTON
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/pages/resources">
-              <div
-                class="mt-6 p-6 flex flex-wrap bg-white shadow hover:shadow-lg transition rounded-lg"
-              >
                 <span
                   class="mb-4 lg:mb-0 mr-6 inline-block p-3 md:p-5 rounded bg-pink-100"
                 >
