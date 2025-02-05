@@ -1,29 +1,29 @@
 <template>
   <div>
-    <blog-list :posts="posts" :more="true" />
     <main-sections :events="events" />
+    <blog-list :posts="posts" :more="true" />
     <main-footer />
   </div>
 </template>
 <script>
 export default {
-  transition: 'fade',
-  async asyncData ({ $content, params }) {
+  transition: "fade",
+  async asyncData({ $content, params }) {
     // blog list
-    const posts = await $content('posts')
+    const posts = await $content("posts")
       .limit(4)
-      .sortBy('date', 'desc')
-      .fetch()
+      .sortBy("date", "desc")
+      .fetch();
 
-    const events = await $content('events')
+    const events = await $content("events")
       .limit(6)
-      .sortBy('date', 'desc')
-      .fetch()
+      .sortBy("date", "desc")
+      .fetch();
 
     return {
       posts,
-      events
-    }
-  }
-}
+      events,
+    };
+  },
+};
 </script>
