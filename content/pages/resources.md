@@ -8,6 +8,7 @@ Job profiles:
 Open Source Guide:
 [Open Source Guide](https://opensource.guide/): 
 
+Hiring: 
 Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE: https://zenodo.org/records/8264153 
 
 [RSE society website](https://society-rse.org/)
