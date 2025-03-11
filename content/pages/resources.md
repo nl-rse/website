@@ -4,6 +4,8 @@ Below are resources relevant for those working as an RSE:
 Job profiles:
 [eScience Center job profiles](https://zenodo.org/records/7805870)
 [RSE competencies toolkit](https://rsetoolkit.github.io/rse-competencies-toolkit/)
+
+Open Source Guide:
 [Open Source Guide](https://opensource.guide/): 
 
 Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE: https://zenodo.org/records/8264153 
