@@ -1,6 +1,6 @@
 # Resources NL-RSE
 
-Below are resources relevant for working as an RSE:
+Below are resources relevant for those working as an RSE:
 
 [eScience Center job profiles](https://zenodo.org/records/7805870)
 [Open Source Guide](https://opensource.guide/): 
