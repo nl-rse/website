@@ -1,30 +1,29 @@
 # Resources NL-RSE
 
-Below are resources relevant for those working as an RSE:
-Job profiles:
-[eScience Center job profiles](https://zenodo.org/records/7805870)
-[RSE competencies toolkit](https://rsetoolkit.github.io/rse-competencies-toolkit/)
+## Below are resources relevant for those working as an RSE
+### Hiring RSEs
+- [eScience Center job profiles](https://zenodo.org/records/7805870)
+- [RSE competencies toolkit](https://rsetoolkit.github.io/rse-competencies-toolkit/)
+- Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE: https://zenodo.org/records/8264153 
 
+### Dutch RSE group websites
+- REIT [website](https://reit.tudelft.nl/)  
+- [Request time](https://reit.tudelft.nl/#/#workwithus) with REIT 
+- [CDH website](https://cdh.uu.nl/) 
+- [Request time](https://cdh.uu.nl/support/researchers/) with CDH 
+- Diagnostic image analysis group [website](https://www.diagnijmegen.nl/)
+- Netherlands eScience Center [website](https://www.esciencecenter.nl/)
+- UU Research Data Management support [website](https://www.uu.nl/en/research/research-data-management/support/research-engineers)
+- [Request time](https://forms.uu.nl/universiteitutrecht/re_request) with RDM UU Research Engineers
+
+### RSE resources
 Open Source Guide:
 [Open Source Guide](https://opensource.guide/): 
 
-Hiring: 
-Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE: https://zenodo.org/records/8264153 
-
+### RSE society
 [RSE society website](https://society-rse.org/)
 
-REIT [website](https://reit.tudelft.nl/)  
-[Request time](https://reit.tudelft.nl/#/#workwithus) with REIT 
 
-[CDH website](https://cdh.uu.nl/) 
-[Request time](https://cdh.uu.nl/support/researchers/) with CDH 
-
-Diagnostic image analysis group [website](https://www.diagnijmegen.nl/)
-
-Netherlands eScience Center [website](https://www.esciencecenter.nl/)
-
-UU Research Data Management support [website](https://www.uu.nl/en/research/research-data-management/support/research-engineers)
-[Request time](https://forms.uu.nl/universiteitutrecht/re_request) with RDM UU Research Engineers
 
 [Taxila](https://taxila.nl/) 
 
