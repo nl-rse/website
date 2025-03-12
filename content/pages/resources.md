@@ -7,26 +7,24 @@
 - Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE: https://zenodo.org/records/8264153 
 
 ### Dutch RSE group websites
-- REIT [website](https://reit.tudelft.nl/)  
-- [Request time](https://reit.tudelft.nl/#/#workwithus) with REIT 
-- [CDH website](https://cdh.uu.nl/) 
-- [Request time](https://cdh.uu.nl/support/researchers/) with CDH 
-- Diagnostic image analysis group [website](https://www.diagnijmegen.nl/)
+- REIT, TU Delft [website](https://reit.tudelft.nl/), [request time](https://reit.tudelft.nl/#/#workwithus) with REIT 
+- CDH, Utrecht University [website](https://cdh.uu.nl/), [request time](https://cdh.uu.nl/support/researchers/) with CDH 
+- Diagnostic image analysis group, Radboud UMC [website](https://www.diagnijmegen.nl/)
 - Netherlands eScience Center [website](https://www.esciencecenter.nl/)
-- UU Research Data Management support [website](https://www.uu.nl/en/research/research-data-management/support/research-engineers)
-- [Request time](https://forms.uu.nl/universiteitutrecht/re_request) with RDM UU Research Engineers
+- Utrecht University Research Data Management support [website](https://www.uu.nl/en/research/research-data-management/support/research-engineers), [request time](https://forms.uu.nl/universiteitutrecht/re_request) with RDM UU Research Engineers
 
 ### RSE resources
 Open Source Guide:
 [Open Source Guide](https://opensource.guide/): 
 
-### RSE society
-[RSE society website](https://society-rse.org/)
+### RSE community resources
+- [RSE society website](https://society-rse.org/)
+- [US-RSE website](https://us-rse.org/)
+- [Research Software Alliance](https://www.researchsoft.org/), [sign up](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share) for updates from ReSA
+- Browse [Taxila](https://taxila.nl/) for events related to research software and Open Science in the Netherlands
 
 
-
-[Taxila](https://taxila.nl/) 
-
+### Using the NL-RSE logo
 Discover and download the NL-RSE Logo and branding. <br>
 Artwork crafted with <span class="mr-1">🤍</span> by <a target="_blank" href="https://www.ctwhome.com/">@ctwhome</a>.
 
