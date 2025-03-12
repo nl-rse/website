@@ -22,6 +22,7 @@ Open Source Guide:
 - [US-RSE website](https://us-rse.org/)
 - [Research Software Alliance](https://www.researchsoft.org/), [sign up](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share) for updates from ReSA
 - Browse [Taxila](https://taxila.nl/) for events related to research software and Open Science in the Netherlands
+- Sign up to the global RSE slack space in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdqs-_QNwQFzCIUEafah91E5E00lGUEnTPC4jjYbGUqPjONwA/viewform)
 
 
 ### Using the NL-RSE logo
