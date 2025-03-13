@@ -7,7 +7,8 @@
 - Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE: https://zenodo.org/records/8264153 
 
 ### Dutch RSE group websites
-- REIT, TU Delft [website](https://reit.tudelft.nl/), [request time](https://reit.tudelft.nl/#/#workwithus) with REIT 
+- REIT, TU Delft [website](https://reit.tudelft.nl/), [request time](https://reit.tudelft.nl/#/#workwithus) with REIT
+- DCC, TU Delft [website](https://www.tudelft.nl/en/library/support/library-for-researchers/setting-up-research/dcc), [work with](https://www.tudelft.nl/en/library/support/library-for-researchers/setting-up-research/dcc/contact) DCC Delft
 - CDH, Utrecht University [website](https://cdh.uu.nl/), [request time](https://cdh.uu.nl/support/researchers/) with CDH 
 - Diagnostic image analysis group, Radboud UMC [website](https://www.diagnijmegen.nl/)
 - Netherlands eScience Center [website](https://www.esciencecenter.nl/)
