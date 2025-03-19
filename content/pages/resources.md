@@ -17,6 +17,9 @@
 ### RSE resources
 Open Source Guide:
 [Open Source Guide](https://opensource.guide/): 
+ADORE recommendations for funding research software:
+[ADORE](https://adore.software)
+[The Turing Way guide for reproducible research](https://book.the-turing-way.org/)
 
 ### RSE community resources
 - [Report: Professionalizing the role of Research Software Engineers in the Netherlands](https://doi.org/10.5281/zenodo.15019997)
