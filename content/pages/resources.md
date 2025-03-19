@@ -19,6 +19,7 @@ Open Source Guide:
 [Open Source Guide](https://opensource.guide/): 
 
 ### RSE community resources
+- [Report: Professionalizing the role of Research Software Engineers in the Netherlands](https://doi.org/10.5281/zenodo.15019997)
 - [RSE society website](https://society-rse.org/)
 - [US-RSE website](https://us-rse.org/)
 - [Research Software Alliance](https://www.researchsoft.org/), [sign up](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share) for updates from ReSA
