@@ -15,6 +15,8 @@ Designed and developed by @ctwhome
 
 ## Build Setup Locally
 
+IMPORTANT NOTE: this project was created in 2021, Node version 16 is required to run it. (you can use nvm to install it)
+
 ```bash
 # install dependencies
 $ yarn install
