@@ -43,19 +43,12 @@
       <social-icons />
     </nav>
 
-    <!-- <div
-      class="relative flex align-middle justify-center bg-gray-100"
-      style="height: 100px"
-    > -->
-    <!-- Conference Banner -->
-    <!-- </div> -->
-
     <!--       header only if in the page main-->
     <div class="relative pt-12 bg-gray-900 border-b-4 border-primary">
       <div v-show="$route.path == '/'" class="container mx-auto px-4">
         <div class="max-w-2xl mx-auto text-center mb-12 sm:mb-20">
           <h2
-            class="mt-10 mb-10 text-4xl lg:text-5xl text-gray-50 font-bold slidein-animation"
+            class="mb-10 text-4xl lg:text-5xl text-gray-50 font-bold slidein-animation"
           >
             Do you write software <br />
             for your research?
@@ -67,13 +60,7 @@
             organize meetings, and raise awareness for the scientific
             recognition of research software.
           </p>
-          <NuxtLink to="/pages/2025" transition="none">
-            <img
-              src="~/assets/2025banner.jpg"
-              alt=""
-              class="rounded-xl mx-auto mb-10"
-            />
-          </NuxtLink>
+
           <div class="flex gap-3 items-center justify-center max-w-3xl">
             <a
               class="w-1/2 btn btn-primary text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin py-2 px-6 text-wrap min-height: 100px"
