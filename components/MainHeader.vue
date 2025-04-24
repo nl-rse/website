@@ -67,6 +67,7 @@
             organize meetings, and raise awareness for the scientific
             recognition of research software.
           </p>
+
           <NuxtLink to="/pages/2025" transition="none">
             <img
               src="~/assets/2025banner.jpg"
@@ -74,6 +75,7 @@
               class="rounded-xl mx-auto mb-10"
             />
           </NuxtLink>
+
           <div class="flex gap-3 items-center justify-center max-w-3xl">
             <a
               class="w-1/2 btn btn-primary text-gray-300 hover:text-white hover:bg-primary hover:animation hover:animate-spin py-2 px-6 text-wrap min-height: 100px"
