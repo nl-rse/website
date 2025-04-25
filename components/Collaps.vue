@@ -33,27 +33,20 @@ export default {
 /* Use :deep() to pierce scoped CSS boundary */
 :deep(.collapse-content ul) {
   list-style: none;
+  list-style: none; /* Remove default list style from the ul */
   padding-left: 0; /* Remove default padding */
 }
 
-/* Target the actual list item marker */
+/* Specifically target and hide the ::marker pseudo-element for li inside collapse-content */
 :deep(.collapse-content li::marker) {
-  content: none !important; /* Try removing the marker content */
-  font-size: 0 !important; /* Hide the marker */
-  display: none !important; /* Ensure it doesn't take space */
-  color: transparent !important; /* Make it invisible */
+  display: none; /* Primary method to hide the marker */
+  content: ""; /* Ensure no content is rendered */
+  font-size: 0; /* Collapse the space it might take */
+  color: transparent; /* Make it invisible */
 }
 
-/* Also try removing any ::before pseudo-elements just in case */
-:deep(.collapse-content li::before) {
-  content: none !important;
-  display: none !important;
-}
-
-/* And target the li directly as a fallback */
+/* Keep li padding clean */
 :deep(.collapse-content li) {
-  list-style-type: none !important; /* Force removal of list style */
-  list-style: none !important; /* Double ensure */
-  padding-left: 0; /* Ensure no extra padding causing alignment issues */
+  padding-left: 0;
 }
 </style>
