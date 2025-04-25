@@ -28,4 +28,22 @@ export default {
 .collapse-title {
   cursor: pointer;
 }
+
+/* Target slotted content (ul/li) within collapse-content */
+/* Use :deep() to pierce scoped CSS boundary */
+:deep(.collapse-content ul) {
+  list-style: none;
+  padding-left: 0; /* Remove default padding */
+}
+
+:deep(.collapse-content li::before) {
+  /* Attempt to remove any pseudo-element markers if list-style:none isn't enough */
+  content: none !important;
+  display: none !important;
+}
+
+/* If the above doesn't work, try targeting li directly */
+/* :deep(.collapse-content li) { */
+/*   list-style-type: none; */
+/* } */
 </style>
