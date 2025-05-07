@@ -3,7 +3,7 @@
     <a
       class="pl-1 pr-3 transition transform hover:rotate-12 hover:translate-x-1 focus:scale-y-100 -mt-1 ml-2 text-white"
       target="_blank"
-      href="https://bsky.app/profile/liekelotte.bsky.social"
+      href="https://bsky.app/profile/nl-rse.bsky.social"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
