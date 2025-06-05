@@ -29,7 +29,7 @@
             const eventElement = document.createElement('li');
             const title_div = document.createElement('a');
             title_div.textContent = event.attributes['title'];
-            title_div.href = event.attributes['url'];
+            title_div.href = this.widget.buildUrl(event.links['self'] + '/redirect?widget=' + this.widget.identifier);
             eventElement.appendChild(title_div);
             const start_div = document.createElement('div');
             start_div.textContent = parseTime(event.attributes['start']);
