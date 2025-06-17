@@ -28,7 +28,7 @@ $ yarn dev
 $ yarn generate
 
 # generate and local test
-$ yarn enerate && yarn start
+$ yarn generate && yarn start
 ```
 
 For a detailed explanation of how things work, check out the [documentation](https://nuxtjs.org).
