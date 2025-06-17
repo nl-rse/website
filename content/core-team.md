@@ -21,12 +21,17 @@ members:
 
   - name: Meron Vermaas
     image: /img/core-team/meron.jpg
-    desc: Meron is a Coordinator of Research Software at Vrije Universiteit Amsterdam (VU Amsterdam). He has worked in computational neuroscience at the Donders Institute Nijmegen and UMC Utrecht, where he obtained a PhD. Currently, he works on improving software sustainability at the VU by focusing on developing expertise in software practices, infrastructure, and support.
+    desc: Meron is a Coordinator of Research Software at Vrije Universiteit Amsterdam (VU Amsterdam). He has worked in computational neuroscience at the Donders Institute Nijmegen and UMC Utrecht, where he obtained a PhD. Currently, he works on improving software sustainability at the VU by focusing on developing expertise in software practices, infrastructure, and support. 
+    
+  - name: Rena Bakhshi
+    image: /img/core-team/rena.jpeg
+    desc: Rena Bakhshi holds a PhD in theoretical computer science. She worked as an RSE, Coordinator and Programme Manager (the NES portfolio) at the Netherlands eScience Center. In her current position as a Programme Officer, she is designing and executing eScience calls, and responsible for evaluating of eScience projects and calls.
 
 secretary:
   - name: Lieke de Boer
     image: /img/core-team/lieke.jpg
     desc: Lieke is a Scientific Community Manager at the eScience Center, who holds a PhD in cognitive neuroscience. At the eScience Center, she organizes workshops and trainings. Her interest in open science and software sustainability brough her to NL-RSE, where she coordinates NL-RSE meetups and writes blog posts.
+
 
 past:
   - name: Carlos Martinez Ortiz
