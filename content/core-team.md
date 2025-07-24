@@ -29,7 +29,7 @@ members:
 
   - name: Yasel Quintero
     image: /img/core-team/yasel.jpg
-    desc: Yasel is a Research Software Engineer at the TU Delft Digital Competence Center. In her role, she develops software solutions for research projects across all disciplines, with a particluar focus on the fields of physics and engineering. Besides her technical work she enjoys engaging with the RSE community, organizing events, providing training and participating in mentorship programs.
+    desc: Yasel is a Research Software Engineer at the TU Delft Digital Competence Center, where she develops software solutions for research projects, particularly in the fields of physics and engineering. In addition to her technical work, she enjoys engaging with the RSE community by organizing events, delivering training, and participating in mentorship programs.
 
 secretary:
   - name: Lieke de Boer
