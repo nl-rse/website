@@ -27,6 +27,10 @@ members:
     image: /img/core-team/rena.jpeg
     desc: Rena Bakhshi holds a PhD in theoretical computer science. She worked as an RSE, Coordinator and Programme Manager (the NES portfolio) at the Netherlands eScience Center. In her current position as a Programme Officer, she is designing and executing eScience calls, and responsible for evaluating of eScience projects and calls.
 
+  - name: Yasel Quintero
+    image: /img/core-team/yasel.jpg
+    desc: Yasel is a Research Software Engineer at the TU Delft Digital Competence Center. In her role, she develops software solutions for research projects across all disciplines, with a particluar focus on the fields of physics and engineering. Besides her technical work she enjoys engaging with the RSE community, organizing events, providing training and participating in mentorship programs.
+
 secretary:
   - name: Lieke de Boer
     image: /img/core-team/lieke.jpg
