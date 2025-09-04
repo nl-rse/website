@@ -44,6 +44,13 @@ groups:
     url: https://reit.tudelft.nl/
     contact: mailto:reit-ewi@tudelft.nl
 
+  - title: DIAG RSE @ Radboud UMC
+    research_goal: The Diagnostic Image Analysis Group (DIAG) RSE Team at Radboud University Medical Centre, builds cloud-based solutions to support researchers in all aspects of AI model development in biomedical imaging - and beyond. Their flagship project is Grand Challenge, an open-source platform that enables end-to-end creation, evaluation, and deployment of machine learning solutions for biomedical imaging.
+    group_size: 5-10
+    group_focus: 80+%
+    url: https://rse.diagnijmegen.nl
+    contact: mailto:support@grand-challenge.org
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...
