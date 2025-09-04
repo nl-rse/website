@@ -22,6 +22,7 @@ groups:
     research_goal: The TU Delft Digital Competence Centre (DCC) is a central team of research data and software engineers that supports researchers across all faculties at TU Delft. The team offers expertise in FAIR data management, research software development, and effective computing practices to enhance research quality and efficiency. Their services include hands-on support for research projects, digital skills training, and an office hours service.
     group_size: 5-10
     group_focus: 80+%
+    contact: mailto:dcc@tudelft.nl
   
   - title: Electrophysiology of the heart @ Erasmus MC
     research_goal: At the (cardiac) electrophysiology group at the department of cardiology at the Erasmus Medical Center in Rotterdam heart rhythm disorders are studied by means of the analysis of detailed measurements during (open) heart surgery procedures, as well as with laboratory setups. The group is composed of a large part of PhD and Master students from medical and related study areas. Two people develop the main software to record, reduce and analyse the large and growing amount of data.
