@@ -1,8 +1,8 @@
 name: Research Software Group
 description: Fill out this issue form to list your group
-labels: ["group"]
+labels: ["rse-groups"]
 assignees:
-  - liekelotte
+  - yiquintero
 body:
   - type: markdown
     attributes:
@@ -12,10 +12,10 @@ body:
         This way, other researchers and RSEs will be able to more easily find you.
         In the title above, please include your institute name (ex: ASTRON support team)
   - type: textarea
-    id: research_goal
+    id: group_description
     attributes:
-      label: Research goal
-      description: Describe the goal of the lab or research group you are a part of
+      label: Group description
+      description: Describe the lab, research group or research support team you belong to. For labs or research groups, we encourage you to emphasize the research software activities your team is involved in.  
       placeholder: Tell us about your group
     validations:
       required: false
@@ -41,7 +41,7 @@ body:
   - type: dropdown
     id: group_focus
     attributes:
-      label: What fraction of the time is spent on RSE activities?
+      label: What fraction of the time is spent on research software activities?
       options:
         - '0-20%'
         - '20-40%'
@@ -62,4 +62,4 @@ body:
     attributes:
       value: |
         You can update or remove the information provided by filing an issue or pull request.
-        Please email info@nl-rse.org if you'd like to provide this information to us privately or have other questions
+        Please email info@nl-rse.org if you'd like to provide this information to us privately or have other questions.
