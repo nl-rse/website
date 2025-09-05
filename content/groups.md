@@ -19,9 +19,10 @@ groups:
 
   - title: DCC @ TU Delft
     url: https://dcc.tudelft.nl/
-    research_goal: The TU Delft Digital Competence Centre (DCC) is an on-campus initiative to help researchers make research data FAIR, improve research software, and apply computing practices to increase the efficiency of the research process. The DCC is an initiative of the Open Science Programme at TU Delft designed to benefit researchers at all levels.
+    research_goal: The TU Delft Digital Competence Centre (DCC) is a central team of research data and software engineers that supports researchers across all faculties at TU Delft. The team offers expertise in FAIR data management, research software development, and effective computing practices to enhance research quality and efficiency. Their services include hands-on support for research projects, digital skills training, and an office hours service.
     group_size: 5-10
     group_focus: 80+%
+    contact: mailto:dcc@tudelft.nl
   
   - title: Electrophysiology of the heart @ Erasmus MC
     research_goal: At the (cardiac) electrophysiology group at the department of cardiology at the Erasmus Medical Center in Rotterdam heart rhythm disorders are studied by means of the analysis of detailed measurements during (open) heart surgery procedures, as well as with laboratory setups. The group is composed of a large part of PhD and Master students from medical and related study areas. Two people develop the main software to record, reduce and analyse the large and growing amount of data.
@@ -43,6 +44,13 @@ groups:
     group_focus: 80+%
     url: https://reit.tudelft.nl/
     contact: mailto:reit-ewi@tudelft.nl
+
+  - title: DIAG RSE @ Radboud UMC
+    research_goal: The Diagnostic Image Analysis Group (DIAG) RSE Team at Radboud University Medical Centre, builds cloud-based solutions to support researchers in all aspects of AI model development in biomedical imaging - and beyond. Their flagship project is Grand Challenge, an open-source platform that enables end-to-end creation, evaluation, and deployment of machine learning solutions for biomedical imaging.
+    group_size: 5-10
+    group_focus: 80+%
+    url: https://rse.diagnijmegen.nl
+    contact: mailto:support@grand-challenge.org
 
 #  - title: ...
 #    url: ...
