@@ -52,6 +52,13 @@ groups:
     url: https://rse.diagnijmegen.nl
     contact: mailto:support@grand-challenge.org
 
+  - title: Digital Research Support @ Tilburg University
+    research_goal: The Digital Research Support team is part of the Library and IT Services division at Tilburg University (TiU). It assists researchers with all questions related to ICT for research. This includes providing access to and support for the use of compute and data infrastructure, both locally at TiU and through external providers such as SURF. The team also supports researchers in finding, using, extending, and improving research software. Additionally, they collaborate with researchers to explore new possibilities, such as large language models and artificial intelligence.
+    group_size: 1-5
+    group_focus: 80+%
+    url: 
+    contact: digitalresearchsupport@tilburguniversity.edu
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...
