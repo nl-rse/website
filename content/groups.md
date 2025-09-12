@@ -57,7 +57,7 @@ groups:
     group_size: 1-5
     group_focus: 80+%
     url: 
-    contact: digitalresearchsupport@tilburguniversity.edu
+    contact: mailto:digitalresearchsupport@tilburguniversity.edu
 
 #  - title: ...
 #    url: ...
