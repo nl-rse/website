@@ -59,6 +59,13 @@ groups:
     url: 
     contact: mailto:digitalresearchsupport@tilburguniversity.edu
 
+  - title: Research Engineering Team @ Utrecht University
+    research_goal: The Research Engineering team at Utrecht University is a group of developers at the central IT department, supporting research groups across the entire university. The core activity of the team is providing hands-on project support with e.g. research software development, implementation of digital tools and methods and computational workflows. Furthermore, the team offers consultancy and training on large scale computing, digital infrastructure, code quality, open source/FAIR best practices, and more.
+    group_size: 10-20
+    group_focus: 80+%
+    url: https://www.uu.nl/en/research/research-data-management/support/research-engineers
+    contact: mailto:research.engineering@uu.nl
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...
