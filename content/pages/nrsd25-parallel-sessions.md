@@ -9,13 +9,13 @@
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
         <div class="w-32 text-sm text-white/70 font-medium">60 min</div>
-        <div class="flex-1 text-lg font-semibold">Software Management Plans: SMP Decision Tree & SMP Tool</div>
+        <div class="flex-1 text-lg font-semibold">SMP Tool: Create a Software Management Plan That Fits Your Project </div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
     <div class="mt-3 text-sm text-white/90 space-y-4">
       <p>
-        <!-- TODO: add description -->
+        Make your software harder, better, faster, stronger—by employing the right software best practices. Writing a Software Management Plan (SMP) helps you figure out which practices matter most for long-term sustainability, but existing templates often lack context. The open-source, web-based SMP Tool, developed by the TDCC-NES project, guides you through creating a tailored plan and recommends best practices, resources, and examples—whether you're working on a small script or a large framework.
       </p>
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
@@ -379,18 +379,18 @@
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
         <div class="w-32 text-sm text-white/70 font-medium">60 min</div>
-        <div class="flex-1 text-lg font-semibold">TDCC Funding and Support for Research Software & TDCC-NES Roadmap Project Results: Financing Sustainable Research Software</div>
+        <div class="flex-1 text-lg font-semibold">Financing Sustainable Research Software: Insights and Opportunities for RSEs</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
     <div class="mt-3 text-sm text-white/90 space-y-4">
       <p>
-       <!-- TODO -->
+       Research software is essential for sustainable, FAIR, and high-quality research, yet its development and maintenance are often invisible in institutional funding and recognition structures. This session presents findings from the TDCC-NES study “Financing Sustainable Research Software” and showcases TDCC-funded projects with strong software components, including how RSEs can get involved. Together, we’ll reflect on strategies to convey the value of research software and explore effective funding models.
       </p>
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Lena Karvovkaya, TODO</div>
+            <div class="text-sm text-white/60">— Burcu Beygu Koopmans, Lena Karvovkaya</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -411,7 +411,7 @@
     </summary>
     <div class="mt-3 text-sm text-white/90 space-y-4">
       <p>
-        <!-- TODO: add description -->
+        This session introduces two complementary tools that address critical gaps in research software development and impact measurement: the Research Software Maturity Model (RSMM) and RESOlution. RSMM is a practical framework to help organizations and research teams assess and improve their software practices, providing a clear roadmap for incremental improvement that saves time and resources while increasing reproducibility and impact. RESOlution addresses the challenge that traditional metrics like citation counts or h-index do not fully capture software impact, measuring instead across multiple dimensions: research impact, ecosystem impact, and software impact. The session will be interactive, with demos and open discussion where participants are invited to give feedback, share their needs, and help shape the future of these platforms.
       </p>
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
@@ -463,7 +463,7 @@
     </summary>
     <div class="mt-3 text-sm text-white/90 space-y-4">
       <p>
-        <!-- TODO: add description -->
+        The Netherlands eScience Center is the national center of expertise on research software with the mission to empower researchers across all disciplines through innovative research software. With the end of the 2020-2025 strategy period and a reorganization in 2025, the new strategy is crucial for the institute's future direction an role. In this session, we will share our strategy and invite input from the research software community.
       </p>
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
@@ -489,7 +489,7 @@
     </summary>
     <div class="mt-3 text-sm text-white/90 space-y-4">
       <p>
-        <!-- TODO: add description -->
+        Sustained investment in research software requires moving beyond downloads/citations to demonstrate  impact. Using the WeNMR platform—a VRE for structural biology with over 68,000 users—as a case for the "Research-Software-as-a-Service" (RSaaS) model, this presentation covers the technical aspects of creating and operating RSaaS, including integrations with EOSC/EGI and containerized architecture, and provides an overview of how to build and sustain research software services as a vital part of the modern research ecosystem.
       </p>
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
