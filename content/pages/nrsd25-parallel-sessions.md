@@ -20,10 +20,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Ole Mussmann</div>
-          </div>
-          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
-        </div>
+            <div class="text-sm text-white/60">— <strong>Ole Mussmann (eScience Center)</strong>, Carlos Martinez Ortiz (eScience Center), Sander van Rijn (eScience Center), Thijs van Lankveld (eScience Center), Giulio Rosani (University of Groningen)</div>
       </div>
     </div>
   </details>
@@ -46,7 +43,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Serkan Girgin</div>
+            <div class="text-sm text-white/60">— <strong>Serkan Girgin (University of Twente)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -72,7 +69,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Raoul Schram</div>
+            <div class="text-sm text-white/60">— <strong>Raoul Schram (Utrecht University) </strong>, Erik-Jan van Kesteren (Utrecht University)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -98,7 +95,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Francesco Verdugo</div>
+            <div class="text-sm text-white/60">— <strong>Francesc Verdugo (VU Amsterdam)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -124,7 +121,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Kees den Heijer</div>
+            <div class="text-sm text-white/60">— <strong>Kees den Heijer (SURF), Ivar Janmaat (SURF)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -150,7 +147,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Modhurita Mitra</div>
+            <div class="text-sm text-white/60">— <strong>Modhurita Mitra (Utrecht University)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -178,7 +175,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— José Angel Daza</div>
+            <div class="text-sm text-white/60">— <strong>José Angel Daza (eScience Center)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -204,7 +201,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Fenne Riemslagh</div>
+            <div class="text-sm text-white/60">— <strong>Fenne Riemslagh (eScience Center)</strong>, Carlos Martinez Ortiz (eScience Center)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -230,7 +227,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Johan Hidding</div>
+            <div class="text-sm text-white/60">— <strong>Johan Hidding (eScience Center)</strong>, Robin Richardson (eScience Center), Fenne Riemslagh (eScience Center)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -256,7 +253,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Charlie Greene</div>
+            <div class="text-sm text-white/60">— <strong>Charlie Greene (VU Amsterdam)</strong>, Fenne Riemslagh (eScience Center), Tiernan O'Sullivan (Tilburg University), Linus Band (Radboud University), Daniel Sharoh (Radboud University)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -282,7 +279,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Eduard Klapwijk</div>
+            <div class="text-sm text-white/60">— <strong>Eduard Klapwijk (SURF)</strong>, Sven van den Burg (eScience Center)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -308,7 +305,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Aleksandra Wilczynska</div>
+            <div class="text-sm text-white/60">— <strong>Aleksandra Wilczynska (4TU.ResearchData)</strong>, Charlie Greene (VU Amsterdam), Fenne Riemslagh (eScience Center), Jelle Treep (Utrecht University), Bjørn Bartholdy (TU Delft)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -334,7 +331,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Luka van der Plas</div>
+            <div class="text-sm text-white/60">— <strong>Luka van der Plas (Utrecht University), Xander Vertegaal (Utrecht University)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -360,7 +357,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Charlotte Summers</div>
+            <div class="text-sm text-white/60">— <strong>Charlotte Summers (Utrecht University), Nami Sunami (TU Eindhoven), Margot Teunisse (Leiden University), Helena Wedig (Erasmus University)</strong>, Bjørn Bartholdy (TU Delft), Nick Hodgskin (Utrecht University), Yilin Huang (TU Delft), Neha Moopen (Utrecht University), Anastasiya Paltarzhytskaya (Radboud Univeristy)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -390,7 +387,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Burcu Beygu Koopmans, Lena Karvovkaya</div>
+            <div class="text-sm text-white/60">— <strong>Burcu Beygu Koopmans (University of Groningen), Lena Karvovkaya (TU Delft/TDCC-NES)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -416,7 +413,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Deekshita M</div>
+            <div class="text-sm text-white/60">— <strong>Deekshita M (Utrecht University)</strong>, Slinger Jansen (Utrecht University), Siamak Farshidi (Wageningen University), Rena Bakhshi (eScience Center), Jason Maassen (eScience Center), Rob van Nieuwpoort (Leiden University)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -431,18 +428,19 @@
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
         <div class="w-32 text-sm text-white/70 font-medium">60 min</div>
-        <div class="flex-1 text-lg font-semibold">Professionalisation of RSEs in the Netherlands - LCRDM working group update</div>
+        <div class="flex-1 text-lg font-semibold">Your career as Research Software Engineer</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
     <div class="mt-3 text-sm text-white/90 space-y-4">
       <p>
-        A recent LCRDM report identified challenges facing Research Software Engineers (RSEs), including lack of institutional recognition, clear career paths, and sustainable funding. This interactive session introduces two follow-up working groups: one developing standardized job profiles and career frameworks, and another focusing on funding landscapes and policy changes. Stakeholders including researchers, RSEs, funders, and policymakers are invited to share experiences and help shape a sustainable future for RSEs in Dutch academia.
+        Research software is essential to modern science, yet the people behind it—Research Software Engineers (RSEs)—often lack recognition and face job insecurity. This session explores what RSEs need to succeed: well-defined career paths, supported by sustainable funding structures.
+        Drawing on insights from a recent LCRDM report, two working groups are pushing for change: one focused on developing career frameworks, the other on addressing the funding and policy barriers necessary to support them. Join us to discuss progress and help shape the future of research software expertise in Dutch academia.
       </p>
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Pamela Wochner</div>
+            <div class="text-sm text-white/60">— <strong>Maurits Kok (TU Delft), Pamela Wochner (TU Delft)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -468,7 +466,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Thomas Hoyng</div>
+            <div class="text-sm text-white/60">— <strong>Thomas Hoyng (eScience Center)</strong>, Carlos Martinez Ortiz (eScience Center)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -494,7 +492,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">—  Rodrigo Vargas Honorato</div>
+            <div class="text-sm text-white/60">—  <strong>Rodrigo Vargas Honorato (Utrecht University)</strong>, Alexandre Bonvin (Utrecht University)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -520,7 +518,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Jason Maassen</div>
+            <div class="text-sm text-white/60">— <strong>Jason Maassen (eScience Center)</strong>, Carlos Martinez Ortiz (eScience Center)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -546,7 +544,7 @@
       <div class="space-y-3 p-3 bg-white/5 rounded">
         <div class="flex items-start justify-between">
           <div>
-            <div class="text-sm text-white/60">— Ingrid Dillo</div>
+            <div class="text-sm text-white/60">— <strong>Ingrid Dillo (DANS)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
