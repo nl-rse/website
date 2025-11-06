@@ -1,5 +1,7 @@
 # Parallel sessions by theme
 
+Room and time details will be added shortly.
+Sessions will run across 8 rooms, each hosting a variety of themes and formats. You’ll be free to move between rooms and explore topics that interest you most.
 
 ## Theme 1 - Technical/Demo 
 
