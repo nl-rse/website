@@ -33,7 +33,7 @@ If the person you should report to is the target of the complaint, you may conta
 
 If no immediate action is required, you can also report a complaint by sending an email to [nrsd2025@tudelft.nl](mailto:nrsd2025@tudelft.nl). These complaints will be carefully reviewed and potentially followed up after the conference.
 
-<img src="/img/nrsd25/yello_lanyard.png" alt="yellow lanyard" style="width:45%" class="rounded-xl "/>
+<img src="/img/nrsd25/yellow_lanyard.png" alt="yellow lanyard" style="width:45%" class="rounded-xl "/>
 
 
 ## Enforcement
