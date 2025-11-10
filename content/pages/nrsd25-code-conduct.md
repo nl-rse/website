@@ -46,4 +46,4 @@ Participants who are asked to stop any unacceptable behaviour are expected to co
 The alleged perpetrator(s) will be notified of a complaint as soon as possible and be given a chance to respond to the complaint.
 
 ## References
-This code of conduct was adapted from the following sources: National Open Science Festival 2025 code of conduct [link](https://opensciencefestival.nl/code-of-conduct), INOSC code of conduct [link](https://osc-international.com/code-of-conduct/), RSECon25 Code of conduct [link](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/) and the Carpentries code of conduct [link](https://docs.carpentries.org/policies/coc/).
+This code of conduct was adapted from the following sources: National Open Science Festival 2025 code of conduct ([link](https://opensciencefestival.nl/code-of-conduct)), INOSC code of conduct ([link](https://osc-international.com/code-of-conduct/)), RSECon25 Code of conduct ([link](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/)) and The Carpentries code of conduct ([link](https://docs.carpentries.org/policies/coc/)).
