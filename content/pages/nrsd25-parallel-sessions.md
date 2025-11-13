@@ -1,7 +1,7 @@
 # Parallel sessions by theme
 
 Room and time details will be added shortly.
-Sessions will run across 8 rooms, each hosting a variety of themes and formats. You’ll be free to move between rooms and explore topics that interest you most.
+Sessions will run across 7 rooms, each hosting a variety of themes and formats. You’ll be free to move between rooms and explore topics that interest you most.
 
 ## Theme 1 - Technical/Demo 
 
@@ -80,6 +80,32 @@ Sessions will run across 8 rooms, each hosting a variety of themes and formats. 
   </details>
 </div>
 
+<!-- Lettercraft -->
+<div class="space-y-3 my-6">
+  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
+    <summary class="cursor-pointer">
+      <div class="flex items-center gap-4">
+        <div class="w-32 text-sm text-white/70 font-medium">15 min</div>
+        <div class="flex-1 text-lg font-semibold">Lettercraft: co-designing a database for qualitative research</div>
+        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
+      </div>
+    </summary>
+    <div class="mt-3 text-sm text-white/90 space-y-4">
+      <p>
+        This presentation shares the experiences of research software developers working on the NWO-VIDI project Lettercraft and Epistolary Performance in early Medieval Europe. It explores challenges in designing a database for qualitative research, the collaborative development of a data model, and technical decisions made to ensure a flexible and maintainable codebase. The team highlights the value of early prototyping and agile development to enable fast feedback and close collaboration with researchers.
+      </p>
+      <div class="space-y-3 p-3 bg-white/5 rounded">
+        <div class="flex items-start justify-between">
+          <div>
+            <div class="text-sm text-white/60">— <strong>Luka van der Plas (Utrecht University), Xander Vertegaal (Utrecht University)</strong></div>
+          <!-- </div>
+          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
+        </div> -->
+      </div>
+    </div>
+  </details>
+</div>
+
 <!-- Challenging HPC -->
 <div class="space-y-3 my-6">
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
@@ -150,6 +176,32 @@ Sessions will run across 8 rooms, each hosting a variety of themes and formats. 
         <div class="flex items-start justify-between">
           <div>
             <div class="text-sm text-white/60">— <strong>Modhurita Mitra (Utrecht University)</strong></div>
+          <!-- </div>
+          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
+        </div> -->
+      </div>
+    </div>
+  </details>
+</div>
+
+<!-- Reproducible research -->
+<div class="space-y-3 my-6">
+  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
+    <summary class="cursor-pointer">
+      <div class="flex items-center gap-4">
+        <div class="w-32 text-sm text-white/70 font-medium">15 min</div>
+        <div class="flex-1 text-lg font-semibold">Reproducible research through reusable code in 1 day</div>
+        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
+      </div>
+    </summary>
+    <div class="mt-3 text-sm text-white/90 space-y-4">
+      <p>
+        This session presents materials for a workshop that teaches researchers the skills to make code reusable by others and shares teaching experiences. The material (available under a CC-BY license) guides participants to share their coding project on GitHub and work on the minimal requirements needed for others to run their code, ending with a short reusability check of each other's repository. 
+      </p>
+      <div class="space-y-3 p-3 bg-white/5 rounded">
+        <div class="flex items-start justify-between">
+          <div>
+            <div class="text-sm text-white/60">— <strong>Eduard Klapwijk (SURF)</strong>, Sven van den Burg (eScience Center)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -264,32 +316,6 @@ Sessions will run across 8 rooms, each hosting a variety of themes and formats. 
   </details>
 </div>
 
-<!-- Reproducible research -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">15 min</div>
-        <div class="flex-1 text-lg font-semibold">Reproducible research through reusable code in 1 day</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-    <div class="mt-3 text-sm text-white/90 space-y-4">
-      <p>
-        This session presents materials for a workshop that teaches researchers the skills to make code reusable by others and shares teaching experiences. The material (available under a CC-BY license) guides participants to share their coding project on GitHub and work on the minimal requirements needed for others to run their code, ending with a short reusability check of each other's repository. 
-      </p>
-      <div class="space-y-3 p-3 bg-white/5 rounded">
-        <div class="flex items-start justify-between">
-          <div>
-            <div class="text-sm text-white/60">— <strong>Eduard Klapwijk (SURF)</strong>, Sven van den Burg (eScience Center)</div>
-          <!-- </div>
-          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
-        </div> -->
-      </div>
-    </div>
-  </details>
-</div>
-
 <!-- Programming CAFEs -->
 <div class="space-y-3 my-6">
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
@@ -308,32 +334,6 @@ Sessions will run across 8 rooms, each hosting a variety of themes and formats. 
         <div class="flex items-start justify-between">
           <div>
             <div class="text-sm text-white/60">— <strong>Aleksandra Wilczynska (4TU.ResearchData)</strong>, Charlie Greene (VU Amsterdam), Fenne Riemslagh (eScience Center), Jelle Treep (Utrecht University), Bjørn Bartholdy (TU Delft)</div>
-          <!-- </div>
-          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
-        </div> -->
-      </div>
-    </div>
-  </details>
-</div>
-
-<!-- Lettercraft -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">15 min</div>
-        <div class="flex-1 text-lg font-semibold">Lettercraft: co-designing a database for qualitative research</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-    <div class="mt-3 text-sm text-white/90 space-y-4">
-      <p>
-        This presentation shares the experiences of research software developers working on the NWO-VIDI project Lettercraft and Epistolary Performance in early Medieval Europe. It explores challenges in designing a database for qualitative research, the collaborative development of a data model, and technical decisions made to ensure a flexible and maintainable codebase. The team highlights the value of early prototyping and agile development to enable fast feedback and close collaboration with researchers.
-      </p>
-      <div class="space-y-3 p-3 bg-white/5 rounded">
-        <div class="flex items-start justify-between">
-          <div>
-            <div class="text-sm text-white/60">— <strong>Luka van der Plas (Utrecht University), Xander Vertegaal (Utrecht University)</strong></div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
@@ -390,32 +390,6 @@ Sessions will run across 8 rooms, each hosting a variety of themes and formats. 
         <div class="flex items-start justify-between">
           <div>
             <div class="text-sm text-white/60">— <strong>Burcu Beygu Koopmans (University of Groningen), Lena Karvovkaya (TU Delft/TDCC-NES)</strong></div>
-          <!-- </div>
-          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
-        </div> -->
-      </div>
-    </div>
-  </details>
-</div>
-
-<!-- RESOlution -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">60 min</div>
-        <div class="flex-1 text-lg font-semibold">RESOlution: Measuring and Benchmarking the Impact of Research Software & Is Your Research Software Ready for Open Science?</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-    <div class="mt-3 text-sm text-white/90 space-y-4">
-      <p>
-        This session introduces two complementary tools that address critical gaps in research software development and impact measurement: the Research Software Maturity Model (RSMM) and RESOlution. RSMM is a practical framework to help organizations and research teams assess and improve their software practices, providing a clear roadmap for incremental improvement that saves time and resources while increasing reproducibility and impact. RESOlution addresses the challenge that traditional metrics like citation counts or h-index do not fully capture software impact, measuring instead across multiple dimensions: research impact, ecosystem impact, and software impact. The session will be interactive, with demos and open discussion where participants are invited to give feedback, share their needs, and help shape the future of these platforms.
-      </p>
-      <div class="space-y-3 p-3 bg-white/5 rounded">
-        <div class="flex items-start justify-between">
-          <div>
-            <div class="text-sm text-white/60">— <strong>Deekshita M (Utrecht University)</strong>, Slinger Jansen (Utrecht University), Siamak Farshidi (Wageningen University), Rena Bakhshi (eScience Center), Jason Maassen (eScience Center), Rob van Nieuwpoort (Leiden University)</div>
           <!-- </div>
           <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
         </div> -->
