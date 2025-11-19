@@ -1,6 +1,6 @@
 # Parallel sessions by theme
 
-Room and time details will be added shortly.
+For a detailed schedule, including room assignments, please see our <a href="/img/nrsd25/nrsd25-programme.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">full programme</a>.
 Sessions will run across 7 rooms, each hosting a variety of themes and formats. You’ll be free to move between rooms and explore topics that interest you most.
 
 ## Theme 1 - Technical/Demo 
@@ -184,31 +184,6 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   </details>
 </div>
 
-<!-- Reproducible research -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">15 min</div>
-        <div class="flex-1 text-lg font-semibold">Reproducible research through reusable code in 1 day</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-    <div class="mt-3 text-sm text-white/90 space-y-4">
-      <p>
-        This session presents materials for a workshop that teaches researchers the skills to make code reusable by others and shares teaching experiences. The material (available under a CC-BY license) guides participants to share their coding project on GitHub and work on the minimal requirements needed for others to run their code, ending with a short reusability check of each other's repository. 
-      </p>
-      <div class="space-y-3 p-3 bg-white/5 rounded">
-        <div class="flex items-start justify-between">
-          <div>
-            <div class="text-sm text-white/60">— <strong>Eduard Klapwijk (SURF)</strong>, Sven van den Burg (eScience Center)</div>
-          <!-- </div>
-          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
-        </div> -->
-      </div>
-    </div>
-  </details>
-</div>
 
 ## Theme 2 - Research Software Training 
 
@@ -368,6 +343,31 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   </details>
 </div>
 
+<!-- Reproducible research -->
+<div class="space-y-3 my-6">
+  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
+    <summary class="cursor-pointer">
+      <div class="flex items-center gap-4">
+        <div class="w-32 text-sm text-white/70 font-medium">15 min</div>
+        <div class="flex-1 text-lg font-semibold">Reproducible research through reusable code in 1 day</div>
+        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
+      </div>
+    </summary>
+    <div class="mt-3 text-sm text-white/90 space-y-4">
+      <p>
+        This session presents materials for a workshop that teaches researchers the skills to make code reusable by others and shares teaching experiences. The material (available under a CC-BY license) guides participants to share their coding project on GitHub and work on the minimal requirements needed for others to run their code, ending with a short reusability check of each other's repository. 
+      </p>
+      <div class="space-y-3 p-3 bg-white/5 rounded">
+        <div class="flex items-start justify-between">
+          <div>
+            <div class="text-sm text-white/60">— <strong>Eduard Klapwijk (SURF)</strong>, Sven van den Burg (eScience Center)</div>
+          <!-- </div>
+          <NuxtLink to="/pages/sessions/session-a-talk-1" class="ml-4 text-white/90 underline">Full abstract</NuxtLink>
+        </div> -->
+      </div>
+    </div>
+  </details>
+</div>
 
 
 ## Theme 3 - Making a case for Research Software  
