@@ -1,6 +1,6 @@
-# Code of Conduct
+# NRSD25 Code of Conduct
 
-The National Research Software Day is organized to provide a welcoming space where participants can learn about, share, and discuss topics related to research software. The purpose of this Code of Conduct is to foster an environment in which diverse individuals can collaborate and interact in mutual respect. We recognize a shared responsibility to create and maintain such an environment for the benefit of all participants.
+The National Research Software Day 2025 is organized to provide a welcoming space where participants can learn about, share, and discuss topics related to research software. The purpose of this Code of Conduct is to foster an environment in which diverse individuals can collaborate and interact in mutual respect. We recognize a shared responsibility to create and maintain such an environment for the benefit of all participants.
 To make clear what is expected, all participants (including speakers, exhibitors, organisers and volunteers) are required to agree to and abide by this code of conduct.
 
 ## Expected Behaviour
@@ -31,7 +31,7 @@ If someone makes you or anyone else feel unsafe or unwelcome, or if you believe 
 
 If the person you should report to is the target of the complaint, you may contact the event organisers, identifiable by a purple lanyard. The target of the complaint will not be involved in handling or resolving the incident. Every report of a Code of Conduct violation will be treated seriously and handled with care.
 
-If no immediate action is required, you can also report a complaint by sending an email to [nrsd2025@tudelft.nl](mailto:nrsd2025@tudelft.nl). These complaints will be carefully reviewed and potentially followed up after the conference.
+If no immediate action is required, you can also report a complaint by sending an email to [nrsd2025@tudelft.nl](mailto:nrsd2025@tudelft.nl). These complaints will be carefully reviewed and followed up after the conference.
 
 <img src="/img/nrsd25/yellow_lanyard.png" alt="yellow lanyard" style="width:45%" class="rounded-xl "/>
 
