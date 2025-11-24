@@ -10,7 +10,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:00 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:00 (15 min) Chaos</div>
         <div class="flex-1 text-lg font-semibold">Privacy-friendly synthetic data: use-cases and challenges</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -36,7 +36,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:10 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:10 (15 min) Chemie</div>
         <div class="flex-1 text-lg font-semibold">Generative AI for Research Data Processing</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -62,7 +62,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:10 (60 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:10 (60 min) Lab.110</div>
         <div class="flex-1 text-lg font-semibold">Auditing and improving research software development practices with Code Auditor</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -88,7 +88,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:30 (60 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:30 (60 min) Chemie</div>
         <div class="flex-1 text-lg font-semibold">SMP Tool: Create a Software Management Plan That Fits Your Project </div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -111,7 +111,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:50 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:50 (15 min) Lab.013</div>
         <div class="flex-1 text-lg font-semibold">Challenging established HPC libraries with PartitionedArrays.jl</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -137,7 +137,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:55 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:55 (15 min) Chaos</div>
         <div class="flex-1 text-lg font-semibold">EOSC in Practice</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -163,7 +163,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">12:15 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">12:15 (15 min) Chaos</div>
         <div class="flex-1 text-lg font-semibold">Lettercraft: co-designing a database for qualitative research</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -193,7 +193,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:00 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:00 (15 min) Lab.115</div>
         <div class="flex-1 text-lg font-semibold">Research Software Training Netherlands (RST-NL) Network</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -219,7 +219,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:05 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:05 (15 min) Lab.106</div>
         <div class="flex-1 text-lg font-semibold">Efficient computing in Julia - a new lesson</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -245,7 +245,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:20 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:20 (15 min) Chaos</div>
         <div class="flex-1 text-lg font-semibold">Developing a roadmap for FAIR software skills</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -272,7 +272,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:25 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:25 (15 min) Lab.013</div>
         <div class="flex-1 text-lg font-semibold">Natural Language Processing Fundamentals</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -298,7 +298,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:35 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:35 (15 min) Chaos</div>
         <div class="flex-1 text-lg font-semibold">Brewing Collaboration: Building a Network of Programming CAFEs</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -324,7 +324,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:40 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:40 (15 min) Lab.115</div>
         <div class="flex-1 text-lg font-semibold">Reproducible research through reusable code in 1 day</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -350,7 +350,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">12:10 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">12:10 (15 min) Lab.013</div>
         <div class="flex-1 text-lg font-semibold">Landelijke Docs: National Collaboration on Research Software Training and Documentation</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -381,7 +381,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:00 (60 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:00 (60 min) Centrale</div>
         <div class="flex-1 text-lg font-semibold">Your career as Research Software Engineer</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -408,7 +408,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:05 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:05 (15 min) Lab.013</div>
         <div class="flex-1 text-lg font-semibold">Showing Research Software Impact with the Research Software Directory</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -434,7 +434,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:20 (15 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:20 (15 min) Lab.115</div>
         <div class="flex-1 text-lg font-semibold">Assessing and improving research software: two European solutions</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -460,7 +460,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">11:25 (60 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">11:25 (60 min) Lab.106</div>
         <div class="flex-1 text-lg font-semibold">Financing Sustainable Research Software: Insights and Opportunities for RSEs</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -486,7 +486,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">12:00 (30 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">12:00 (30 min) Centrale</div>
         <div class="flex-1 text-lg font-semibold">eScience Center refreshed strategy</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
@@ -512,7 +512,7 @@ Sessions will run across 7 rooms, each hosting a variety of themes and formats. 
   <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
-        <div class="w-32 text-sm text-white/70 font-medium">12:00 (30 min)</div>
+        <div class="w-32 text-sm text-white/70 font-medium">12:00 (30 min) Lab.115</div>
         <div class="flex-1 text-lg font-semibold">The WeNMR Case Study: Research Software as a Service for Demonstrating Impact, Securing Funding, and Serving a Global Community</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
