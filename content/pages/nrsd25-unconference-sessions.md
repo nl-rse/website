@@ -13,6 +13,21 @@
   Submit your unconference topic here
 </button>
 
+Session Organizers: please fill out the outcome slide for your unconference session. The slides will be used for wrap-up presentations.  
+
+<button
+  style="display: block;
+         margin: 0 auto;
+         background-color: #650045;
+         color: white;
+         padding: 10px 30px;
+         border: none;
+         border-radius: 4px;
+         cursor: pointer;"
+  onclick="window.open('https://docs.google.com/presentation/d/1K5Pl7yd5Bkc-3kWwp09tn6bKcyiUprLBv8cAxE0doj0/edit?usp=sharing', '_blank')">
+  Unconference Outcome Slides
+</button>
+
 Here you can find the unconference sessions that have already been submitted and selected through our _Call for submissions_.
 But we reserved some slots for you to propose a topic on the morning of the event. Topics will be chosen through an open, participatory process. 
 
