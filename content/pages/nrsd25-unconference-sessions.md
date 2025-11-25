@@ -165,7 +165,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Centrale</div>
-        <div class="flex-1 text-lg font-semibold">6. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">6. The role/future of AI tools in Research Software Engineering</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
@@ -178,7 +178,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Chemie</div>
-        <div class="flex-1 text-lg font-semibold">7. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">7. conDAQtor: Support, knowledge transfer and training for laboratory control software</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
@@ -191,7 +191,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Chemie</div>
-        <div class="flex-1 text-lg font-semibold">8. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">8. How and why to go beyond jupyter notebooks? What are the limitations of working in notebooks, and what are the essential skills needed to go from a beginner coding researcher working to developing more intricate research applications?</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
@@ -204,7 +204,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Chaos</div>
-        <div class="flex-1 text-lg font-semibold">9. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">9. Literate Programming using Entangled, write your code together with the documentation!</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
@@ -217,7 +217,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Chaos</div>
-        <div class="flex-1 text-lg font-semibold">10. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">10. CI / CD for Research Software Development</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
@@ -230,7 +230,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Boiler</div>
-        <div class="flex-1 text-lg font-semibold">11. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">11. Getting your code live: the quest for reusable deployment infrastructure</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
@@ -243,46 +243,7 @@ But we reserved some slots for you to propose a topic on the morning of the even
     <summary class="cursor-pointer">
       <div class="flex items-center gap-4">
        <div class="w-32 text-sm text-white/70 font-medium">Centrale</div>
-        <div class="flex-1 text-lg font-semibold">12. Open slot</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-  </details>
-</div>
-
-<!-- Open slots -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-       <div class="w-32 text-sm text-white/70 font-medium">Centrale</div>
-        <div class="flex-1 text-lg font-semibold">13. Open slot</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-  </details>
-</div>
-
-<!-- Open slots -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-       <div class="w-32 text-sm text-white/70 font-medium">Chemie</div>
-        <div class="flex-1 text-lg font-semibold">14. Open slot</div>
-        <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
-      </div>
-    </summary>
-  </details>
-</div>
-
-<!-- Open slots -->
-<div class="space-y-3 my-6">
-  <details class="group block rounded-lg bg-primary p-5 shadow-md hover:shadow-lg text-white">
-    <summary class="cursor-pointer">
-      <div class="flex items-center gap-4">
-       <div class="w-32 text-sm text-white/70 font-medium">Chaos</div>
-        <div class="flex-1 text-lg font-semibold">15. Open slot</div>
+        <div class="flex-1 text-lg font-semibold">12. 'The FAIR way' serious game - a board game to raise awareness of FAIR practices.</div>
         <div class="w-6 text-sm text-white/70 group-open:rotate-180 transition-transform"></div>
       </div>
     </summary>
