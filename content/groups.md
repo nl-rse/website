@@ -66,6 +66,14 @@ groups:
     url: https://www.uu.nl/en/research/research-data-management/support/research-engineers
     contact: mailto:research.engineering@uu.nl
 
+  - title: RSEC @ Rotterdam School of Management, Erasmus University
+    research_goal: The Research Software Engineering & Consulting (RSEC) team is part of the RSM Digitalisation & Information Services (RDIS) department at the Rotterdam School of Management, Erasmus University. Our team supports students and researchers with any challenges that require specialised software or hardware solutions for their research.
+    group_size: 1-5
+    group_focus: 80+%
+    url: https://doi.org/10.15133/rsm_it_research_support
+    contact: mailto:rsec@rsm.nl
+
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...

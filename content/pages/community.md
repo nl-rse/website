@@ -60,7 +60,7 @@ Would you like to share something during our next [meetup](/pages/meetups)? Emai
 ### Research institutes
 -	AMOLF
 -	ASTRON, the Netherlands Institute for Radio Astronomy
--	CWI
+-	CWI, Research Institute for Mathematics and Computer Science
 -	Data Archiving and Networked Services (DANS)
 -	National Institute for Public Health and Environment
 -	Huygens ING
@@ -68,7 +68,8 @@ Would you like to share something during our next [meetup](/pages/meetups)? Emai
 -	Meertens Institute
 -	Netherlands eScience Center
 -	NIOO-KNAW
--	SRON Netherlands Institute for Space Research
+-	SRON, the Netherlands Institute for Space Research
+-   TNO, the Netherlands Organisation for Applied Scientific Research
 
 ### Other
 -	Amsterdam University of Applied Sciences
