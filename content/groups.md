@@ -73,6 +73,12 @@ groups:
     url: https://doi.org/10.15133/rsm_it_research_support
     contact: mailto:rsec@rsm.nl
 
+  - title: JASP @ University of Amsterdam
+    research_goal: JASP is open-source software that aims to make statistical methodology available to a wide audience. JASP’s user-friendly interface enables students, teachers, and researchers to conduct complex analyses in an instant, allowing the focus to lie on the interpretation of the results rather than on the underlying computer code. JASP includes well-established and state-of-the-art methods and offers a full-fledged, modern replacement for commercial software such as SPSS or Minitab. JASP has been developed primarily at the University of Amsterdam and is now supported by a Community of several universities and colleges.
+    group_size: 5-10
+    group_focus: 80+%
+    url: https://jasp-stats.org
+    contact: mailto:info@jasp-stats.org
 
 #  - title: ...
 #    url: ...
