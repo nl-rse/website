@@ -4,7 +4,15 @@ title: National Research Software Day 2025
 ---
 # National Research Software Day 2025
 
-<p style="text-align: center;">Checkout the highlights from the day!</p>
+On 25 November 2025, researchers, Research Software Engineers, policymakers, and community leaders from across the Netherlands came together at Lijm & Cultuur in Delft for the National Research Software Day 2025, hosted by TU Delft. The day was packed with inspiration, collaboration, and practical insights into the world of research software.
+
+The event featured keynote talks by Prof. Eric-Jan Wagenmakers and Dr. Connie Clare, alongside interactive parallel sessions exploring technical tools, training, and the impact of research software. In the afternoon, participants turned ideas into action through unconference sessions, pitches, and lively discussions. The TDCC-NES funding prize went to Fenne Riemslagh from the eScience Center for her project "Soft Skills for RSEs", selected by popular vote.
+
+Whether sharing experiences, discovering new tools, or shaping the future of the NL-RSE community, the National Research Software Day offered something for everyone interested in advancing research software in the Netherlands.
+
+The event was made possible thanks to the support of LCRDM, Open Science NL, and TU Delft.
+
+Explore the full programme, dive into the slides, and relive the day through the photo gallery below.
 
 <!-- Buttons -->
 <div style="text-align: center; margin-bottom: 30px;">
