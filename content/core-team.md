@@ -13,11 +13,15 @@ members:
 
   - name: Yasel Quintero
     image: /img/core-team/yasel.jpg
-    desc: Yasel is a Research Software Engineer at the TU Delft Digital Competence Center, where she develops software solutions for research projects, particularly in the fields of physics and engineering. In addition to her technical work, she enjoys engaging with the RSE community by organizing events, delivering training, and participating in mentorship programs.
+    desc: Yasel is a Research Software Engineer at the TU Delft Digital Competence Center, where she develops software solutions for research projects, particularly in the fields of physics and engineering. In addition to her technical work, she enjoys engaging with the RSE community by organizing seminars and events and delivering training.
 
   - name: Fenne Riemslagh
     image: /img/core-team/fenne.jpg
     desc: Fenne Riemslagh is the Training Coordinator of the Netherlands eScience Center, for which she runs the digital skills program; a set of workshops designed to educate researchers on diverse digital, technological and software development skills. Next to that, she is very active in the Dutch research software training community. Fenne has a background in biomedical sciences and received her PhD at the department of Clinical Genetics at the Erasmus Medical Center in Rotterdam.
+
+  - name: Mohsen Safari
+    image: /img/core-team/mohsen.jpg
+    desc: Mohsen is an advisor in the High-Performance Computing and Development (HPCD) group at SURF. He supports the HPC community by focusing on hardware and software acceleration of scientific applications. He is interested in novel heterogeneous architectures such as GPUs, FPGAs, DPUs, etc. in the HPC ecosystem and their impact on scientific applications. He did his PhD at UTwente where he worked on software verification of GPU programs.
 
 past:
   - name: Rena Bakhshi
