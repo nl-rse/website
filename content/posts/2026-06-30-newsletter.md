@@ -23,7 +23,7 @@ There's still time to register for ACM REP 2026, an international conference on 
 Organised by the Research Software Alliance, IRSC will take place in **Sheffield** and bring together the global research software community to discuss policy, AI, sustainability and community building. Registrations are still open, and a preliminary programme has been published. Learn more <a href="https://www.researchsoft.org/irsc/" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
 **Research Software Engineering Conference (RSECon26)**   
-**9-11 September @ Sheffield, UK**
+**9-11 September @ Sheffield, UK**   
 Registrations are open until **31 July** for RSECon26, the UK Society of Research Software Engineering's annual conference, taking place in **Sheffield and online**. Find out more <a href="https://rsecon26.society-rse.org/" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
 
@@ -55,5 +55,6 @@ The report from the [_Research Software Engineering in the Age of Generative AI:
 
 * Join our mailing list by filling out [_this form_](https://lists.nl-rse.org/mailman/listinfo/everyone).
 * Have something to share in a future edition of this newsletter? Submit it via [_GitHub_](https://github.com/nl-rse/website/issues?q=is%3Aissue%20state%3Aopen%20label%3Anewsletter).
+* Are you part of a team that develops research software? Add your team to our Groups page by filling out this [_GitHub form_](https://github.com/nl-rse/website/issues/new?labels=group&projects=&template=rse-group.yml) (requires a GitHub account).
 * Chat with the community on Slack in the _#netherlands_ channel of the [_UKRSE workspace_](https://www.google.com/url?q=https://society-rse.org/links/slack-request&sa=D&source=editors&ust=1782758125935037&usg=AOvVaw0cnqIo50h2j9EI4oSHbHgj).
 * Get in touch with the NL-RSE core team via [_info@nl-rse.org_](mailto:info@nl-rse.org).
