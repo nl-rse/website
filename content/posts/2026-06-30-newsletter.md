@@ -14,13 +14,16 @@ Whether you're taking a break from the World Cup or staying indoors to escape th
 
 ## Dates for your calendar
 
-**20–22 July: ACM Conference on Reproducibility and Replicability (ACM REP 2026)**   
+**ACM Conference on Reproducibility and Replicability (ACM REP 2026)**   
+**20–22 July @ Delft**   
 There's still time to register for ACM REP 2026, an international conference on reproducibility and replicability in computational research. Hosted by **TU Delft**, the conference will bring together researchers and practitioners from academia and industry. Find out more <a href="https://acm-rep.github.io/2026/cfp/" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
-**7-8 September: International Research Software Conference (IRSC)**   
+**International Research Software Conference (IRSC)**   
+**7-8 September @ Sheffield, UK**   
 Organised by the Research Software Alliance, IRSC will take place in **Sheffield** and bring together the global research software community to discuss policy, AI, sustainability and community building. Registrations are still open, and a preliminary programme has been published. Learn more <a href="https://www.researchsoft.org/irsc/" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
-**9-11 September: Research Software Engineering Conference (RSECon26)**   
+**Research Software Engineering Conference (RSECon26)**   
+**9-11 September @ Sheffield, UK**
 Registrations are open until **31 July** for RSECon26, the UK Society of Research Software Engineering's annual conference, taking place in **Sheffield and online**. Find out more <a href="https://rsecon26.society-rse.org/" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
 
@@ -51,6 +54,6 @@ The report from the [_Research Software Engineering in the Age of Generative AI:
 ## Get in touch, get involved
 
 * Join our mailing list by filling out [_this form_](https://lists.nl-rse.org/mailman/listinfo/everyone).
-* Have something to share in a future edition of this newsletter? Submit it via [_GitHub_]((https://github.com/nl-rse/website/issues?q=is%3Aissue%20state%3Aopen%20label%3Anewsletter).
+* Have something to share in a future edition of this newsletter? Submit it via [_GitHub_](https://github.com/nl-rse/website/issues?q=is%3Aissue%20state%3Aopen%20label%3Anewsletter).
 * Chat with the community on Slack in the _#netherlands_ channel of the [_UKRSE workspace_](https://www.google.com/url?q=https://society-rse.org/links/slack-request&sa=D&source=editors&ust=1782758125935037&usg=AOvVaw0cnqIo50h2j9EI4oSHbHgj).
 * Get in touch with the NL-RSE core team via [_info@nl-rse.org_](mailto:info@nl-rse.org).
