@@ -23,7 +23,7 @@ Whether you're taking a break from the World Cup or staying indoors to escape th
 ## News
 
 **Call for collaborative lesson development training**   
-Applications are open until **31 July** for teams of 2–3 people to join the Carpentries Collaborative Lesson Development Training programme which teaches skills and best practices for designing and developing open training materials. The training will take place in November 2026 and is offered as part of the DC4NES project led by 4TU.ResearchData. Read more and apply [here](https://community.data.4tu.nl/call-for-collaborative-lesson-development-training/)
+Applications are open until **31 July** for teams of 2–3 people to join the Carpentries Collaborative Lesson Development Training programme which teaches skills and best practices for designing and developing open training materials. The training will take place in November 2026 and is offered as part of the DC4NES project led by 4TU.ResearchData. Read more and apply <a href="https://community.data.4tu.nl/call-for-collaborative-lesson-development-training/" style="color: #650045; font-weight: bold;">here</a>.
 
 **2026 International RSE Survey Results**  
 The anonymised dataset from the 2026 International RSE Survey is now available, with responses from more than 950 research software professionals across 55 countries. This year’s survey offers insights into key areas of focus for research organisations, funders and policy makers including on the use and perception of generative AI in research software, open-source practices, and community demographics. Find out more [here](https://www.software.ac.uk/news/rse-survey-data-release).
