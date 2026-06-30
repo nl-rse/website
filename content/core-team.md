@@ -23,6 +23,10 @@ members:
     image: /img/core-team/mohsen.jpg
     desc: Mohsen is an advisor in the High-Performance Computing and Development (HPCD) group at SURF. He supports the HPC community by focusing on hardware and software acceleration of scientific applications. He is interested in novel heterogeneous architectures such as GPUs, FPGAs, DPUs, etc. in the HPC ecosystem and their impact on scientific applications. He did his PhD at UTwente where he worked on software verification of GPU programs.
 
+  - name: Nan Yang
+    image: /img/core-team/nan.jpg
+    desc: Nan is a scientist at TNO and a guest researcher at Eindhoven University of Technology. Her work focuses on developing solutions that help the high-tech industry manage the increasing complexity of software systems, including legacy system comprehension and modernization. She employs empirical methods to study both the social and technical aspects of industrial software development. Nan obtained her PhD in Computer Science from Eindhoven University of Technology in 2023.
+
 past:
   - name: Rena Bakhshi
     organization: Netherlands eScience Center
