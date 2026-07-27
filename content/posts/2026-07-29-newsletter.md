@@ -13,7 +13,7 @@ Grab your favourite summer drink, find a sunny spot and enjoy this month's highl
 
 ## Dates for your calendar
 
-**2nd Symposium on Accelerated Computing for Application Workflows (SACAW)**   
+**2nd Symposium on Accelerated Computing for Application Workflows**   
 **7th October @ Utrecht**   
 Are you a researcher or developer looking to speed up your scientific application? Want to use GPUs for your research but do not know where to start? SURF and the Netherlands eScience Center invite you to a one-day event focused on connecting complex scientific code and GPU acceleration technology. Find out more and register on the <a href="https://www.surf.nl/en/agenda/2nd-symposium-on-accelerated-computing-for-application-workflows" style="color: #650045; font-weight: bold; font-style: italic;">event website</a>.
 
