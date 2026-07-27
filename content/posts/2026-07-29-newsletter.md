@@ -13,36 +13,42 @@ Grab your favourite summer drink, find a sunny spot and enjoy this month's highl
 
 ## Dates for your calendar
 
-**2nd Symposium on Accelerated Computing for Application Workflows (SACAW)**
-**7th October @ Utrecht**
+**2nd Symposium on Accelerated Computing for Application Workflows (SACAW)**   
+**7th October @ Utrecht**   
 Are you a researcher or developer looking to speed up your scientific application? Want to use GPUs for your research but do not know where to start? SURF and the Netherlands eScience Center invite you to a one-day event focused on connecting complex scientific code and GPU acceleration technology. Find out more and register on the <a href="https://www.surf.nl/en/agenda/2nd-symposium-on-accelerated-computing-for-application-workflows" style="color: #650045; font-weight: bold; font-style: italic;">event website</a>.
 
-**Save the date for the next NL-RSE Community Meet-up**
-**8th October @ Amsterdam**
+**Save the date for the next NL-RSE Community Meet-up**   
+**8th October @ Amsterdam**   
 This year's **International RSE Day** takes place on Thursday 8 October and NL-RSE is organizing a community meetup to celebrate! Join us for an afternoon of technical and community-focused talks, including an update from the LCRDM Working Group on RSE Professionalisation and a special guest presentation by <a href="https://www.software.ac.uk/fellowship-programme/jannetta-steyn" style="color: #650045; font-weight: bold; font-style: italic;">Jannetta Steyn</a> from the Software Sustainability Institute. The event will take place from 13:00–16:00 at Amsterdam Science Park. We will share the full programme and registration details in August, but for now, mark your calendar!
 
 ## News
 
-**Registrations and abstract submissions open for SURF Advance Computing User Day 2026**
+**Registrations and abstract submissions open for SURF Advance Computing User Day 2026**   
 Registration and the call for proposals are now open for the SURF Advanced Computing User Day 2026, which will take place on 8 December in Amsterdam. Contributions are invited across three tracks: HPC Infrastructure and Platforms, Applications, Workflows and Use Cases, and User Experience and Engagement. Abstracts can be submitted until **6 September**. Find out more, register, or submit your proposal on the <a href="https://www.surf.nl/en/agenda/advanced-computing-user-day" style="color: #650045; font-weight: bold; font-style: italic;">SURF website</a>.
 
-**Call for Open Science NL advisory panel members**
+**Call for Open Science NL advisory panel members**   
 Open Science NL is looking for new members for its advisory panels. If you'd like to help shape the future of open science in the Netherlands, this is a great opportunity to get involved. Applications are open until **11 September** for the Research Software, Hardware and Data, Open Scholarly Communication, and Citizen Science and Societal Engagement panels. Read more and apply via the <a href="https://www.openscience.nl/en/news/share-your-expertise-with-open-science-nl-in-an-advisory-panel-0" style="color: #650045; font-weight: bold; font-style: italic;">Open Science NL website</a>.
 
-**Registrations and abstract submissions are open for DUCOMS 2026**
+**Registrations and abstract submissions are open for DUCOMS 2026**   
 Registration and abstract submission are now open for DUCOMS 2026, the annual conference of the Computational Science NL community. Abstracts can be submitted until **20 September**. Find out more, register, or submit your abstract on the <a href="https://www.computationalsciencenl.nl/en/ducoms-day-2026" style="color: #650045; font-weight: bold; font-style: italic;">conference website</a>.
 
-**Open Science NL announces new Open Science Infrastructure call**
+**Open Science NL announces new Open Science Infrastructure call**   
 Open Science NL has announced a new Open Science Infrastructure funding call, which is expected to open in October 2026. With a total budget of €17 million, the call aims to support the improvement and further development of existing digital infrastructures that enable open science. This round places a stronger emphasis on collaboration and consortium building, with grants of up to €1.7 million available per project. Read more on the <a href="https://www.openscience.nl/en/news/pre-announcement-new-funding-round-open-science-infrastructure-programme" style="color: #650045; font-weight: bold; font-style: italic;">Open Science NL website</a>.
 
 
 ## Blog posts, tools & more
 
-<!--
-**A holistic approach to professional technical digital research is possible**   
-What does research look like in a world where data, software, and AI are an integral part of the research process? This <a href="https://www.openscience.nl/en/cases/a-holistic-approach-to-professional-technical-digital-research-is-possible" style="color: #650045; font-weight: bold; font-style: italic;">blog post</a> explores why closer collaboration between research software engineers, data stewards, and other digital Research Technical Professionals is essential for enabling robust, reproducible, and future-ready research.
--->
+**SSI Guide on Writing Energy Efficient Code**   
+The Software Sustainability Institute (SSI) has published a new guide for writing energy efficient code. The guide introduces practical ways to make code more energy efficient, including reducing unnecessary computation, using optimised libraries, identifying bottlenecks, and making greener choices in development workflows. Read it <a href="https://www.software.ac.uk/guide/writing-energy-efficient-code" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
+**autoMETAte: automate your metadata**   
+Filling out metadata can be time-consuming, so why not automate it? The alpha version of autoMETAte is now available for testing. The tool automatically generates metadata files for research software, helping researchers spend less time on administrative tasks and more time on their research. Developed by the University Library of Vrije Universiteit Amsterdam, the developers are actively looking for feedback from early users. You can learn more and try it out on <a href="https://github.com/ubvu/autoMETAte" style="color: #650045; font-weight: bold; font-style: italic;">GitHub</a>.
+
+**AI-Usage policies for contributions to open source software projects**   
+As AI coding assistants become more common, open source projects are introducing policies to manage AI-assisted contributions. A recent <a href="https://allthingsopen.org/articles/open-source-ai-contributions-assisted-by-git-trailer-standard" style="color: #650045; font-weight: bold; font-style: italic;">article by All Things Open </a> explores emerging policies, ranging from requiring contributors to disclose AI-generated code (for example, using an *Assisted-by* git commit trailer) to prohibiting AI-generated contributions altogether. The article discusses the trade-offs between transparency, code quality, and contributor responsibility. For a broader overview, you can also browse this <a href="https://github.com/melissawm/open-source-ai-contribution-policies" style="color: #650045; font-weight: bold; font-style: italic;">living list of AI contribution policies</a> adopted by open source projects.
+
+**Closing Time: a workshop on winding down software projects**   
+Not every software project is meant to last forever, but ending one well requires planning. Closing Time is a one-day workshop that introduces practical approaches to winding down software projects, whether the end is planned or comes unexpectedly. Developed by one of the co-founders of the Software Carpentry, the workshop covers topics such as preserving software, documenting decisions and leaving projects in a maintainable state. The workshop materials are open source and contributions are welcome. Learn more about the workshop <a href="https://third-bit.com/closure/" style="color: #650045; font-weight: bold; font-style: italic;">here</a>.
 
 
 ## Get in touch, get involved
