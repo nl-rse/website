@@ -2,7 +2,7 @@
 layout: page
 image: '/img/newsletter-2026-06.jpg'
 title: "NL-RSE Community Newsletter July 2026"
-date: 2026-07-29
+date: 2026-07-28
 ---
 
 <!--break-->
