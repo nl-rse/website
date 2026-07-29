@@ -80,6 +80,13 @@ groups:
     url: https://jasp-stats.org
     contact: mailto:info@jasp-stats.org
 
+  - title: Predictive Clinical Neuroscience Lab @ Donders Institute & RadboudUMC
+    research_goal: The Predictive Clinical Neuroscience Lab develops statistical and machine-learning methods to predict and stratify brain disorders from neuroimaging. Their main contribution is the introduction of normative modelling for brain data, a framework for charting how individual brain measures vary across the lifespan relative to a reference population. Their flagship software project is PCNtoolkit, an open-source Python package for normative modelling.
+    group_size: 5-10
+    group_focus: 20-40%
+    url: https://predictiveclinicalneuroscience.com
+    contact:
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...
