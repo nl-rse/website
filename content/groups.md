@@ -87,6 +87,14 @@ groups:
     url: https://predictiveclinicalneuroscience.com
     contact:
 
+  - title: Software Excellence & Coding Guild @ TNO
+    research_goal: The TNO Coding Guild is a community for everyone involved in developing research software at TNO. Its members work across a wide range of research domains, from Energy & Materials Transition to High Tech Industry to ICT. Established in 2023, the Guild brings together approximately 600 members to share knowledge, collaborate, and promote software engineering best practices across the organization. Software Excellence is a dedicated team of Research Software Engineers at TNO that focus on elevating the quality of in-house software and models. Software Excellence works across the organisation to enhance developmental and organisational processes and procedures.
+    group_size: 20+
+    group_focus: 80+%
+    url:
+    contact: coding-guild@tno.nl
+
+
 #  - title: ...
 #    url: ...
 #    research_goal: ...
