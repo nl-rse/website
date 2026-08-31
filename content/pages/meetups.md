@@ -9,10 +9,14 @@ Topics of the lectures and hands-on workshops range from new developments in pro
 and frameworks to practical tips for research software engineers, and more.
 Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch Research Software Engineers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
 
-## 2025
-* [7 July, 2025](/events/2025-07-07-meetup); NL-RSE meetup and HWAccNL meetup on AI accelerators 
+## 2026
+* [8 October, 2026](/events/2026-10-08-meetup); International RSE Day Celebration
 
 ## Past meetups
+## 2025
+* [25 November, 2025](https://nl-rse.org/pages/nrsd-2025-highlights); National Research Software Day
+* [7 July, 2025](/events/2025-07-07-meetup); NL-RSE meetup and HWAccNL meetup on AI accelerators 
+
 ## 2024
 * [5 November, 2024](/events/2024-11-05-meetup); NL-RSE meetup on differentiable simulation
 * [1 May, 2024](/events/2024-05-01-meetup); NL-RSE Rust meetup
