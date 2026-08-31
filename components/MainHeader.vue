@@ -68,7 +68,7 @@
             recognition of research software.
           </p>
 
-          <NuxtLink to="/pages/nrsd2027/nrsd-2027" transition="none">
+          <NuxtLink to="/pages/nrsd-2027" transition="none">
             <img
               src="~/assets/nrsd2027banner.jpg"
               alt=""
