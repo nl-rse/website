@@ -35,17 +35,34 @@ Discover and download the NL-RSE Logo and branding. <br>
 Artwork crafted with <span class="mr-1">🤍</span> by <a target="_blank" href="https://www.ctwhome.com/">@ctwhome</a>.
 
 ## Download
-See all logos bellow and download SVG file <a target="_blank" href="/resources/logo/NL_RSE Branding and Logo.svg">here</a>.
+See all logos below and download SVG file <a target="_blank" href="/resources/logo/NL_RSE Branding and Logo.svg">here</a>.
 
-<a target="_blank" href="/resources/logo/NL_RSE Branding and Logo.svg">
-  <img src="/resources/logo/NL_RSE Branding and Logo.webp" />
-</a>.
+### Logos
+<div class="grid grid-cols-2 gap-4">
+  <div><img src="/resources/logo/logo-1.png" /></div>
+  <div><img src="/resources/logo/logo-plural.png" /></div>
+  <div><img src="/resources/logo/Artwork 2 - plural.jpg" /></div>
+</div>
 
-## Social media logos
-<div class="flex flex-wrap">
-  <img src="/resources/logo/Social Light.jpg"/>
-  <img src="/resources/logo/Social Dark.jpg"/>
-  <img src="/resources/logo/Social Color-1.jpg"/>
-  <img src="/resources/logo/Social Color.jpg"/>
-  <img src="/resources/logo/Artwork 2 - plural.jpg" />
+### Social media logos
+<div class="grid grid-cols-4 gap-4">
+  <div><img src="/resources/logo/Social Color-1.jpg" /></div>
+  <div><img src="/resources/logo/Social Color.jpg" /></div>
+  <div><img src="/resources/logo/Social Dark.jpg" /></div>
+  <div><img src="/resources/logo/Social Light.jpg" /></div>
+</div>
+
+### Colours
+<div class="grid grid-cols-3 gap-4">
+ <div style="background-color: #621E4B;">_</div>
+ <div style="background-color: #892A69;"></div>
+ <div style="background-color: #111827;"></div>
+ <div><b>#621E4B</b></div>
+ <div><b>#892A69</b></div>
+ <div><b>#111827</b></div>
+</div>
+
+### Font
+<div>
+<b>Titillium Web - Bold (open source font)</b>
 </div>
