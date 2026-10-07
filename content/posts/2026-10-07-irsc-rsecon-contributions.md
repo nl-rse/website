@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Dutch Contributions to IRSC and RSECon26"
-image: '/img/survey2023/thumbnail.jpg'
-date: 2023-05-25
+image: '/img/rsecon26_dutch_community.jpg'
+date: 2026-10-07
 ---
 
 September was a busy month for the international research software community. The first [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/) and the 10th [Research Software Engineering Conference (RSECon26)](https://rsecon26.society-rse.org) took place in Sheffield, UK, bringing together research software engineers, advocates, policy makers and other members of the community from around the world.   
