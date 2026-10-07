@@ -15,16 +15,15 @@ We are happy to highlight the contributions from colleagues in the Netherlands b
 
 ## Contributions at IRSC
 
-### International Perspectives on Sustainability challenges and opportunities in research software training networks
-*Contributors: Eva Lekkerkerker and Fenne Riemslagh, Netherlands eScience Center*   
-[Full abstract](https://docs.google.com/document/d/1drzcAIY2yWg6GGY3nmEnO1mWg1a4QCp77XALlkp8L2c/edit?tab=t.0).   
+<h3 style="color: #650045;">International Perspectives on Sustainability challenges and opportunities in research software training networks</h3>
+*\*Contributors: Eva Lekkerkerker and Fenne Riemslagh, Netherlands eScience Center\**  &#x20;
+*[Full abstract]\([https://docs.google.com/document/d/1drzcAIY2yWg6GGY3nmEnO1mWg1a4QCp77XALlkp8L2c/edit?tab=t.0](https://docs.google.com/document/d/1drzcAIY2yWg6GGY3nmEnO1mWg1a4QCp77XALlkp8L2c/edit?tab=t.0))*  &#x20;    
 
 Research software training is essential for the future of digital research, but training provision can still be fragmented and dependent on individual effort. This session brought together international perspectives on how to build sustainable training networks, support trainers, and develop clearer career and skills pathways for research software professionals.   
 
-
-### Sustaining research software under AI assisted development 
-*Contributors: Colette Bos and Faruk Diblen, Netherlands eScience Center*   
-[Full abstract](https://docs.google.com/document/d/1KlzgpzcSXJweKCexYXC2y6aUYZ-eJ4xwr86xgu1SPus/edit?tab=t.0)   
+<h3 style="color: #650045;">Sustaining research software under AI assisted development&#x20;</h3>
+*\*Contributors: Colette Bos and Faruk Diblen, Netherlands eScience Center\**  &#x20;
+*[Full abstract]\([https://docs.google.com/document/d/1KlzgpzcSXJweKCexYXC2y6aUYZ-eJ4xwr86xgu1SPus/edit?tab=t.0](https://docs.google.com/document/d/1KlzgpzcSXJweKCexYXC2y6aUYZ-eJ4xwr86xgu1SPus/edit?tab=t.0))*  &#x20;
 
 How is generative AI changing the way research software is developed, and what does this mean for sustaining software over the long term? This session explored these questions and gathered perspectives on the changing roles of people involved in research software, arguing for disciplined coordination, AI provenance and careful human verification.   
 
