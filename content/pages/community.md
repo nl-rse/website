@@ -4,7 +4,7 @@ title: Community
 ---
 # Community
 
-Established in 2017, the NL-RSE community is formed by more than 200 Research Software Engineers across all Dutch universities, university medical centers, research institutes and other research related organizations.
+Established in 2017, the NL-RSE community brings together more than 450 research software engineers, advocates, policymakers, and enthusiasts from across The Netherlands. Our members work at universities, university medical centers, research institutes, other research organizations, and in industry.
 
 Do you want to become a member of NL-RSE, [sign up here](/pages/join)! See below the list of institutes across the country where RSEs are working and have already joined NL-RSE.
 
