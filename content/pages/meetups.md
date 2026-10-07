@@ -3,7 +3,7 @@ layout: page
 title: NL-RSE Meetups
 ---
 
-We organise frequent NL-RSE meetups to encourage collaboration and communication between Research Software Engineers in the Netherlands.
+We organise frequent NL-RSE meetups to encourage collaboration and communication between members of our community.
 
 Topics of the lectures and hands-on workshops range from new developments in programming languages
 and frameworks to practical tips for research software engineers, and more.
