@@ -5,9 +5,7 @@ title: NL-RSE Meetups
 
 We organise frequent NL-RSE meetups to encourage collaboration and communication between members of our community.
 
-Topics of the lectures and hands-on workshops range from new developments in programming languages
-and frameworks to practical tips for research software engineers, and more.
-Speakers are usually but not exclusively members of the NL-RSE community (i.e. Dutch Research Software Engineers). The agenda of the meeting leaves plenty of time for participants to interact with each other.
+Meetups feature talks and hands-on workshops on a wide range of topics, from programming languages and software development practices to reproducible research and the professional development of RSEs. 
 
 ## 2026
 * [8 October, 2026](/events/2026-10-08-meetup); International RSE Day Celebration

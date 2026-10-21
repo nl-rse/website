@@ -4,42 +4,46 @@ title: Community
 ---
 # Community
 
-Established in 2017, the NL-RSE community brings together more than 450 research software engineers, advocates, policymakers, and enthusiasts from across The Netherlands. Our members work at universities, university medical centers, research institutes, other research organizations, and in industry.
+Established in 2017, the NL-RSE community brings together more than 450 research software engineers, advocates, policymakers, and enthusiasts from across the Netherlands. Our members work at universities, university medical centers, research institutes, other research organizations, and in industry.
 
-Do you want to become a member of NL-RSE, [sign up here](/pages/join)! See below the list of institutes across the country where RSEs are working and have already joined NL-RSE.
+Do you want to become a member of NL-RSE? [Sign up here](/pages/join)! See below the list of institutes across the country where RSEs are working and have already joined NL-RSE.
 
 ### NL-RSE Meetups
 
-The NL-RSE meets on regular basis, every two months on average.
+NL-RSE meetups offer opportunities to share knowledge and connect with others in the community. Each meetup is organised around a topic relevant to the research software community.  
 
-Please find more information on [Meetups page](meetups)
+Find out more about past and upcoming events on the [Meetups page](meetups).
+
+### National Research Software Day
+
+National Research Software Day is a conference organised by NL-RSE in collaboration with a host institution. It showcases research software projects and practices, highlights the contributions of research software engineers, and raises awareness of the role of software in research.
+
+Learn more about the upcoming edition on the [National Research Software Day 2027 page](nrsd-2027).
 
 ### NL-RSE Core Team
 
-The community is represented and driven by [the NL-RSE Core Team](/core-team).
+The [NL-RSE Core Team](/core-team) helps drive and support the community, coordinating activities and creating opportunities for research software engineers across the Netherlands to connect and collaborate.
 
-If you would also like to get involved actively within NL-RSE, please send an email to info@nl-rse.org.
+Contact the core team via info@nl-rse.org.
 
 # Communication
-Once you have [joined the mailinglist](https://lists.nl-rse.org/mailman/listinfo/everyone), there are several options for getting involved with the dynamic and friendly
-Research Software Engineers community:
+There are several ways to connect with the friendly and dynamic Dutch RSE community and share information with its members.
 
 ### Join the discussion
 
-Take part in the discussion in the #netherlands channel on the [RSE Slack Group](https://ukrse.slack.com)! You can request access to the slack group
-[using this form](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1).
+Take part in the discussion in the #netherlands channel on the [RSE Slack Workspace](https://ukrse.slack.com)! You can request access via [this form](https://www.google.com/url?q=https://society-rse.org/links/slack-request&sa=D&source=editors&ust=1792593473288005&usg=AOvVaw0IiBr0-VJmyiCD6HhZliDw).
 
-### Announce something to the whole community
+### Share something in the newsletter
 
-Send any announcements and job postings to everyone@lists.nl-rse.org for distribution to the entire mailing list (subject to moderation)
+The NL-RSE monthly newsletter is the best way to share announcements, events, job openings, and other news with the community.
 
-### Newsletter
-Do you have an upcoming event, job opening or other news to share with the community? [Add it](https://forms.gle/D19m9eLnXkPNK2Tt5) to the next issue of our newsletter!
+We use GitHub Issues to coordinate newsletter contributions. To submit an item, leave a comment on the relevant [newsletter issue](https://github.com/nl-rse/website/issues?q=is%3Aissue+state%3Aopen+label%3Anewsletter). The expected publication date and contribution deadline are listed in the issue description.
 
+Do you have an urgent announcement that cannot wait until the next newsletter? You can email everyone@lists.nl-rse.org. Messages are subject to moderation.
 
 ### Contact the Core Team
 
-Would you like to share something during our next [meetup](/pages/meetups)? Email info@nl-rse.org to get in contact with the NL-RSE committee and conference organisers
+Have a question, suggestion, or idea for the community? Want to propose an activity or initiative? Contact the NL-RSE Core Team at info@nl-rse.org.
 
 ## List of institutes where RSEs have joined NL-RSE
 
