@@ -57,4 +57,5 @@ The report from the [_Research Software Engineering in the Age of Generative AI:
 * Have something to share in a future edition of this newsletter? Submit it via [_GitHub_](https://github.com/nl-rse/website/issues?q=is%3Aissue%20state%3Aopen%20label%3Anewsletter).
 * Are you part of a team that develops research software? Add your team to our Groups page by filling out this [_GitHub form_](https://github.com/nl-rse/website/issues/new?labels=group&projects=&template=rse-group.yml) (requires a GitHub account).
 * Chat with the community on Slack in the _#netherlands_ channel of the [_UKRSE workspace_](https://www.google.com/url?q=https://society-rse.org/links/slack-request&sa=D&source=editors&ust=1782758125935037&usg=AOvVaw0cnqIo50h2j9EI4oSHbHgj).
+* Find us on [LinkedIn](https://www.linkedin.com/company/nl-rse).
 * Get in touch with the NL-RSE core team via [_info@nl-rse.org_](mailto:info@nl-rse.org).
