@@ -29,6 +29,13 @@ Research software training is essential for the future of digital research, but 
 
 How is generative AI changing the way research software is developed, and what does this mean for sustaining software over the long term? This session explored these questions and gathered perspectives on the changing roles of people involved in research software, arguing for disciplined coordination, AI provenance and careful human verification.   
 
+<h3 style="color: #650045;">The International RSE Survey: infrastructure for international collaboration</h3>
+
+*Contributor: Thomas Pronk, Amsterdam UMC*   
+[Full abstract](https://docs.google.com/document/d/1aAiKDoZbwNu3q7NxKB-6ER57YBsDnxtai_aE7fFxMZ4/edit?tab=t.0#bookmark=kix.mqq1aa6lk3kg)    
+
+The 2026 RSE Survey brings together nearly 1,000 responses from 54 countries, marking ten years of international data collection on research software communities. This talk examines how national and regional RSE associations balanced shared survey goals with local priorities, and considers lessons for future iterations.
+
 <h3 style="color: #650045;">Committing to Sustainable Research Software with ADORE</h3>
 
 *Contributors: Lieke de Boer, ZonMw; Marta Teperek, NWO; and Carlos Martinez-Ortiz, Netherlands eScience Center*   
