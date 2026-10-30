@@ -106,4 +106,9 @@ Coding Confessions creates a space for RSEs to talk openly about mistakes, failu
 
 The TU Delft Digital Competence Centre and 4TU.ResearchData have developed a reproducibility check service that helps researchers test whether published computational results can be reproduced from their shared software and data. The contribution shared experiences from the pilot, including common challenges, ways of engaging researchers and opportunities to build communities of practice around reproducibility checking.
 
+<h3 style="color: #650045;">RSEs: Researchers or Engineers</h3>
 
+*Contributors: Carsten Schnober, Netherlands eScience Center*   
+[Lightning talk](https://virtual.oxfordabstracts.com/event/76908/session/233980)     
+
+A representative survey at the NL eScience Center investigates: how do RSEs position themselves? How does it differ with their employer's expectation? What do they strive for?
