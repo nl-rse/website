@@ -42,6 +42,8 @@ export default {
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
     enabled: process.env.NODE_ENV === 'production',
+    // Keep the resource grids when Markdown content is loaded at runtime.
+    safelist: ['grid', 'grid-cols-2', 'grid-cols-3', 'grid-cols-4', 'gap-4'],
     content: [
       'content/**/*.md',
       'components/**/*.{vue,js}',
