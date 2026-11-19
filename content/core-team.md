@@ -27,6 +27,7 @@ members:
     image: /img/core-team/nestor.jpg
     desc: Néstor is a central Software Steward at the University of Twente (UT) Digital Competence Centre. He develops training and supports the adoption of policies, guidelines, and best practices in research software (RS) at UT. He also integrates relevant networks and state-of-the-art RS knowledge at UT to facilitate the development of higher-quality, open-source RS.
 
+
 past:
   - name: Mohsen Safari
     organization: SURF
@@ -75,4 +76,15 @@ past:
 
   - name: Ben van Werkhoven
     organization: Netherlands eScience Center
+
+event_photos:
+  - image: /img/core-team/coreteam_irseday26.jpeg
+    alt: NL-RSE core team at the International RSE Day 2026 celebration
+    title: International RSE Day 2026 celebration.
+    people: "LR: Mohsen, Nan, Yasel, Thomas, Yan and Fenne"
+
+  - image: /img/core-team/coreteam_nrsd25.jpg
+    alt: NL-RSE core team at National Research Software Day 2025
+    title: National Research Software Day 2025
+    people: "LR: Yasel, Daan, Yan, Rena and Thomas"
 ---
