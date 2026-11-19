@@ -75,4 +75,13 @@ past:
 
   - name: Ben van Werkhoven
     organization: Netherlands eScience Center
+
+event_photos:
+  - image: /img/core-team/coreteam_irseday26.jpeg
+    alt: NL-RSE core team at IRSEday 2026
+    caption: IRSEday 2026
+
+  - image: /img/core-team/coreteam_nrsd25.jpg
+    alt: NL-RSE core team at NRSD 2025
+    caption: NRSD 2025
 ---
