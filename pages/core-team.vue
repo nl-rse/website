@@ -3,9 +3,7 @@
     <div class="container mx-auto mb-16 w-full text-center">
       <div class=" mt-10 max-w-4xl mx-auto text-left prose">
         <p>
-          The NL-RSE core team is a group of volunteers who take responsibility for running the network (organising its events and activities).
-          They have regular (monthly) meetings to discuss any outstanding issues, provide input for the content of meetups and newsletters. The team consists of a chair, delegates & a secretariat.
-          If you are interested in supporting Research Software Engineering in the Netherlands, consider <a href="mailto:info@nl-rse.org">joining the team</a>.
+          The NL-RSE core team is a group of volunteers who coordinate and support the network and its activities. They work together to strengthen the research software engineering community in the Netherlands by organising events, facilitating knowledge exchange and fostering connections.
         </p>
       </div>
       <h2 class="mt-6 text-3xl lg:text-4xl font-bold font-heading mt-10">
