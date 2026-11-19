@@ -63,23 +63,24 @@
           </h2>
         </a>
         <div class="flex flex-wrap -mx-4 items-end">
-          <div class="w-full lg:w-3/5 px-4">
+          <div class="w-full lg:w-1/2 px-4">
             <ul>
               <li v-for="(member,key) in members.past" :key="key" class="mb-2 list-disc ml-4">
                 <span class="font-bold">{{ member.name }},</span> {{ member.organization }}
               </li>
             </ul>
           </div>
-          <div v-if="!!members.event_photos" class="w-full lg:w-2/5 px-4 mt-8 lg:mt-0">
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div v-if="!!members.event_photos" class="w-full lg:w-1/2 px-4 mt-8 lg:mt-0">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <figure v-for="(photo,key) in members.event_photos" :key="key">
                 <img
-                  class="w-full h-64 rounded shadow object-cover object-center"
+                  class="w-full h-96 rounded shadow object-contain object-center bg-gray-100"
                   :src="photo.image"
                   :alt="photo.alt"
                 >
-                <figcaption class="mt-2 text-sm text-gray-600 text-center">
-                  {{ photo.caption }}
+                <figcaption class="mt-3 text-sm text-gray-700 text-left leading-relaxed">
+                  <span class="block">{{ photo.title }}</span>
+                  <span class="block">{{ photo.people }}</span>
                 </figcaption>
               </figure>
             </div>
