@@ -8,7 +8,7 @@ We organise frequent NL-RSE meetups to encourage collaboration and communication
 Meetups feature talks and hands-on workshops on a wide range of topics, from programming languages and software development practices to reproducible research and the professional development of RSEs. 
 
 ## Upcoming
-* There are currently no upcoming events.
+* [20 April, 2027](/pages/nrsd-2027); National Research Software Day 
 
 ## Past meetups
 ### 2026
