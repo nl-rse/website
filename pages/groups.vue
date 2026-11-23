@@ -17,7 +17,7 @@
     </div>
     <section class="container mx-auto flex flex-wrap pb-20">
       <div
-        v-for="(group,index) in groups.groups"
+        v-for="(group,index) in groups?.groups"
         :key="index"
         class="p-4 w-full sm:w-1/2 lg:w-1/3"
       >
@@ -41,21 +41,11 @@
   </div>
 </template>
 
-<script>
-import ReadMore from '~/components/ReadMore.vue'
-export default {
-
-  transition: 'fade',
-  async asyncData ({ $content, params }) {
-    const groups = await $content('groups')
-      .fetch()
-
-    return {
-      groups
-    }
-  },
-  methods: {}
-}
+<script setup>
+// Fetch groups data
+const { data: groups } = await useAsyncData('groups', () =>
+  queryContent('groups').findOne()
+)
 </script>
 
 <style scoped>

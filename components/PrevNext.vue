@@ -2,7 +2,7 @@
   <div class="flex justify-between gap-10">
     <NuxtLink
       v-if="next"
-      :to="next.slug"
+      :to="next._path || next.slug"
       class="font-bold hover:underline"
     >
       ← {{ next.title }}
@@ -10,7 +10,7 @@
     <span v-else>&nbsp;</span>
     <NuxtLink
       v-if="prev"
-      :to="prev.slug"
+      :to="prev._path || prev.slug"
       class="text-primary font-bold hover:underline"
     >
       {{ prev.title }} →

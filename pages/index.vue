@@ -5,25 +5,21 @@
     <main-footer />
   </div>
 </template>
-<script>
-export default {
-  transition: "fade",
-  async asyncData({ $content, params }) {
-    // blog list
-    const posts = await $content("posts")
-      .limit(4)
-      .sortBy("date", "desc")
-      .fetch();
 
-    const events = await $content("events")
-      .limit(6)
-      .sortBy("date", "desc")
-      .fetch();
+<script setup>
+// Fetch posts and events using Nuxt 3 Content API
+const { data: posts } = await useAsyncData('home-posts', () =>
+  queryContent('posts')
+    .sort({ date: -1 })
+    .limit(4)
+    .find()
+)
 
-    return {
-      posts,
-      events,
-    };
-  },
-};
+const { data: events } = await useAsyncData('home-events', () =>
+  queryContent('events')
+    .sort({ date: -1 })
+    .limit(6)
+    .find()
+)
 </script>
+

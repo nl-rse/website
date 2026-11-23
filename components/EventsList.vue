@@ -10,7 +10,7 @@
         <nuxt-link
           v-for="(event,index) in events"
           :key="index"
-          :to="event.path"
+          :to="event._path"
           class="flex mb-6 w-full rounded-lg transition  hover:border hover:border-gray-200"
         >
           <img class="w-1/4 rounded-tl rounded-bl object-cover" :src="event.image" :alt="event.title">
@@ -25,7 +25,7 @@
           </div>
         </nuxt-link>
         <div class="flex justify-end">
-          <nuxt-link class="btn btn-outline btn-sm hover:bg-primary" to="event">
+          <nuxt-link class="btn btn-outline btn-sm hover:bg-primary" to="/event">
             More events
           </nuxt-link>
         </div>

@@ -7,7 +7,7 @@
         <div
           class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 sm:flex sm:mx-auto sm:items-center sm:space-x-6"
         >
-          <div v-for="item in menu.items" :key="item.path">
+          <div v-for="item in menu?.items" :key="item.path">
             <nuxt-link
               class="text-sm text-gray-300 hover:text-white"
               :to="item.path"
@@ -17,16 +17,15 @@
           </div>
         </div>
         <!-- menu-->
-        <responsive-menu ref="menu">
+        <responsive-menu ref="menuRef">
           <div class="p-6">
-            <Logo @click.native="$refs.menu.close" />
+            <Logo @click="closeMenu" />
             <div class="mt-10">
-              <div v-for="item in menu.items" :key="item.path" class="mt-3">
+              <div v-for="item in menu?.items" :key="item.path" class="mt-3">
                 <nuxt-link
                   class="text-sm text-gray-300 hover:text-white"
                   :to="item.path"
-                  @click.native="$refs.menu.close"
-                  @click="$refs.menu.close()"
+                  @click="closeMenu"
                 >
                   {{ item.title }}
                 </nuxt-link>
@@ -52,7 +51,7 @@
 
     <!--       header only if in the page main-->
     <div class="relative pt-12 bg-gray-900 border-b-4 border-primary">
-      <div v-show="$route.path == '/'" class="container mx-auto px-4">
+      <div v-show="route.path == '/'" class="container mx-auto px-4">
         <div class="max-w-2xl mx-auto text-center mb-12 sm:mb-20">
           <h2
             class="mt-10 mb-10 text-4xl lg:text-5xl text-gray-50 font-bold slidein-animation"
@@ -154,18 +153,21 @@
   </section>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      showVideo: false,
-      menu: [],
-    };
-  },
-  async fetch() {
-    this.menu = await this.$content("menu-items").fetch();
-  },
-};
+<script setup>
+const route = useRoute()
+const showVideo = ref(false)
+const menuRef = ref(null)
+
+// Fetch menu items
+const { data: menu } = await useAsyncData('menu-items', () =>
+  queryContent('menu-items').findOne()
+)
+
+const closeMenu = () => {
+  if (menuRef.value && menuRef.value.close) {
+    menuRef.value.close()
+  }
+}
 </script>
 
 <style>

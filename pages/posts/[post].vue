@@ -39,34 +39,37 @@
         <!-- table of contents -->
         <nav class="pb-6" />
         <!-- content from markdown -->
-        <nuxt-content :document="post" class="prose prose-purple" />
+        <ContentRenderer :value="post" class="prose prose-purple" />
         <!-- prevNext component -->
         <PrevNext :prev="prev" :next="next" class="mt-8" />
       </div>
     </div>
   </article>
 </template>
-<script>
-export default {
-  transition: 'fade',
-  async asyncData ({ $content, params }) {
-    const post = await $content('posts', params.post).fetch()
-    const [prev, next] = await $content('posts')
-      .only(['title', 'post'])
-      .sortBy('createdAt', 'asc')
-      .surround(params.post)
-      .fetch()
-    return {
-      post,
-      prev,
-      next
-    }
-  },
-  methods: {
-    formatDate (date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
-    }
-  }
+
+<script setup>
+const route = useRoute()
+
+// Fetch the specific post
+const { data: post } = await useAsyncData(`post-${route.params.post}`, () =>
+  queryContent('posts', route.params.post).findOne()
+)
+
+// Fetch surrounding posts for prev/next navigation
+const { data: surroundPosts } = await useAsyncData(`surround-${route.params.post}`, () =>
+  queryContent('posts')
+    .only(['title', '_path'])
+    .sort({ date: -1 })
+    .findSurround(route.path)
+)
+
+const prev = computed(() => surroundPosts.value?.[0])
+const next = computed(() => surroundPosts.value?.[1])
+
+// Helper function for date formatting
+const formatDate = (date) => {
+  const options = { year: 'numeric', month: 'long', day: 'numeric' }
+  return new Date(date).toLocaleDateString('en', options)
 }
 </script>
+
