@@ -12,7 +12,7 @@
     </div>
     <section class="container mx-auto flex flex-wrap pb-20">
       <div
-        v-for="(member,index) in members.members"
+        v-for="(member,index) in members?.members"
         :key="index"
         class="p-4 w-full sm:w-1/2 lg:w-1/3"
       >
@@ -30,7 +30,7 @@
         </div>
       </div>
 
-      <div v-if="!!members.secretary" id="secretariat" class="p-4">
+      <div v-if="!!members?.secretary" id="secretariat" class="p-4">
         <a href="/core-team#secretariat">
           <h2 class="text-2xl font-bold mt-10">
             NL-RSE secretariat
@@ -54,7 +54,7 @@
         </div>
       </div>
 
-      <div v-if="!!members.past" id="past-core-team" class="w-full p-4">
+      <div v-if="!!members?.past" id="past-core-team" class="w-full p-4">
         <a href="/core-team#past-core-team">
           <h2 class="text-2xl font-bold my-10">
             Past Core Team members
@@ -91,25 +91,11 @@
   </div>
 </template>
 
-<script>
-export default {
-
-  transition: 'fade',
-  async asyncData ({ $content, params }) {
-    const members = await $content('core-team')
-      .fetch()
-
-    return {
-      members
-    }
-  },
-  methods: {
-    formatDate (date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
-    }
-  }
-}
+<script setup>
+// Fetch core team members data
+const { data: members } = await useAsyncData('core-team', () =>
+  queryContent('core-team').findOne()
+)
 </script>
 
 <style scoped>

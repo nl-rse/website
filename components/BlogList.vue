@@ -14,7 +14,7 @@
               :key="index"
               class="mb-6 w-full md:w-1/2 lg:w-1/4 px-3"
             >
-              <nuxt-link :to="post.path">
+              <nuxt-link :to="post._path">
                 <div class="rounded overflow-hidden transition shadow hover:shadow-lg">
                   <img class="w-full max-h-48 lg:h-48 rounded-t object-cover" :src="post.image" :alt="post.title">
                   <div class="p-6 rounded-b bg-white">
@@ -32,7 +32,7 @@
           </div>
         </div>
         <div>
-          <nuxt-link v-if="more" class="btn hover:bg-primary" to="blog">
+          <nuxt-link v-if="more" class="btn hover:bg-primary" to="/blog">
             View More Articles
           </nuxt-link>
         </div>

@@ -7,24 +7,18 @@
   </div>
 </template>
 
-<script>
-export default {
-  transition: 'fade',
-  async asyncData ({ $content, params }) {
-    // blog list
-    const posts = await $content('posts')
-      .sortBy('date', 'desc')
-      .fetch()
-    return {
-      posts
-    }
-  },
-  methods: {
-    formatDate (date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
-    }
-  }
+<script setup>
+// Fetch all blog posts
+const { data: posts } = await useAsyncData('blog-posts', () =>
+  queryContent('posts')
+    .sort({ date: -1 })
+    .find()
+)
+
+// Helper function for date formatting
+const formatDate = (date) => {
+  const options = { year: 'numeric', month: 'long', day: 'numeric' }
+  return new Date(date).toLocaleDateString('en', options)
 }
 </script>
 

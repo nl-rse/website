@@ -9,11 +9,11 @@
       <ul class="flex flex-wrap">
         <li
           v-for="article of articles"
-          :key="article.slug"
+          :key="article._path"
           class="xs:w-full md:w-1/4 px-2 xs:mb-6 md:mb-12 article-card"
         >
           <NuxtLink
-            :to="'/events/'+article.slug"
+            :to="article._path"
             class="flex flex-col rounded transition-shadow duration-150 ease-in-out shadow hover:shadow-lg"
           >
             <img
@@ -40,24 +40,18 @@
   </div>
 </template>
 
-<script>
-export default {
+<script setup>
+// Fetch all events
+const { data: articles } = await useAsyncData('events', () =>
+  queryContent('events')
+    .sort({ date: -1 })
+    .find()
+)
 
-  transition: 'fade',
-  async asyncData ({ $content, params }) {
-    const articles = await $content('events')
-      .sortBy('date', 'desc')
-      .fetch()
-    return {
-      articles
-    }
-  },
-  methods: {
-    formatDate (date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
-    }
-  }
+// Helper function for date formatting
+const formatDate = (date) => {
+  const options = { year: 'numeric', month: 'long', day: 'numeric' }
+  return new Date(date).toLocaleDateString('en', options)
 }
 </script>
 
